@@ -1,7 +1,7 @@
 TextBelowVersionText:Wersja rozwojowa, nie dostepna publicznie
-HostText:<color=#333333>[</color><color=#ff0000>HOST, MODY</color><color=#333333>]</color>
-HostColor:#ffffff
-IconColor:#ffffff
+HostText:#ffbad2[#fd9bbdH#fb7ca9O#f95d94S#f63e7fT#f41f6b,#f20056 #ea2969M#e1537cO#d97c8eD#d0a6a1Y#c8cfb4]
+HostColor:#fc91b6
+IconColor:#e24e79
 Icon:♥
 HideHostText:Ukryj napis'Host♥' 
 NameColor:#ffffff
@@ -295,7 +295,7 @@ VengefulRomantic:Vengeful Romantic
 RuthlessRomantic:Ruthless Romantic
 Poisoner:Poisoner
 HexMaster:Hex Master
-Wraith:Wraith
+Wraith:Widmo
 Jinx:Jinx
 PotionMaster:Potion Master
 Necromancer:Necromancer
@@ -722,7 +722,7 @@ VengefulRomanticInfo:Revenge your partner to win together
 RuthlessRomanticInfo:Kill everyone to win with your partner
 PoisonerInfo:Kill everyone with delayed kills
 HexMasterInfo:Hex players to kill them in meetings
-WraithInfo:Vent to temporarily go invisible
+WraithInfo:Zwentuj aby chwilowo stac sie niewidzialnym
 JinxInfo:Reflect attacks onto your attackers
 PotionMasterInfo:Use your potions to your advantage
 NecromancerInfo:Kill crewmates after death using ghouls
@@ -1015,7 +1015,7 @@ RuthlessRomanticInfoLong:(Neutrals):\nYou change your roles from Romantic if you
 VengefulRomanticInfoLong:(Neutrals):\nYou change your roles from Romantic if your partner (A crew or non neutral killer) is killed. As a Vengeful Romantic, Your goal is to avenge your partner, which means you have to kill the killer of your partner. If you succeed to do so, the Both you and your partner win with the winning team at the end. If you try to kill someone other than your partner's killer, then the you will die by misfire.
 PoisonerInfoLong:(Coven):\nAs the Poisoner, your kills are delayed.\nKill everyone to win.
 HexMasterInfoLong:(Coven):\nAs the Hex Master, you can hex players or kill them.\nHexing a player works the same as spelling as a Spellcaster.
-WraithInfoLong:(Coven):\nAs the Wraith, you can use vents to temporarily go invisible.\nDue to vents toggling your ability to go invisible, you cannot vent.\nTrying to vent while invisible will cause you to become visible again.\nEven when on cooldown, you cannot vent.\n\nKill everyone to win.
+WraithInfoLong:(Coven):\nJako Widmo, mozesz korzystac z wentow, aby chwilowo stac sie niewidzialnym.\nPrzez to, ze wenty maja daja Ci specjalna umiejetnosc, nie jestes w stanie normalnie z nich korzystac.\nProba zwentowania w momencie gdy jestes niewidzialny spowoduje ze staniesz sie widzialny.\nNawet gdy masz cooldown, nie mozesz wentowac.\n\nZabij wszystkich aby wygrac.
 JinxInfoLong:(Coven):\nAs the Jinx, whenever you are attacked, you jinx them, resulting in them dying to a jinx.\nThis has limited uses.\n\nKill off everyone to win.
 PotionMasterInfoLong:(Coven):\nAs the Potion Master, you have three potions assigned to three different actions.\n\nSingle click: Reveal role\nDouble click: Kill\nMap: Sabotage\n\nThe reveal potion has a limit.\nWhen you run out, the kill buttons defaults to killing.
 NecromancerInfoLong:(Coven):\nAs the Necromancer, you don't have any abilities while alive.\n\nBut after dying, you can use necromanced ghouls on players to murder them.
@@ -1119,7 +1119,7 @@ GrenadierSkillMaxOfUseage:(Initial) Max number of Grenades
 ShowSpecificRole:Know specific roles on Task Completion
 TimeMasterMaxUses:(Initial) Max Amount of Ability Uses
 SwooperVentNormallyOnCooldown:<color=#ff1919>Swooper</color> vents normally when swooping is on cooldown
-WraithVentNormallyOnCooldown:<color=#4b0082>Wraith</color> vents normally when invis is on cooldown
+WraithVentNormallyOnCooldown:<color=#4b0082>Widmo</color> moze wentowac normalnie podczas cooldownu
 DisableMeeting:Wylacz meetingi
 DisableCloseDoor:Wylacz sabotaz drzwi
 DisableSabotage:Wylacz sabotaz
@@ -1794,8 +1794,8 @@ JudgeCanTrialCharmed:Can trial <color=#cf6acd>Charmed</color> players
 VeteranSkillMaxOfUseage:Max number of Alerts
 SwooperCooldown:Czas odnowienia niewidzialnosci
 SwooperDuration:Czas trwania niewidzialnosci
-WraithCooldown:Vanish Cooldown
-WraithDuration:Vanish Duration
+WraithCooldown:Cooldown Niewidzialnosci
+WraithDuration:Czas trwania niewidzialnosci
 BastionNotify:A bomb was set off
 EnteredBombedVent:That vent was bombed!
 BastionVentButtonText:Bomb
@@ -2500,8 +2500,8 @@ DefaultRevertShapeshiftText:Przywroc
 CleanerReportButtonText:Czysc
 SwooperVentButtonText:Swoop
 SwooperRevertVentButtonText:Expose
-WraithVentButtonText:Vanish
-WraithRevertVentButtonText:Expose
+WraithVentButtonText:Zniknij
+WraithRevertVentButtonText:Pokaz sie
 VectorVentButtonText:Hop
 VeteranVentButtonText:Alert
 GrenadierVentButtonText:Flash
@@ -3451,7 +3451,7 @@ WinnerRoleText.Poisoner:Poisoner Wins!
 WinnerRoleText.Huntsman:Huntsman Wins!
 WinnerRoleText.HexMaster:Hex Master Wins!
 WinnerRoleText.Succubus:Cultist Wins!
-WinnerRoleText.Wraith:Wraith Wins!
+WinnerRoleText.Wraith:Widmo Wygrywa!
 WinnerRoleText.SerialKiller:Serial Killers Win!
 WinnerRoleText.Juggernaut:Juggernaut Wins!
 WinnerRoleText.Infectious:Infectious Wins!
