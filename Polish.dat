@@ -1,4 +1,3 @@
-TextBelowVersionText:Wersja rozwojowa, nie dostepna publicznie
 HostText:<color=#ffbad2>[</color><color=#fd9bbd>H</color><color=#fb7ca9>O</color><color=#f95d94>S</color><color=#f63e7f>T</color><color=#f41f6b>,</color><color=#f20056> </color><color=#ea2969>M</color><color=#e1537c>O</color><color=#d97c8e>D</color><color=#d0a6a1>Y</color><color=#ffbad2>]</color>
 HostColor:#fc91b6
 IconColor:#e24e79
@@ -8,10 +7,10 @@ NameColor:#fc91b6
 kofi:Ko-Fi
 update:Update
 GitHub:GitHub
-Patreon:Patreon
 Discord:Discord
 Website:Strona internetowa
 PlayerNameForRoleInfo:Czesc {0}, Twoja rola to:- \n
+HostIconInMeeting:HOST: {0}
 SubText.Crewmate:Znajdz i wyrzuc <color=#ff1919>Impostorow</color>
 SubText.Impostor:Sabotuj i zabij wszystkich
 SubText.Neutral:Pracuj sam/a, aby osiagnac swoje zwyciestwo
@@ -29,28 +28,23 @@ YouAreCrewmate:Jestes Niewinnym
 YouAreImpostor:Jestes Impostorem
 YouAreNeutral:Jestes Neutralnym
 YouAreMadmate:Jestes Zly
-CrewmateSub:Znajdz i wyrzuc <color=#ff1919>Impostorow</color>
-ImpostorSub:Sabotuj i zabijaj wszystkich
-NeutralSub:Pracuj sam/a, aby osiagnac swoje zwyciestwo
-MadmateSub:Pomoz <color=#ff1919>Impostorom</color>
-Role.Crewmate:<color=#8cffff>Niewinny</color>
-Role.Jester:<color=#ec62a5>Blazen</color>
-Role.Opportunist:<color=#4dff4d>Oportunista</color>
-Role.Convict:<color=#ff1919>Skazaniec</color>
-Role.Celebrity:<color=#ee4a55>Celebryta</color>
-Role.Bodyguard:<color=#185abd>Ochroniarz</color>
-Role.Dictator:<color=#df9b00>Dyktator</color>
-Role.Mayor:<color=#204d42>Burmistrz</color>
-Role.Doctor:<color=#80ffdd>Doktor</color>
-Role.Maverick:<color=#781717>Samotnik</color>
-Role.Pursuer:<color=#617218>Pursuer</color>
-Role.Follower:<color=#ff9409>Follower</color>
-Role.Amnesiac:<color=#7FBFFF>Amnesiac</color>
-Role.Sheriff:<color=#ffb347>Szeryf</color>
-Role.Knight:<color=#7A7A7A>Rycerz</color>
-Role.Deputy:<color=#DF9026>Podkomisarz</color>
-Role.Imitator:<color=#B3D94C>Imitator</color>
-Role.NoChange:Nie zmieniaj roli
+Role_Crewmate:<color=#8cffff>Crewmate</color>
+Role_Jester:<color=#ec62a5>Jester</color>
+Role_Opportunist:<color=#4dff4d>Opportunist</color>
+Role_Celebrity:<color=#ee4a55>Celebrity</color>
+Role_Bodyguard:<color=#185abd>Bodyguard</color>
+Role_Dictator:<color=#df9b00>Dictator</color>
+Role_Mayor:<color=#204d42>Mayor</color>
+Role_Doctor:<color=#80ffdd>Doctor</color>
+Role_Maverick:<color=#781717>Maverick</color>
+Role_Pursuer:<color=#617218>Pursuer</color>
+Role_Follower:<color=#ff9409>Follower</color>
+Role_Amnesiac:<color=#7FBFFF>Amnesiac</color>
+Role_Imitator:<color=#B3D94C>Imitator</color>
+Role_Sheriff:<color=#ffb347>Sheriff</color>
+Role_Knight:<color=#7A7A7A>Knight</color>
+Role_Deputy:<color=#DF9026>Deputy</color>
+Role_NoChange:Don't change the role
 CrewmatesCanGuess:<color=#8cffff>Niewinni</color> moga zgadywac
 ImpostorsCanGuess:<color=#ff1919>Impostorzy</color> moga zgadywac
 NeutralKillersCanGuess:<color=#7f8c8d>Neutralni Zabojcy</color> moga zgadywac
@@ -59,46 +53,43 @@ CanGuessAddons:Moga Odgadnac Modyfikacje
 ShowOnlyEnabledRolesInGuesserUI:Pokazuj tylko wlaczone role na interfejsie Trybu Zgadywania
 CrewCanGuessCrew:<color=#8cffff>Niewinny</color> Moze Zgadywac Role <color=#8cffff>Niewinnych</color>
 ImpCanGuessImp:<color=#ff1919>Impostor</color> Moze Zgadywac Role <color=#ff1919>Impostorow</color>
-ClaimAddonSettings:Mozna odgadnac Modyfikacje, ktore mozna otrzymac
-BetrayalAddonSettings:Moga odgadnac Zdradzieckie modyfikacje
-ImpOnlyAddonSettings:Moga odgadnac <color=#ff1919>Impostorskie</color> modyfikacje
-CrewOnlyAddonSettings:Moga odgadnac <color=#8cffff>Niewinne</color> modyfikacje
-NeutralAddonSettings:Moga odgadnac <color=#7f8c8d>Neutralne</color> modyfikacje
-BasicAddonSettings:Moze zgadywac Globalne modyfikacje
-AddonSettingsCrew:Konfiguracja <color=#8cffff>Niewinnych</color>
-AddonSettingsImp:Konfiguracja <color=#ff1919>Impostorow</color>
-AddonSettingsNeut:Konfiguracja <color=#7f8c8d>Neutrali</color>
+GuessImmune:Sorry, but target is immune to being guessed!
 GM:Mistrz Gry
 Sunnyboy:Sloneczko
 Bard:Poeta
-Nuker:Atomowka
 Crewmate:Niewinny
 CrewmateTOHE:Crewmate
 Engineer:Inzynier
 EngineerTOHE:Inzynier
 Scientist:Naukowiec
 ScientistTOHE:Naukowiec
+Noisemaker:Noisemaker
+NoisemakerTOHE:Noisemaker
+Tracker:Tracker
+TrackerTOHE:Tracker
 GuardianAngel:Aniol Stroz
 GuardianAngelTOHE:Aniol Stroz
 Impostor:Impostor
 ImpostorTOHE:Impostor
 Shapeshifter:Zmiennoksztaltny
 ShapeshifterTOHE:Zmiennoksztaltny
+Phantom:Phantom
+PhantomTOHE:Phantom
 BountyHunter:Lowca Glow
 FireWorker:Fajerwerk
 Mercenary:Seryjny Morderca
 ShapeMaster:Mistrz Shiftu
 Vampire:Wampir
-Vampiress:Wampirzyca
 Warlock:Czarnoksieznik
-Assassin:Ninja
+Ninja:Ninja
 Zombie:Zombie
 Anonymous:Haker
 Miner:Gornik
 KillingMachine:Zabojcza Maszyna
 Escapist:Uciekinier
 Witch:Wiedzma
-Mafia:Mafia
+Nemesis:Nemesis
+Bloodmoon:Bloodmoon
 Puppeteer:Marionetkarz
 Mastermind:Mastermind
 TimeThief:Zlodziej Czasu
@@ -106,23 +97,23 @@ Sniper:Snajper
 Undertaker:Undertaker
 RiftMaker:Rift Maker
 EvilTracker:Zlowrogi Tropiciel
+EvilHacker:Evil Hacker
 EvilGuesser:Asasyn
 AntiAdminer:Inwigilator
 Arrogance:Arogant
 Bomber:Kamikaze
 Scavenger:Padlinozerca
-BoobyTrap:Wirus
-Capitalism:Kapitalista
+Trapster:Wirus
 Gangster:Ojciec Chrzestny
 Cleaner:Wozny
-BallLightning:Kwantowe Widmo
-Greedier:Chciwiec
+Lightning:Kwantowe Widmo
+Greedy:Chciwiec
 CursedWolf:Przeklety Wilk
-ImperiusCurse:Lowca Dusz
+SoulCatcher:Lowca Dusz
 QuickShooter:Szybki Strzelec
 Camouflager:Daltonista
 Eraser:Wymazywacz
-OverKiller:Rzeznik
+Butcher:Rzeznik
 Hangman:Dusiciel
 Swooper:Kameleon
 Crewpostor:Crewpostor
@@ -137,11 +128,10 @@ Councillor:Intrygant
 Dazzler:Dezorientator
 Deathpact:Umawiacz
 Devourer:Pozeracz
-EvilDiviner:Doradca
+Consigliere:Doradca
 Morphling:Maska
 Twister:Twister
 Lurker:Wenciarz
-Convict:Skazaniec
 Visionary:Wizjoner
 Refugee:Uchodzca
 Underdog:Podludz
@@ -153,23 +143,21 @@ Berserker:Berserker
 EvilMini:Evil Mini
 Blackmailer:Blackmailer
 Instigator:Szczesciarz
-Needy:Len
+LazyGuy:Len
 SuperStar:Gwiazda
-CyberStar:Celebryta
+Celebrity:Celebryta
 Cleanser:Cleanser
 Keeper:Keeper
-SwordsMan:Szermierz
+Knight:Szermierz
 Mayor:Burmistrz
-Paranoia:Paranoik
 Psychic:Mentalista
-SabotageMaster:Zlota Raczka
+Mechanic:Zlota Raczka
 Sheriff:Szeryf
 Vigilante:Vigilante
 Jailer:Jailer
 CopyCat:Kopiara
 Snitch:Kapus
 Marshall:Marszalek
-SpeedBooster:Akcelerator
 Doctor:Doktor
 Dictator:Dyktator
 Detective:Detektyw
@@ -180,21 +168,21 @@ TimeManager:Zarzadca Czasu
 Veteran:Weteran
 Bastion:Bastion
 Bodyguard:Ochroniarz
-Counterfeiter:Zwodziciel
+Deceiver:Zwodziciel
 Grenadier:Granatnik
 Medic:Medyk
-Divinator:Wrozka
+FortuneTeller:Wrozka
 Judge:Sedzia
 Mortician:Patomorfolog
-Mediumshiper:Medium
-DovesOfNeace:Pacyfista
+Medium:Medium
+Pacifist:Pacyfista
 Observer:Obserwator
 Monarch:Monarcha
-Farseer:Podgladacz
-Bloodhound:Koroner
-Tracker:Tropiciel
+Overseer:Podgladacz
+Coroner:Koroner
 Merchant:Kupiec
 President:President
+Hawk:Hawk
 Retributionist:Retributionist
 Deputy:Podkomisarz
 Investigator:Investigator
@@ -213,12 +201,11 @@ TimeMaster:Szef Czasu
 Crusader:Zaklinacz
 Reverie:Reverie
 Lookout:Lookout
-Monitor:Telecommunication
+Telecommunication:Telecommunication
 Lighter:Oswietlajacy
 TaskManager:Task Manager
 Witness:Witness
 Swapper:Swapper
-ChiefOfPolice:Police Commissioner
 NiceMini:Nice Mini
 Mini:Mini
 Spy:Spy
@@ -233,7 +220,7 @@ Terrorist:Terrorysta
 Executioner:Kat
 Lawyer:Prawnik
 Opportunist:Oportunista
-Mario:Mario
+Vector:Mario
 Jackal:Szakal
 God:Bog
 Innocent:Wrabiacz
@@ -243,9 +230,8 @@ Pelican:Pelikan
 PlagueDoctor:Plague Scientist
 Revolutionist:Rewolucjonista
 Hater:Hejter
-Konan:Conan
-Gamer:Demon
-DarkHide:Stalker
+Demon:Demon
+Stalker:Stalker
 Workaholic:Pracoholik
 Solsticer:Solsticer
 Collector:Kolekcjoner
@@ -255,14 +241,14 @@ PlagueBearer:AIDS
 Pestilence:Odporny
 Glitch:Glitch
 Sidekick:Pomocnik
-Totocalcio:Choragiewka
-Succubus:Sukkub
+Follower:Choragiewka
+Cultist:Cultist
 SerialKiller:Zabijaka
 Juggernaut:Juggernaut
 Infectious:Zarazacz
 Virus:Choroba
 Pursuer:Pursuer
-Phantom:Phantom
+Specter:Specter
 Pirate:Pirat
 Agitater:Agitater
 Maverick:Samotnik
@@ -273,14 +259,12 @@ Vulture:Vulture
 Taskinator:Taskinator
 Benefactor:Benefactor
 Medusa:Meduza
-Baker:Piekarz
-Famine:Biedak
 Spiritcaller:Spiritcaller
 Amnesiac:Amnesiac
 Imitator:Imitator
 Bandit:Bandyta
 Doppelganger:Doppelganger
-Masochist:Masochista
+PunchingBag:Punching Bag
 Doomsayer:Doomsayer
 Shroud:Shroud
 Werewolf:Werewolf
@@ -299,26 +283,27 @@ Wraith:Widmo
 Jinx:Jinx
 PotionMaster:Potion Master
 Necromancer:Necromancer
+Warden:Warden
+Minion:Minion
+Ghastly:Ghastly
 LastImpostor:Ostatni
 Overclocked:Overclocked
 Lovers:Zakochany
 Madmate:Zlymate
-Ntr:Neptun
 Watcher:Podgladajacy
 Flash:Szybki
 Torch:Torch
 Seer:Jasnowidzacy
-Brakar:Rozstrzygajacy
+Tiebreaker:Rozstrzygajacy
 Oblivious:Slepy
 Bewilder:Ograniczony
-Sunglasses:Okularki
 Workhorse:Pracowity
 Fool:Glupi
 Avanger:Msciwy
 Youtuber:YouTuber
 Egoist:Egoistyczny
 TicketsStealer:Podkradajacy
-DualPersonality:Schizoferniczny
+Paranoia:Paranoia
 Mimic:Odkrywajacy
 Guesser:Zgadujacy
 Necroview:Necroview
@@ -334,7 +319,6 @@ Mundane:Mundane
 Knighted:Zrycerzowany
 Unreportable:Zignorowany
 Contagious:Contagious
-Rogue:Rogue
 Lucky:Lucky
 Unlucky:Unlucky
 VoidBallot:Void Ballot
@@ -350,13 +334,14 @@ Loyal:Lojalny
 EvilSpirit:Evil Spirit
 Recruit:Zrekrutowany
 Admired:Admired
+Radar:Radar
 Glow:Napromieniowany
 Diseased:Zwiekszajacy
 Antidote:Zmniejszajacy
 Stubborn:Stubborn
 Swift:Swift
 Ghoul:Ghoul
-Bloodlust:Bloodlust
+Bloodthirst:Bloodthirst
 Mare:Zmora
 Burst:Burst
 Sleuth:Sleuth
@@ -372,140 +357,15 @@ Susceptible:Susceptible
 Tricky:Tricky
 Rainbow:Rainbow
 Tired:Tired
-Prefix.Ntr:Neptun 
-Prefix.Watcher:Podgladajacy 
-Prefix.Overclocked:Overclocked 
-Prefix.Flash:Szybki 
-Prefix.Torch:Lighter 
-Prefix.Seer:Jasnowidzacy 
-Prefix.Brakar:Rozstrzygajacy 
-Prefix.Oblivious:Slepy 
-Prefix.Bewilder:Ograniczony 
-Prefix.Workhorse:Pracowity 
-Prefix.Fool:Glupi 
-Prefix.Avanger:Msciwy 
-Prefix.Youtuber:YouTuber 
-Prefix.Egoist:Egoistyczny 
-Prefix.TicketsStealer:Podkradajacy 
-Prefix.DualPersonality:Schizofreniczny 
-Prefix.Mimic:Odkrywajacy 
-Prefix.Bait:Przyneta 
-Prefix.Trapper:Pulapka 
-Prefix.Guesser:Zgadujacy 
-Prefix.Necroview:Necroview 
-Prefix.Recruit:Zrekrutowany 
-Prefix.Reach:Zasieg 
-Prefix.Onbound:Onbound 
-Prefix.Rebound:Rebound 
-Prefix.Mundane:Mundane 
-Prefix.Knighted:Knighted 
-Prefix.Unreportable:Zignorowany 
-Prefix.Rogue:Rogue 
-Prefix.Lucky:Lucky 
-Prefix.DoubleShot:Double Shot 
-Prefix.Rascal:Rascal 
-Prefix.Gravestone:Nagrobek 
-Prefix.Lazy:Leniwy 
-Prefix.Autopsy:Doktor 
-Prefix.Loyal:Lojalny 
-Prefix.EvilSpirit:Evil Spirit 
-Prefix.Glow:Napromieniowany 
-Prefix.Diseased:Zwiekszajacy 
-Prefix.Antidote:Zmniejszajacy 
-Prefix.Stubborn:Stubborn 
-Prefix.Cleansed:Cleansed 
-Prefix.Swift:Swift 
-Prefix.Unlucky:Unlucky 
-Prefix.VoidBallot:Void 
-Prefix.Aware:Aware 
-Prefix.Fragile:Kruchy
-Prefix.Ghoul:Ghoul 
-Prefix.Bloodlust:Bloodlust 
-Prefix.Sunglasses:Okularki
-Prefix.Mare:Zmora 
-Prefix.Burst:Burst 
-Prefix.Sleuth:Sleuth 
-Prefix.Clumsy:Niezdarny 
-Prefix.Nimble:Nimble 
-Prefix.Circumvent:Circumvent 
-Prefix.Hurried:Hurried 
-Prefix.Oiiai:OIIAI 
-Prefix.Influenced:Influenced 
-Prefix.Cyber:Cyber 
-Prefix.Silent:Silent 
-Prefix.Susceptible:Susceptible 
-Prefix.Tricky:Tricky 
-Prefix.Rainbow:Rainbow 
-Prefix.Tired:Tired 
-PrefixB.Ntr:(Neptune) 
-PrefixB.Watcher:(Watcher) 
-PrefixB.Overclocked:(Overclocked) 
-PrefixB.Flash:(Flash) 
-PrefixB.Torch:(Lighter) 
-PrefixB.Seer:(Seer) 
-PrefixB.Brakar:(Tiebreakar) 
-PrefixB.Oblivious:(Oblivious) 
-PrefixB.Bewilder:(Bewilder) 
-PrefixB.Workhorse:(Workhorse) 
-PrefixB.Fool:(Fool) 
-PrefixB.Avanger:(Avenger) 
-PrefixB.Youtuber:(YouTuber) 
-PrefixB.Egoist:(Egoist) 
-PrefixB.TicketsStealer:(Stealer) 
-PrefixB.DualPersonality:(Schizophrenic) 
-PrefixB.Mimic:(Mimic) 
-PrefixB.Bait:(Przyneta) 
-PrefixB.Trapper:(Pulapka) 
-PrefixB.Guesser:(Guesser) 
-PrefixB.Necroview:(Necroview) 
-PrefixB.Recruit:(Recruit) 
-PrefixB.Reach:(Reach) 
-PrefixB.Onbound:(Onbound) 
-PrefixB.Rebound:(Rebound) 
-PrefixB.Mundane:(Mundane) 
-PrefixB.Knighted:(Knighted) 
-PrefixB.Unreportable:(Disregarded) 
-PrefixB.Rogue:(Rogue) 
-PrefixB.Lucky:(Lucky) 
-PrefixB.DoubleShot:(Double Shot) 
-PrefixB.Rascal:(Rascal) 
-PrefixB.Gravestone:(Gravestone) 
-PrefixB.Lazy:(Lazy) 
-PrefixB.Autopsy:(Autopsy) 
-PrefixB.Loyal:(Loyal) 
-PrefixB.EvilSpirit:(Evil Spirit) 
-PrefixB.Glow:(Glow) 
-PrefixB.Diseased:(Diseased) 
-PrefixB.Antidote:(Antidote) 
-PrefixB.Stubborn:(Stubborn) 
-PrefixB.Cleansed:(Cleansed) 
-PrefixB.Swift:(Swift) 
-PrefixB.Unlucky:(Unlucky) 
-PrefixB.VoidBallot:(Void) 
-PrefixB.Aware:(Aware) 
-PrefixB.Fragile:(Kruchy) 
-PrefixB.Ghoul:(Ghoul) 
-PrefixB.Bloodlust:(Bloodlust) 
-PrefixB.Sunglasses:(Sunglasses) 
-PrefixB.Mare:(Mare) 
-PrefixB.Burst:(Burst) 
-PrefixB.Sleuth:(Sleuth) 
-PrefixB.Clumsy:(Niezdarny) 
-PrefixB.Nimble:(Nimble) 
-PrefixB.Circumvent:(Circumvent) 
-PrefixB.Hurried:(Hurried) 
-PrefixB.Oiiai:(OIIAI) 
-PrefixB.Cyber:(Cyber) 
-PrefixB.Influenced:(Influenced) 
-PrefixB.Silent:(Silent) 
-PrefixB.Susceptible:(Susceptible) 
-PrefixB.Tricky:(Tricky) 
-PrefixB.Rainbow:(Rainbow) 
-PrefixB.Tired:(Tired) 
+Statue:Statue
+DollMaster:Dollmaster
 BracketAddons:Dodaj nawiasy do modyfikacja
 EngineerTOHEInfo:Uzyj Wentow, aby znalezc i zlapac <color=#ff1919>Impostorow</color>
 ScientistTOHEInfo:Uzyskaj dostep do parametrow zyciowych graczy z dowolnego miejsca
+NoisemakerTOHEInfo:Send out an alert when killed
+TrackerTOHEInfo:Track a players with your map
 ShapeshifterTOHEInfo:Przebierz sie za inna osobe, aby ich wrobic
+PhantomTOHEInfo:Turn invisible
 GuardianAngelTOHEInfo:Chron innych przed <color=#ff1919>Impostorami</color>
 ImpostorTOHEInfo:Zabij i sabotuj
 CrewmateTOHEInfo:Wykonuj swoje zadania
@@ -514,18 +374,18 @@ FireworkerInfo:Odejdz z HUKIEM!
 MercenaryInfo:Kontynuuj zabijanie, w przeciwnym razie popelnisz samobojstwo
 ShapeMasterInfo:Mozesz sie zmieniac w kazdej chwili
 VampireInfo:Twoje zabojstwa sa opoznione
-VampiressInfo:Twoje zabojstwa sa opoznione i bezposrednie.
 WarlockInfo:Rzuc zaklecie na graczy, a pozniej zmien sie
-AssassinInfo:Oznacz cel, a nastepnie zmien sie, aby zabic
+NinjaInfo:Oznacz cel, a nastepnie zmien sie, aby zabic
 ZombieInfo:Jestes bardzo powolny
 AnonymousInfo:Zmus gracza do zgloszenia ciala
 MinerInfo:Przenies sie do ostatnio uzytego wentu poprzez zmiane
 KillingMachineInfo:Mozesz jedynie zabijac, ale z niskim czasem odnowienia
 EscapistInfo:Shiftuj, aby zaznaczyc miejsce, by pozniej moc sie do niego teleportowac
 WitchInfo:Rzucaj zaklecia aby zabijac podczas spotkania
-MafiaInfo:Zabij kiedy jestes ostatnim Impostorem
-BeforeMafiaInfo:Nie mozesz jeszcze zabijac
-AfterMafiaInfo:Teraz zacznij zabijac
+NemesisInfo:Zabij kiedy jestes ostatnim Impostorem
+BeforeNemesisInfo:Nie mozesz jeszcze zabijac
+AfterNemesisInfo:Teraz zacznij zabijac
+BloodmoonInfo:Seek havoc upon the crewmates
 PuppeteerInfo:Spraw, by gracze zabijali dla Ciebie
 MastermindInfo:Make others kill for you
 TimeThiefInfo:Nizszy czas spotkania poprzez zabijanie
@@ -533,23 +393,23 @@ SniperInfo:Zmien sie, aby zabic z daleka
 UndertakerInfo:Teleport dead body to a marked location
 RiftMakerInfo:Two rifts I trace, touch 'em to warp space
 EvilTrackerInfo:Zmien sie, aby sledzic graczy
+EvilHackerInfo:Hack systems
 AntiAdminerInfo:Wiedz, kiedy gracze beda blisko urzadzen
 ArroganceInfo:Twoj czas odnowienia zabojstwa jest zmniejszany z kazdym zabojstwem
 BomberInfo:Creeper? Aww Man
-BoobyTrapInfo:Rozpocznij serie morderstw
+TrapsterInfo:Rozpocznij serie morderstw
 ScavengerInfo:Twoich morderstw nie da sie zglaszac
 EvilGuesserInfo:Zgaduj dobre role podczas spotkania, aby zabic
-CapitalismInfo:Dodaj wiecej zadan graczom
 GangsterInfo:Nawroc graczy na swoja strone
 CleanerInfo:Zglaszaj ciala, aby uniemozliwic innym ich zglaszanie
-BallLightningInfo:Konwertuj graczy na duchy kwantowe
-GreedierInfo:Niski czas zabijania za kazde drugie zabojstwo
+LightningInfo:Konwertuj graczy na duchy kwantowe
+GreedyInfo:Niski czas zabijania za kazde drugie zabojstwo
 CursedWolfInfo:Przezyjesz kilka prob zabicia
-ImperiusCurseInfo:Zamieniacie sie miejscami ze swoim celem zmiany
+SoulCatcherInfo:Zamieniacie sie miejscami ze swoim celem zmiany
 QuickShooterInfo:Przechowuj amunicje, aby zrownowazyc czas zabijania
 CamouflagerInfo:Zamien sie, aby kamuflaz obial wszystkich
 EraserInfo:Usun role swojemu celu glosowania
-OverKillerInfo:Ciesz sie moja piekna praca
+ButcherInfo:Ciesz sie moja piekna praca
 HangmanInfo:Zdecyduje, kiedy twoje zycie sie skonczy
 SwooperInfo:Zwentuj, aby tymczasowo stac sie niewidzialnym
 CrewpostorInfo:Zabijaj, wykonujac zadania
@@ -564,7 +424,7 @@ CouncillorInfo:Zabij Niewinnych podczas spotkania
 DazzlerInfo:Zmniejsz wizje Niewinnych
 DeathpactInfo:Assign players to a death pact
 DevourerInfo:Pozryj skore Niewinnych
-EvilDivinerInfo:Odkryj role innych graczy
+ConsigliereInfo:Odkryj role innych graczy
 MorphlingInfo:Mozesz zabijac jedynie podczas shiftu
 TwisterInfo:Zamien pozycjami wszystkich graczy
 LurkerInfo:Zmniejsz swoj czas odnowienia zabojstwa wentujac
@@ -580,27 +440,24 @@ BerserkerInfo:Kill to increase your level
 EvilMiniInfo:No one can hurt you until you grow up
 BlackmailerInfo:Silence other players
 InstigatorInfo:Sow discord among the crewmates
-NeedyInfo:Len
+LazyGuyInfo:Len
 SuperStarInfo:Kazdy cie zna
-CyberStarInfo:Wszyscy wiedza, kiedy umrzesz
 CleanserInfo:Erase All Addons of your vote target
 KeeperInfo:Reject the Eject, Keeper Protect!
 MayorInfo:Twoj glos liczy sie wiele razy
-ParanoiaInfo:Paranoik moze zwolac spotkanie wentujac. Zgloszenie spotkania pokaze martwe cialo Paranoika, ale nie bedzie on martwy. 
 PsychicInfo:Jeden z czerwonych nickow jest <color=#ff1919>Zla Osoba</color>
-SabotageMasterInfo:Naprawiaj szybciej sabotaze i wentuj.
+MechanicInfo:Naprawiaj szybciej sabotaze i wentuj.
 SheriffInfo:Zabij <color=#ff1919>Impostorow i Neutrali</color>
 VigilanteInfo:Not the hero we deserved but the hero we needed
 JailerInfo:Jail suspicious players
 CopyCatInfo:Uzyj przycisku kill, aby skopiowac role danej osoby
 SnitchInfo:Zakoncz swoje zadania, aby znalezc <color=#ff1919>Impostorow</color>
 MarshallInfo:Skoncz zadania, aby dowiesc swojej niewinnosci
-SpeedBoosterInfo:Zwieksz predkosc
 DoctorInfo:Znasz przyczyne smierci graczy.
 DictatorInfo:Osoba, na ktora zaglosujesz od razu zostanie wyrzucona.
 DetectiveInfo:Zglaszaj ciala, aby zdobyc informacje.
 UndercoverInfo:Impostorzy maja Cie za ich wspolnika.
-SwordsManInfo:Mozesz zabic 1 dowolnego gracza. Jestes po stronie niewinnych.
+KnightInfo:Mozesz zabic 1 dowolnego gracza. Jestes po stronie niewinnych.
 NiceGuesserInfo:Zgaduj <color=#ff1919>Zle Role</color> podczas spotkania, aby je wyeliminowac.
 GuessMasterInfo:Whispers heard, every guessed word.
 TransporterInfo:Wykonuj zadania, aby zamienic miejscami dwoch graczy.
@@ -608,24 +465,24 @@ TimeManagerInfo:Wykonuj zadania, aby zwiekszyc czas meetingu.
 VeteranInfo:Groz smiercia, kazdemu kto sprobuje Cie zabic.
 BastionInfo:Bomb vents
 BodyguardInfo:Zapobiegaj zabojstwom w poblizu Ciebie.
-CounterfeiterInfo:Staraj sie oszukac graczy
+DeceiverInfo:Staraj sie oszukac graczy
 GrenadierInfo:Zmniejsz wizje <color=#ff1919>Impostorow</color>' wentujac.
 MedicInfo:Chron przed zabojstwami.
-DivinatorInfo:Odkrywaj role podczas spotkania.
+FortuneTellerInfo:Odkrywaj role podczas spotkania.
 JudgeInfo:Cisza na sali!
 MorticianInfo:Znajdz martwe ciala
-MediumshiperInfo:Porozmawiaj z duchami
+MediumInfo:Porozmawiaj z duchami
 ObserverInfo:Widzisz wszystkie animacje tarczy.
-DovesOfNeaceInfo:Wentuj, aby zresetowac wszystkim czas odnowy zabicia
+PacifistInfo:Wentuj, aby zresetowac wszystkim czas odnowy zabicia
 MonarchInfo:Daj swojej druzynie Niewinnych dodatkowa moc podczas glosowania!
 StealthInfo:Killing Blinds Everyone in the Room
 PenguinInfo:Drag your victims
-FarseerInfo:Odkryj role innych graczy
-BloodhoundInfo:Znajdz trupy i ich mordercow
-TrackerInfo:Sledz graczy
+OverseerInfo:Odkryj role innych graczy
+CoronerInfo:Znajdz trupy i ich mordercow
 PresidentInfo:You are in charge of the meeting
 MerchantInfo:Sprzedawaj modyfikacje i przekupuj mordercow.
 RetributionistInfo:Pomoz zalodze po smierci.
+HawkInfo:Seek murdering the bad guys!
 DeputyInfo:Zakuj w kajdanki mordercow, aby zwiekszyc im czas odnowienia zabojstwa.
 InvestigatorInfo:Find potential evils
 GuardianInfo:Skoncz wszystkie taski, aby stac sie niesmiertelnym
@@ -643,12 +500,12 @@ TimeMasterInfo:Czas wstecz!
 CrusaderInfo:Kill a player's attacker
 ReverieInfo:Z kazdym zabojstwem, Twoj czas odnowienia zabojstwa sie zmniejsza
 LookoutInfo:See through disguises
-MonitorInfo:Track device usage
+TelecommunicationInfo:Track device usage
 LighterInfo:Widzisz w ciemnosciach!
 TaskManagerInfo:See the total tasks completed in real time
 WitnessInfo:Find out if someone killed recently
+GhastlyInfo:Control somebody!
 SwapperInfo:Swap the votes of two players
-ChiefOfPoliceInfo:Recruit as a <color=#ffb347>Sheriff</color> by killing players with knives
 NiceMiniInfo:No one can hurt you until you grow up.
 ArsonistInfo:Polej kazdego benzyna i ich podpal.
 PyromaniacInfo:Douse and kill everyone
@@ -661,16 +518,15 @@ OpportunistInfo:Dotrwaj do konca
 TerroristInfo:Ukoncz zadania, a potem daj sie wyeliminowac
 ExecutionerInfo:Wyglosuj swoj cel.
 LawyerInfo:Pomoz swojemu celowi wygrac
-MarioInfo:Wskakuj! Wyskakuj!
+VectorInfo:Wskakuj! Wyskakuj!
 JackalInfo:Zabij wszystkich
 GodInfo:Wszystko jest pod Twoja kontrola
 InnocentInfo:Zmus kogos, zeby Cie zabil, aby wrobic go w Twoja smierc
 PelicanInfo:Zjedz wszystkich graczy
 RevolutionistInfo:Zrekrutuj graczy aby z Toba wygrali
 HaterInfo:Zabij <color=#ff9ace>Kochankow</color> i <color=#00a4ff>Neptuna</color>
-KonanInfo:Dalej dajesz dupy Xiaolingowi...
-GamerInfo:Zabieraj HP
-DarkHideInfo:Zatop sie w ciemnosciach, zastrasz innych.
+DemonInfo:Zabieraj HP
+StalkerInfo:Zatop sie w ciemnosciach, zastrasz innych.
 WorkaholicInfo:Zakoncz wszystkie zadania, aby wygrac sam!
 SolsticerInfo:Speed run all your tasks!
 CollectorInfo:Kolekcjonuj glosy graczy
@@ -680,15 +536,15 @@ PlagueBearerInfo:Zaraz wszystkich AIDS, aby sie zmienic w <color=#343136>Odporne
 PestilenceInfo:Zabij wszystkich zarazonych AIDS!
 GlitchInfo:Hack and kill everyone
 SidekickInfo:Pomoz Szakalowi wszystkich zabic.
-TotocalcioInfo:sledz gracza i mu pomoz.
-SuccubusInfo:Oczaruj wszystkich.
+FollowerInfo:sledz gracza i mu pomoz.
+CultistInfo:Oczaruj wszystkich.
 SerialKillerInfo:Zabij wszystkich aby wygrac!
 JuggernautInfo:Z kazdym zabojstwem zmniejsza sie Twoj czas odnowienia zabojstwa.
 InfectiousInfo:Zainfekuj wszystkich
 VirusInfo:Zabij i zainfekuj wszystkich.
 PursuerInfo:Ochron sie i dotrwaj do konca gry!
 PlagueDoctorInfo:Spread the infection!
-PhantomInfo:Daj sie zabic i skoncz taski aby wygrac!
+SpecterInfo:Daj sie zabic i skoncz taski aby wygrac!
 PirateInfo:Successfully plunder players to win
 AgitaterInfo:Pass a Bomb onto others
 MaverickInfo:Zabijaj i dotrwaj do konca
@@ -698,15 +554,13 @@ TraitorInfo:Wyeliminuj <color=#ff1919>Impostorow</color>, a potem wygraj
 VultureInfo:Zjadaj ciala poprzez klikanie reportu, aby wygrac
 TaskinatorInfo:Silent tasks, deadly blasts
 BenefactorInfo:Task complete, shield elite!
-MedusaInfo:Zamien trupy w kamien poprzez przycisk zgloszenia
-BakerInfo:Skoncz taski aby zatruc chleb
 FamineInfo:Rozdaj zatruty chleb
 SpiritcallerInfo:Turn Players into Evil Spirits
 AmnesiacInfo:Pamietaj role zmarlego gracza
 ImitatorInfo:Imitate a player's role
 BanditInfo:Ukradnij modyfikacje gracza
 DoppelgangerInfo:Steal your target's identity
-MasochistInfo:Daj sie zaatakowac pare razy, aby wygrac.
+PunchingBagInfo:Daj sie zaatakowac pare razy, aby wygrac.
 KamikazeInfo:Kill players with a suicidal mission
 DoomsayerInfo:Odgadnij role graczy aby wygrac
 ShroudInfo:Shroud players to make them kill
@@ -726,25 +580,27 @@ WraithInfo:Zwentuj aby chwilowo stac sie niewidzialnym
 JinxInfo:Reflect attacks onto your attackers
 PotionMasterInfo:Use your potions to your advantage
 NecromancerInfo:Kill crewmates after death using ghouls
+WardenInfo:(Ghost) Alert about danger
+MinionInfo:(Ghost) Blind enemies
 LoversInfo:Wytrwajcie do konca i wygrajcie razem.
 MadmateInfo:Pomoz Impostorom
-NtrInfo:Kazdy ma Cie za swojego kochanka.
 WatcherInfo:Widzisz kto na kogo glosuje.
 LastImpostorInfo:Niski czas odnowienia zabojstwa.
 OverclockedInfo:Lower cooldown
 FlashInfo:Jestes szybszy.
 TorchInfo:You have enhanced vision!
 SeerInfo:Dostajesz powiadomienie, gdy ktos umiera.
-BrakarInfo:Eliminuj remisy
+TiebreakerInfo:Eliminuj remisy
 ObliviousInfo:Nie mozesz zglaszac cial.
 BewilderInfo:Ten kto Cie zabije dostaje Twoja wizje.
 WorkhorseInfo:Skoncz wszystkie taski, aby dodac dodatkowe taski graczom
 FoolInfo:Nie mozesz naprawiac sabotazy.
 AvangerInfo:Gdy umierasz, bierzesz kogos ze soba
 YoutuberInfo:Daj sie zabic jako pierwszy aby wygrac
+CelebrityInfo:Everyone knows when you die
 EgoistInfo:Wygraj solo.
 TicketsStealerInfo:Zyskuj glosy wraz z zabojstwami.
-DualPersonalityInfo:Jestes zywy i martwy jednoczesnie 
+ParanoiaInfo:Jestes zywy i martwy jednoczesnie 
 MimicInfo:Odkryj role martwych graczy Impostorom, gdy umrzesz.
 GuesserInfo:Zgaduj role graczy podczas spotkania, aby ich wyeliminowac.
 NecroviewInfo:Dowiedz sie, do ktorej druzyny nalezeli umarli
@@ -755,7 +611,6 @@ OnboundInfo:Nie da sie Ciebie odgadnac.
 ReboundInfo:Guess me right, and face your plight!
 MundaneInfo:Tasks all done, guessing's begun.
 UnreportableInfo:Twoje cialo nie moze zostac zgloszone.
-RogueInfo:Work against your team and win with other Rogues
 LuckyInfo:Twoj zabojca moze w Ciebie nie trafic.
 DoubleShotInfo:Masz dodatkowe zycie podczas zgadywania
 RascalInfo:W niektorych przypadkach wydajesz sie zly
@@ -768,6 +623,7 @@ EvilSpiritInfo:Jestes zlym Duchem
 RecruitInfo:Pomoz Szakalowi
 AdmiredInfo:The Admirer chose you as their love
 GlowInfo:Ups... Przez Napromieniowanie widac kolor Twojego nicku w ciemnosci
+RadarInfo:Arrow's hue, closest to you!
 DiseasedInfo:Zwieksz czas odnowienia gracza, ktory wejdzie z toba w interakcje
 AntidoteInfo:Zmniejsz czas odnowienia gracza, ktory wejdzie z toba w interakcje
 StubbornInfo:Protect your role and addons
@@ -777,8 +633,7 @@ VoidBallotInfo:Your vote count is 0
 AwareInfo:Know who revealed your role
 FragileInfo:Umrzyj natychmiast jezeli ktos uzyje na Tobie przycisku kill.
 GhoulInfo:Zabij swojego morderce z zaswiatow.
-BloodlustInfo:Unleash your bloodlust and kill
-SunglassesInfo:Masz zmniejszona wizje!
+BloodthirstInfo:Unleash your bloodlust and kill
 MareInfo:Zabijaj w ciemnosci
 BurstInfo:Make your killer burst!
 SleuthInfo:Gain info from dead bodies
@@ -793,15 +648,19 @@ SilentInfo:Vote like a Ghost!
 SusceptibleInfo:Deathreason lotto!
 TrickyInfo:Tricky slays, in mysterious ways.
 TiredInfo:Labor makes you rest Zzz..
+StatueInfo:You're still as a rock nearby people
 GMInfo:Obserwuj chaos!
 NotAssignedInfo:Brak przypisanej roli
 SunnyboyInfo:Swiec, swiec moje sloneczko!
 BardInfo:Poematu czar, morderczy szal, szalenczy taniec i smiertelny dar
-NukerInfo:Zmien sie, aby wysadzic wszystkich
 RainbowInfo:Colorful melodies! You don't even know your own color.
+DollMasterInfo:Take control of players actions!
 EngineerTOHEInfoLong:(Niewinni):\nJako Inzynier, mozesz korzystac z wentow.\nWenty sa wylaczone podczas sabotazu comsow.
 ScientistTOHEInfoLong:(Niewinni):\nAs the Scientist, you have a portable tablet with the crew's vitals on it.\nUse this any way you'd like.\nCatching self-reports, extra intel on body age, etc.
+NoisemakerTOHEInfoLong:(Crewmates):\nAs the Noisemaker, whenever you die you will make a noise, and a visual indicator of your death appears on the screen so the Crewmates can run to catch the person who killed you red-handed (even if it’s not Red).
+TrackerTOHEInfoLong:(Crewmates):\nAs the Tracker, press your tracker button on a player to track their location via the map for a limited amount of time.
 ShapeshifterTOHEInfoLong:(Impostorzy):\nJako Zmiennoksztaltny/Shapeshifter, mozesz zmienic sie w innego gracza.\nPamietaj, ze podczas zamiany widac jajko Twojego koloru, a zamiana jest chwilowa.
+PhantomTOHEInfoLong:(Impostors):\nAs the Phantom, you can press your vanish button to go invisible to escape a kill. You can click your appear button if you want to become visible before the timer runs out or not.\nNote: You will make a smoke cloud whenever you go invisible and become visible. So make sure you are in a safe area where no one will see you.
 GuardianAngelTOHEInfoLong:(Niewinni):\nJako Aniol Stroz, posmiertnie, Twoim zadaniem jest chronienie graczy przez Impostorami.
 ImpostorTOHEInfoLong:(Impostorzy):\nJako Impostor, Twoim zadaniem jest zabicie Niewinnych\nMozesz sabotowac i wentowac.
 CrewmateTOHEInfoLong:(Niewinni):\nTwoj cel jako niewinny jest dosc prosty. Znajdz i wyrzuc impostorow.\n\nNiewinni wygrywaja, pozbywajac sie wszystkich zabojcow lub wykonujac wszystkie swoje zadania.
@@ -810,16 +669,16 @@ FireworkerInfoLong:(Impostorzy):\nFajerwerk moze stawiac fajerwerki, aby zabic g
 MercenaryKillerInfoLong:(Impostorzy):\nMasz mniejszy czas odnowienia zabojstwa od innych Impostorow, jednakze umrzesz, jezeli nie zdolasz zabic przed uplynieciem czasu shift.
 ShapeMasterInfoLong:(Impostorzy):\nMistrz Shiftu nie ma ograniczen co do czestosci shiftowania, natomiast czas trwania jego shiftu jest krotszy.
 VampireInfoLong:(Impostorzy):\nUgryziony gracz nie umrze od razu, ale po czasie. Jezeli w miedzyczasie bedzie spotkanie, gracz umrze od razu. W momencie, gdy ugryziesz Przynete, od razu zglaszasz cialo, a przyczyna smierci Przynety bedzie zwykle zabojstwo.
-VampiressInfoLong:(Impostors):\nJako Wampirzyca, gryziesz graczy na podobnej zasadzie jak Wampir. Natomiast mozesz tez zabijac normalnie.\n\nKliknij przycisk kill raz, aby ugryzc.\nKliknij przycisk dwukrotnie, aby zabic normalnie.
 WarlockInfoLong:(Impostorzy):\nCzarnoksieznik rzuca klatwe na gracza. \nPo rzuceniu klatwy musisz zshiftowac, a wtedy najblizsza osoba do tej, ktora oznaczyles umiera.\nPodczas shiftowania, mozesz normalnie zabijac.\nMozesz oznaczyc tylko jednego gracza na raz.
 ZombieInfoLong:(Impostorzy):\nZombi ma niski czas odnowienia zabojstwa, ale porusza sie powoli i ma mala wizje. Tylko dyktator moze wyglosowac Zombie. Tempo poruszania sie Zombie bedzie spadac wraz z kolejnymi zabojstwami jak i uplywajacym czasem.
-AssassinInfoLong:(Impostorzy):\n Ninja moze skorzystac z przycisku zabojstwa, aby oznaczyc gracza, jezeli oznaczenie sie powiedzie, zobaczy animacje tarczy. Nastepnie, moze skorzystac z opcji shiftu, aby przeteleportowac sie do oznaczonego gracza i go zabic. W zaleznosci od ustawien hosta, Ninja moga zabijac regularnie po dokonaniu pierwszego zamachu.
+NinjaInfoLong:(Impostorzy):\n Ninja moze skorzystac z przycisku zabojstwa, aby oznaczyc gracza, jezeli oznaczenie sie powiedzie, zobaczy animacje tarczy. Nastepnie, moze skorzystac z opcji shiftu, aby przeteleportowac sie do oznaczonego gracza i go zabic. W zaleznosci od ustawien hosta, Ninja moga zabijac regularnie po dokonaniu pierwszego zamachu.
 AnonymousInfoLong:(Impostorzy):\nHaker moze skorzystac z shiftu aby zhakowac osobe, w ktora sie zmienia. Osoba ta, od razu zglosi cialo osoby zabitej przez hakera. Jezeli Haker jeszcze nikogo nie zabil, zhakowana osoba zglosi swoje cialo.\nUwaga: Hakowanie ignoruje czy dane cialo moze byc zgloszone. Hakowanie Lenia nie daje Ci zadnego pozytku, jedynie marnuje Twoj czas.
 MinerInfoLong:(Impostorzy):\nGornik moze shiftowac, aby przeteleportowac sie do ostatniego wenta, w ktorym byl.
 KillingMachineInfoLong:(Impostorzy):\nZabojcza Maszyna ma bardzo niski czas odnowy zabicia, ale nie moze wentowac, sabotowac, zglaszac, ani zwolywac spotkan nadzwyczajnych. Zabojcza Maszyna ma tez takie samo pole widzenia co Niewinni.
 EscapistInfoLong:(Impostorzy):\nUciekiner moze oznaczyc lokalizacje shiftujac. Jezeli ponownie zshiftuja zostana przeteleportowani do oznaczonego przez siebie miejsca. Uwaga: przy shiftowaniu, a nie odshiftowywaniu.
 WitchInfoLong:(Impostorzy):\nWiedzma ma dwie formy ataku: zwykle zabojstwo, badz rzucenie zaklecia. Dwukrotne wcisniecie przycisku zabijania skutkuje zwyklym zabojstwem, a jednokrotne rzuca klatwe. Podczas spotkania, zaklety gracz bedzie oznaczony krzyzem「†」, widocznym dla wszystkich graczy. Jezeli wiedzma nie zostanie wyrzucona badz zabita podczas spotkania, oznaczony gracz umiera po spotkaniu.
-MafiaInfoLong:(Impostorzy):\nMafia nie moze zabijac, gdy inni Impostorzy zyja. Gdy umrze, moze skorzystac z komendy /ry [id gracza], aby zabic konkretnego gracza.
+NemesisInfoLong:(Impostorzy):\nMafia nie moze zabijac, gdy inni Impostorzy zyja. Gdy umrze, moze skorzystac z komendy /ry [id gracza], aby zabic konkretnego gracza.
+BloodmoonInfoLong:(Impostors [Ghost]):\nAs the Bloodmoon, attack the enemies to make them drip blood, this means they will die in a time set by the host, and will be aware of it.
 PuppeteerInfoLong:(Impostorzy):\nGracz kontrolowany przez Marionetkarza zabije pierwsza napotkana osobe na swojej drodze, o ile osoba ta nie jest Impostorem. Marionetkarz nie moze zabijac w zwyczajny sposob. Dodatkowo: oznaczenie Lenia nie przyniesie Ci pozytku, jedynie zmarnuje Twoj czas.
 MastermindInfoLong:(Impostors):\nAs the Mastermind, you can use your kill button on a player once to manipulate them. This does nothing if the target doesn't have a kill button. But if the target has a kill button of any time, they'll be told after a delay that they were manipulated and they must kill someone in a limited time to survive. If the time limit expires or a meeting gets called before killing someone, they die.\nDouble click on someone to kill them normally.
 TimeThiefInfoLong:(Impostorzy):\nZa kazdym razem, gdy Zlodziej Czasu zabije gracza, czas spotkania sie skraca. Jezeli Zlodziej Czasu umrze, czas spotkania wroci do normy.
@@ -827,23 +686,23 @@ SniperInfoLong:(Impostorzy):\nMozesz zastrzelic graczy z daleka.\nMusisz zshifto
 UndertakerInfoLong:(Impostors):\nEverytime you Shapeshift into a player you mark the location. Your kills will then teleport to the marked location.\nAfter every kill and meeting your marked location will reset.\n\nAfter every teleported kill you will freeze for a configurable amount of time
 RiftMakerInfoLong:(Impostors):\nAs Rift Maker you can shapeshift to create a rift. You can teleport from one rift to another by touching the area where the rift was created. Trying to vent will kick you out and all the rifts will be destroyed.\n\nNote: Up to two rifts can be placed at a time, if you try to place a third, it removes the first one.
 EvilTrackerInfoLong:(Impostorzy):\nZlowrogi Tropiciel moze sledzic innych graczy. Aby zmienic sledzony cel, zshiftuj w osobe, ktora chcesz tropic. Strzalka pod Twoja nazwa wskazuje tropiony cel. Jezeli ktos z jego druzyny zabije, Zlowrogi Tropiciel zostanie o tym powiadomiony w postaci blysku sabotazu.
+EvilHackerInfoLong:(Impostors):\nThe Evil Hacker can get the last-minute admin information at the meeting beginning.\nUnoccupied rooms are not shown.\nA '★' marks rooms with impostors.\nRooms with dead bodies are marked with the number of bodies.\nExample: ★Cafeteria: 3 (DEAD×1).
 EvilGuesserInfoLong:(Impostorzy):\nZly Zgadywacz moze odgadnac role konkretnego gracza w trakcie spotkania. Jesli jest prawidlowa, cel umiera, a jesli jest niewlasciwa, Zly Zgadywacz umiera.\nKomenda do zgadywania to: /bt [id gracza] [rola]\nMozesz zobaczyc id gracza przed nazwa gracza lub uzyc komendy /id, aby wyswietlic id wszystkich graczy.
 AntiAdminerInfoLong:(Impostorzy):\nInwigilator moze w kazdym momencie sprawdzic czy ktos z crew stoi blisko urzadzen takich jak kamery,  panel w adminie itd.\nUwaga: Inwigilator nie wie czy dany gracz korzysta z danego urzadzenia, wie jedynie, ze jest niedaleko.
 ArroganceInfoLong:(Impostorzy):\nArogancja zmniejsza czas odnowienia zabojstwa z kazdym ich udanym zabojstwem.
 BomberInfoLong:(Impostorzy):\n Kamikaze moze skorzystac z opcji shiftu, aby wybuchnac, zabijajac graczy w niedalekim promieniu. Niestety sam wtedy ginie.\nUwaga: Wszyscy gracze zobacza blysk sabotazu, gdy Kamikaze wybuchnie.
 ScavengerInfoLong:(Impostorzy):\nPadlinozerca nie zostawia cial za soba. Dodatkowo, jezeli ofiara jest Przyneta, cialo nie zostanie zgloszone.
-BoobyTrapInfoLong:(Impostorzy):\nWirus zainfekuje cialo swojej ofiary po zabiciu. Gracz, ktory w okreslonym czasie podejdzie zglosic to cialo, zginie, a na dodatek zostanie w ten sam sposob zarazony itd. Niestety za to, Wirus sam umrze po dokonaniu pierwszej zbrodni.\nUwaga: Trup Wirusa nie ma takiego samego efektu.
-CapitalismInfoLong:(Impostorzy):\nKapitalista moze dodawac krotkie zadania graczom poprzez wcisniecie przycisku zabijania.\nUwaga: Uzycie tego na graczach, ktorzy nie maja zadan, badz je skonczyli, nic nie zmieni.
+TrapsterInfoLong:(Impostorzy):\nWirus zainfekuje cialo swojej ofiary po zabiciu. Gracz, ktory w okreslonym czasie podejdzie zglosic to cialo, zginie, a na dodatek zostanie w ten sam sposob zarazony itd. Niestety za to, Wirus sam umrze po dokonaniu pierwszej zbrodni.\nUwaga: Trup Wirusa nie ma takiego samego efektu.
 GangsterInfoLong:(Impostorzy):\nOjciec Chrzestny moze rekrutowac graczy do swojego gangu poprzez wcisniecie przycisku zabojstwa. Kiedy gracz przejdzie rekrutacje, Ojciec Chrzestny jak i jego podwladny zobacza animacje tarczy. Liczba mozliwych osob do zrekrutowania jest widoczna obok nazwy Ojca Chrzestnego. Jezeli sprobuje zrekrutowac osobe, ktora nie moze zostac zrekrutowania, np neutrale i inne, zabije te osobe. Jezeli Ojcu Chrzestnemu skoncza sie miejsca w gangu, moze jedynie zabijac.
 CleanerInfoLong:(Impostorzy):\nWozny moze posprzatac kazde napotkane cialo poprzez nacisniecie przycisku zgloszenia. Jezeli uda mu sie usunac cialo, Wozny zobaczy u siebie animacje tarczy. Posprzatane cialo nie moze zostac zgloszone, nawet cialo Przynety.
-BallLightningInfoLong:(Impostorzy):\nKwantyzator nie moze zabijac w normalny sposob. Po tym jak Kwantyzator uzyje swojego przycisku zabicia na celu, cel odparuje sie w ducha kwantowego po ustalonym czasie, i kazdy moze zobaczyc 「■」 obok imienia ducha kwantowego jako przypomnienie. Jesli jest niesferyczna blyskawica i gracz, ktory nie jest duchem kwantowym dotyka ducha kwantowego, duch kwantowy natychmiast sie kwantuje i umiera. Jezeli duch kwantowy przezyje do spotkania, umrze on gdy spotkanie dobiegnie konca. W trakcie tego, kazda aktywna interakcja (przycisk zabicia) nie oddzialuje na ducha kwantowego. W zaleznosci od ustawien hosta, zabicie Kwantyzatora moze spowodowac, ze zabojca odparuje sie w ducha kwantowego.
-GreedierInfoLong:(Impostorzy):\nKczas odnowienia zabojstwa Chciwca zmienia sie w zaleznosci od tego czy jest to parzyste, czy nieparzyste zabojstwo. czas odnowienia zabojstwa Chciwca jest resetowany podczas kazdego spotkania, a pierwsze zabojstwo Chciwca jest zawsze nieparzyste.
+LightningInfoLong:(Impostorzy):\nKwantyzator nie moze zabijac w normalny sposob. Po tym jak Kwantyzator uzyje swojego przycisku zabicia na celu, cel odparuje sie w ducha kwantowego po ustalonym czasie, i kazdy moze zobaczyc 「■」 obok imienia ducha kwantowego jako przypomnienie. Jesli jest niesferyczna blyskawica i gracz, ktory nie jest duchem kwantowym dotyka ducha kwantowego, duch kwantowy natychmiast sie kwantuje i umiera. Jezeli duch kwantowy przezyje do spotkania, umrze on gdy spotkanie dobiegnie konca. W trakcie tego, kazda aktywna interakcja (przycisk zabicia) nie oddzialuje na ducha kwantowego. W zaleznosci od ustawien hosta, zabicie Kwantyzatora moze spowodowac, ze zabojca odparuje sie w ducha kwantowego.
+GreedyInfoLong:(Impostorzy):\nKczas odnowienia zabojstwa Chciwca zmienia sie w zaleznosci od tego czy jest to parzyste, czy nieparzyste zabojstwo. czas odnowienia zabojstwa Chciwca jest resetowany podczas kazdego spotkania, a pierwsze zabojstwo Chciwca jest zawsze nieparzyste.
 CursedWolfInfoLong:(Impostorzy):\nKiedy ktos sprobuje zabic Przekletego Wilka, sam umrze.
-ImperiusCurseInfoLong:(Impostorzy):\nZbieracz dusz moze zamienic sie miejscem z osoba, w ktora zshiftuje. Jezeli jego cel jest martwy, polkniety itd., nic sie nie stanie.
+SoulCatcherInfoLong:(Impostorzy):\nZbieracz dusz moze zamienic sie miejscem z osoba, w ktora zshiftuje. Jezeli jego cel jest martwy, polkniety itd., nic sie nie stanie.
 QuickShooterInfoLong:(Impostorzy):\nKiedy minie czas odnowienia zabojstwa, Szybki Strzelec moze zresetowac czas odnowienia zabojstwa shiftujac, aby zdobyc amunicje. Kiedy uda mu sie zdobyc naboj, zobaczy u siebie animacje tarczy. Po zabojstwie, zamiast czekac na czas odnowienia zabojstwa, moze korzystac z posiadanej amunicji. Podczas kazdego spotkania, moze przechowywac tylko okreslona liczbe naboi, liczbe te ustawia wlasciciel lobby.
 CamouflagerInfoLong:(Impostorzy):\nEfekt kamuflazu rozpoczyna sie gdy Daltonista shiftuje. Kazdy wyglada wtedy tak samo. Efekt konczy sie w momencie konca shiftu Daltonisty. Uwaga: Sabotaz komunikacji i kamuflaz Daltonisty moga wystapic jednoczesnie Uwaga: kamuflaz zakonczy sie w momencie spotkania.
 EraserInfoLong:(Impostorzy):\nWymazywacz moze zaglosowac na dowolnego gracza z crew, aby usunac jego role. Rola zostanie wymazana po spotkaniu. Uwaga: Gracz, ktorego rola zostanie usunieta bedzie jako rola vanilla. Gracza mozna wymazac jedynie raz, wlacznie z Oiiai.
-OverKillerInfoLong:(Impostorzy):\nZabojstwa Rzeznika (wlaczajac w to pasywne zabojstwa) pozostawiaja wiele martwych cial na celu. Sprawia to, ze trudno jest wlasciwie zidentyfikowac inne martwe ciala, gdy sie zglasza. Uwaga: Z racji na zasade implementacji, zabity cel musi wielokrotnie wyswietlac animacje zabicia. Ta animacja nie moze zostac pominieta i nie da sie normalnie uczystniczyc w spotkaniu w tym okresie. Dodatkowo, jesli Rzeznik zabije Msciwego, Msciwy w gniewie pomsci wszystkich.
+ButcherInfoLong:(Impostorzy):\nZabojstwa Rzeznika (wlaczajac w to pasywne zabojstwa) pozostawiaja wiele martwych cial na celu. Sprawia to, ze trudno jest wlasciwie zidentyfikowac inne martwe ciala, gdy sie zglasza. Uwaga: Z racji na zasade implementacji, zabity cel musi wielokrotnie wyswietlac animacje zabicia. Ta animacja nie moze zostac pominieta i nie da sie normalnie uczystniczyc w spotkaniu w tym okresie. Dodatkowo, jesli Rzeznik zabije Msciwego, Msciwy w gniewie pomsci wszystkich.
 HangmanInfoLong:(Impostorzy):\nMetoda zabijania Dusiciela podczas shiftowania to duszenie. Duszenie ignoruje status osoby zabijanej, taki jak tarcza od medyka, ochroniarza itd. Uduszony gracz nie pozostawia za soba ciala, ani nie aktywuje zadnych swoich zdolnosci tj. Weteran, Szczesciarz itd. Jasnowidz rowniez nie zostanie powiadomiony.
 SwooperInfoLong:(Impostorzy):\nKameleon moze wentowac, aby stac sie niewidzialnym dla graczy na pewien okres. Oznacza to, ze Kameleon nie moze normalnie wentowac. W celu wylaczenia niewidki zwentuj ponownie. Uwaga: Po uplynietym czasie samoistnie staniesz sie widoczny.
 CrewpostorInfoLong:(Impostorzy):\nZabijesz najblizszego gracza po zrobieniu jakiegokolwiek zadania.
