@@ -1,11 +1,11 @@
-HostText:<color=#ffbad2>[</color><color=#fd9bbd>H</color><color=#fb7ca9>O</color><color=#f95d94>S</color><color=#f63e7f>T</color><color=#f41f6b>,</color><color=#f20056> </color><color=#ea2969>M</color><color=#e1537c>O</color><color=#d97c8e>D</color><color=#d0a6a1>Y</color><color=#ffbad2>]</color>
-HostColor:#fc91b6
-IconColor:#e24e79
-Icon:♥
-HideHostText:Ukryj napis'Host♥' 
-NameColor:#fc91b6
+HostText:<color=#444eff>Gospodarz</color> 
+HostColor:#444eff
+IconColor:#ff0000
+Icon: ♥ 
+HideHostText:Ukryj napis "Gospodarz ♥ " 
+NameColor:#444eff
 kofi:Ko-Fi
-update:Update
+update:Aktualizuj
 GitHub:GitHub
 Discord:Discord
 Website:Strona internetowa
@@ -23,58 +23,58 @@ GuesserMode:Tryb Zgadywania
 TeamImpostor:Impostor
 TeamNeutral:Neutrale
 TeamCrewmate:Niewinni
-TeamMadmate:Zlymate
+TeamMadmate:Szaleniec
 YouAreCrewmate:Jestes Niewinnym
 YouAreImpostor:Jestes Impostorem
 YouAreNeutral:Jestes Neutralnym
-YouAreMadmate:Jestes Zly
-Role_Crewmate:<color=#8cffff>Crewmate</color>
-Role_Jester:<color=#ec62a5>Jester</color>
-Role_Opportunist:<color=#4dff4d>Opportunist</color>
-Role_Celebrity:<color=#ee4a55>Celebrity</color>
-Role_Bodyguard:<color=#185abd>Bodyguard</color>
-Role_Dictator:<color=#df9b00>Dictator</color>
-Role_Mayor:<color=#204d42>Mayor</color>
-Role_Doctor:<color=#80ffdd>Doctor</color>
-Role_Maverick:<color=#781717>Maverick</color>
-Role_Pursuer:<color=#617218>Pursuer</color>
-Role_Follower:<color=#ff9409>Follower</color>
-Role_Amnesiac:<color=#7FBFFF>Amnesiac</color>
-Role_Imitator:<color=#B3D94C>Imitator</color>
-Role_Sheriff:<color=#ffb347>Sheriff</color>
-Role_Knight:<color=#7A7A7A>Knight</color>
-Role_Deputy:<color=#DF9026>Deputy</color>
-Role_NoChange:Don't change the role
-CrewmatesCanGuess:<color=#8cffff>Niewinni</color> moga zgadywac
-ImpostorsCanGuess:<color=#ff1919>Impostorzy</color> moga zgadywac
-NeutralKillersCanGuess:<color=#7f8c8d>Neutralni Zabojcy</color> moga zgadywac
-PassiveNeutralsCanGuess:Pasywni <color=#7f8c8d>Neutralni</color> moga zgadywac
-CanGuessAddons:Moga Odgadnac Modyfikacje
+YouAreMadmate:Jestes Szalencem
+Role_Crewmate:<color=#8cffff>Niewinny</color>
+Role_Jester:<color=#ec62a5>Blazen</color>
+Role_Opportunist:<color=#4dff4d>Oportunista</color>
+Role_Celebrity:<color=#ee4a55>Celebryta</color>
+Role_Bodyguard:<color=#185abd>Ochroniarz</color>
+Role_Dictator:<color=#df9b00>Dyktator</color>
+Role_Mayor:<color=#204d42>Burmistrz</color>
+Role_Doctor:<color=#80ffdd>Doktor</color>
+Role_Maverick:<color=#781717>Indywidualista</color>
+Role_Pursuer:<color=#617218>Przesladowca</color>
+Role_Follower:<color=#ff9409>Obserwujacy</color>
+Role_Amnesiac:<color=#7FBFFF>Amnezjak</color>
+Role_Imitator:<color=#B3D94C>Nasladowca</color>
+Role_Sheriff:<color=#ffb347>Szeryf</color>
+Role_Knight:<color=#7A7A7A>Rycerz</color>
+Role_Deputy:<color=#DF9026>Zastepca</color>
+Role_NoChange:Nie Zmieniaj Roli
+CrewmatesCanGuess:<color=#8cffff>Niewinni</color> Moga Zgadywac
+ImpostorsCanGuess:<color=#ff1919>Impostorzy</color> Moga Zgadywac
+NeutralKillersCanGuess:<color=#7f8c8d>Neutralni Zabojcy</color> Moga Zgadywac
+PassiveNeutralsCanGuess:Pasywni <color=#7f8c8d>Neutralni</color> Moga Zgadywac
+CanGuessAddons:Moze Zgadywac Modyfikacje
 ShowOnlyEnabledRolesInGuesserUI:Pokazuj tylko wlaczone role na interfejsie Trybu Zgadywania
 CrewCanGuessCrew:<color=#8cffff>Niewinny</color> Moze Zgadywac Role <color=#8cffff>Niewinnych</color>
 ImpCanGuessImp:<color=#ff1919>Impostor</color> Moze Zgadywac Role <color=#ff1919>Impostorow</color>
-GuessImmune:Sorry, but target is immune to being guessed!
+GuessImmune:Przykro mi, ale cel jest odporny na zgadywanie!
 GM:Mistrz Gry
-Sunnyboy:Sloneczko
+Sunnyboy:Sloneczny Chlopiec
 Bard:Poeta
 Crewmate:Niewinny
-CrewmateTOHE:Crewmate
+CrewmateTOHE:Niewinny
 Engineer:Inzynier
 EngineerTOHE:Inzynier
 Scientist:Naukowiec
 ScientistTOHE:Naukowiec
-Noisemaker:Noisemaker
-NoisemakerTOHE:Noisemaker
-Tracker:Tracker
-TrackerTOHE:Tracker
+Noisemaker:Halasnik
+NoisemakerTOHE:Halasnik
+Tracker:Lokalizator
+TrackerTOHE:Lokalizator
 GuardianAngel:Aniol Stroz
 GuardianAngelTOHE:Aniol Stroz
 Impostor:Impostor
 ImpostorTOHE:Impostor
 Shapeshifter:Zmiennoksztaltny
 ShapeshifterTOHE:Zmiennoksztaltny
-Phantom:Phantom
-PhantomTOHE:Phantom
+Phantom:Fantom
+PhantomTOHE:Fantom
 BountyHunter:Lowca Glow
 FireWorker:Fajerwerk
 Mercenary:Seryjny Morderca
@@ -83,62 +83,62 @@ Vampire:Wampir
 Warlock:Czarnoksieznik
 Ninja:Ninja
 Zombie:Zombie
-Anonymous:Haker
+Anonymous:Anonimowy
 Miner:Gornik
 KillingMachine:Zabojcza Maszyna
 Escapist:Uciekinier
 Witch:Wiedzma
-Nemesis:Nemesis
-Bloodmoon:Bloodmoon
+Nemesis:Nemezis
+Bloodmoon:Ksiezyc Krwi
 Puppeteer:Marionetkarz
-Mastermind:Mastermind
+Mastermind:Mozg
 TimeThief:Zlodziej Czasu
 Sniper:Snajper
-Undertaker:Undertaker
-RiftMaker:Rift Maker
+Undertaker:Grabarz
+RiftMaker:Tworca Szczelin
 EvilTracker:Zlowrogi Tropiciel
-EvilHacker:Evil Hacker
-EvilGuesser:Asasyn
-AntiAdminer:Inwigilator
+EvilHacker:Zlowrogi Haker
+EvilGuesser:Zlowrogi Zgadywacz
+AntiAdminer:AntyAdminer
 Arrogance:Arogant
-Bomber:Kamikaze
+Bomber:Zamachowiec
 Scavenger:Padlinozerca
-Trapster:Wirus
-Gangster:Ojciec Chrzestny
+Trapster:Tropiciel
+Gangster:Bandyta
 Cleaner:Wozny
-Lightning:Kwantowe Widmo
+Lightning:Blyskawica
 Greedy:Chciwiec
 CursedWolf:Przeklety Wilk
 SoulCatcher:Lowca Dusz
 QuickShooter:Szybki Strzelec
-Camouflager:Daltonista
+Camouflager:Kamuflarzysta
 Eraser:Wymazywacz
 Butcher:Rzeznik
 Hangman:Dusiciel
-Swooper:Kameleon
-Crewpostor:Crewpostor
+Swooper:Znikajacy
+Crewpostor:Niewpostor
 Wildling:Dzikus
 Trickster:Oszust
-Vindicator:Obronca
+Vindicator:Windykator
 Parasite:Pasozyt
 Disperser:Rozpraszacz
-Inhibitor:AntySabotazysta
+Inhibitor:Destymulanta
 Saboteur:Sabotazysta
-Councillor:Intrygant
-Dazzler:Dezorientator
+Councillor:Radny
+Dazzler:Olsniewajacy
 Deathpact:Umawiacz
 Devourer:Pozeracz
 Consigliere:Doradca
-Morphling:Maska
-Twister:Twister
+Morphling:Morfling
+Twister:Kretacz
 Lurker:Wenciarz
 Visionary:Wizjoner
 Refugee:Uchodzca
 Underdog:Podludz
-Ludopath:Ludopath
-Godfather:Godfather
+Ludopath:Ludopatia
+Godfather:Ojciec chrzestny
 Chronomancer:Chronomancer
-Pitfall:Pitfall
+Pitfall:Klopot
 Berserker:Berserker
 EvilMini:Evil Mini
 Blackmailer:Blackmailer
@@ -362,10 +362,10 @@ DollMaster:Dollmaster
 BracketAddons:Dodaj nawiasy do modyfikacja
 EngineerTOHEInfo:Uzyj Wentow, aby znalezc i zlapac <color=#ff1919>Impostorow</color>
 ScientistTOHEInfo:Uzyskaj dostep do parametrow zyciowych graczy z dowolnego miejsca
-NoisemakerTOHEInfo:Send out an alert when killed
-TrackerTOHEInfo:Track a players with your map
+NoisemakerTOHEInfo:Wysylaj powiadomienia o zabiciu
+TrackerTOHEInfo:Sledz graczy za pomoca mapy
 ShapeshifterTOHEInfo:Przebierz sie za inna osobe, aby ich wrobic
-PhantomTOHEInfo:Turn invisible
+PhantomTOHEInfo:Stan sie niewidzialny
 GuardianAngelTOHEInfo:Chron innych przed <color=#ff1919>Impostorami</color>
 ImpostorTOHEInfo:Zabij i sabotuj
 CrewmateTOHEInfo:Wykonuj swoje zadania
@@ -385,18 +385,18 @@ WitchInfo:Rzucaj zaklecia aby zabijac podczas spotkania
 NemesisInfo:Zabij kiedy jestes ostatnim Impostorem
 BeforeNemesisInfo:Nie mozesz jeszcze zabijac
 AfterNemesisInfo:Teraz zacznij zabijac
-BloodmoonInfo:Seek havoc upon the crewmates
+BloodmoonInfo:Siej spustoszenie wsrod Niewinnych
 PuppeteerInfo:Spraw, by gracze zabijali dla Ciebie
-MastermindInfo:Make others kill for you
+MastermindInfo:Spraw, by inni zabijali dla ciebie
 TimeThiefInfo:Nizszy czas spotkania poprzez zabijanie
 SniperInfo:Zmien sie, aby zabic z daleka
-UndertakerInfo:Teleport dead body to a marked location
-RiftMakerInfo:Two rifts I trace, touch 'em to warp space
+UndertakerInfo:Teleportuj martwe cialo do oznaczonego miejsca
+RiftMakerInfo:Dwie szczeliny namierzam, dotykam ich, by stworzyc przestrzen
 EvilTrackerInfo:Zmien sie, aby sledzic graczy
-EvilHackerInfo:Hack systems
+EvilHackerInfo:Hackuj systemy
 AntiAdminerInfo:Wiedz, kiedy gracze beda blisko urzadzen
 ArroganceInfo:Twoj czas odnowienia zabojstwa jest zmniejszany z kazdym zabojstwem
-BomberInfo:Creeper? Aww Man
+BomberInfo:Zmien sie by eksplodowac
 TrapsterInfo:Rozpocznij serie morderstw
 ScavengerInfo:Twoich morderstw nie da sie zglaszac
 EvilGuesserInfo:Zgaduj dobre role podczas spotkania, aby zabic
@@ -422,34 +422,34 @@ InhibitorInfo:Nie mozesz zabijac podczas sabotazy
 SaboteurInfo:Mozesz zabijac jedynie podczas sabotazy
 CouncillorInfo:Zabij Niewinnych podczas spotkania
 DazzlerInfo:Zmniejsz wizje Niewinnych
-DeathpactInfo:Assign players to a death pact
+DeathpactInfo:Przydziel graczy do paktu smierci
 DevourerInfo:Pozryj skore Niewinnych
 ConsigliereInfo:Odkryj role innych graczy
 MorphlingInfo:Mozesz zabijac jedynie podczas shiftu
 TwisterInfo:Zamien pozycjami wszystkich graczy
 LurkerInfo:Zmniejsz swoj czas odnowienia zabojstwa wentujac
 ConvictInfo:Twoj cel umarl, teraz pomagasz Impostorom
-VisionaryInfo:You see the alignments of the living
+VisionaryInfo:Widzisz wyrownania zywych
 RefugeeInfo:Pomoz Impostorom zabic Niewinnych graczy
 UnderdogInfo:Zacznij zabijac przy malej liczbie graczy
-LudopathInfo:Your kill cooldown is random
-GodfatherInfo:Convert players to Refugees by voting
-ChronomancerInfo:Kill in bursts
-PitfallInfo:Setup traps around the map
-BerserkerInfo:Kill to increase your level
-EvilMiniInfo:No one can hurt you until you grow up
-BlackmailerInfo:Silence other players
-InstigatorInfo:Sow discord among the crewmates
+LudopathInfo:Czas odnowienia zabojstwa jest losowy
+GodfatherInfo:Przeksztalcaj graczy w uchodzcow poprzez glosowanie
+ChronomancerInfo:Zabijaj w seriach
+PitfallInfo:Ustaw pulapki wokoł mapy
+BerserkerInfo:Zabij, aby zwiekszyc swoj poziom
+EvilMiniInfo:Nikt nie moze cie skrzywdzic, dopoki nie dorosniesz
+BlackmailerInfo:Ucisz innych graczy
+InstigatorInfo:Siej spustoszenie wsrod Niewinnych
 LazyGuyInfo:Len
 SuperStarInfo:Kazdy cie zna
-CleanserInfo:Erase All Addons of your vote target
-KeeperInfo:Reject the Eject, Keeper Protect!
+CleanserInfo:Usun wszystkie modyfikacje swojego celu glosowania
+KeeperInfo:Odrzuc wyrzucanie, zachowaj ochrone!
 MayorInfo:Twoj glos liczy sie wiele razy
 PsychicInfo:Jeden z czerwonych nickow jest <color=#ff1919>Zla Osoba</color>
 MechanicInfo:Naprawiaj szybciej sabotaze i wentuj.
 SheriffInfo:Zabij <color=#ff1919>Impostorow i Neutrali</color>
-VigilanteInfo:Not the hero we deserved but the hero we needed
-JailerInfo:Jail suspicious players
+VigilanteInfo:Bohater, na ktorego nie zasluzylismy, ale ktorego potrzebowalismy.
+JailerInfo:Aresztuj podejrzanych graczy
 CopyCatInfo:Uzyj przycisku kill, aby skopiowac role danej osoby
 SnitchInfo:Zakoncz swoje zadania, aby znalezc <color=#ff1919>Impostorow</color>
 MarshallInfo:Skoncz zadania, aby dowiesc swojej niewinnosci
@@ -459,11 +459,11 @@ DetectiveInfo:Zglaszaj ciala, aby zdobyc informacje.
 UndercoverInfo:Impostorzy maja Cie za ich wspolnika.
 KnightInfo:Mozesz zabic 1 dowolnego gracza. Jestes po stronie niewinnych.
 NiceGuesserInfo:Zgaduj <color=#ff1919>Zle Role</color> podczas spotkania, aby je wyeliminowac.
-GuessMasterInfo:Whispers heard, every guessed word.
+GuessMasterInfo:Slychac szepty, za kazde odgadniete slowo.
 TransporterInfo:Wykonuj zadania, aby zamienic miejscami dwoch graczy.
 TimeManagerInfo:Wykonuj zadania, aby zwiekszyc czas meetingu.
 VeteranInfo:Groz smiercia, kazdemu kto sprobuje Cie zabic.
-BastionInfo:Bomb vents
+BastionInfo:Zdetonuj wenty
 BodyguardInfo:Zapobiegaj zabojstwom w poblizu Ciebie.
 DeceiverInfo:Staraj sie oszukac graczy
 GrenadierInfo:Zmniejsz wizje <color=#ff1919>Impostorow</color>' wentujac.
@@ -475,20 +475,20 @@ MediumInfo:Porozmawiaj z duchami
 ObserverInfo:Widzisz wszystkie animacje tarczy.
 PacifistInfo:Wentuj, aby zresetowac wszystkim czas odnowy zabicia
 MonarchInfo:Daj swojej druzynie Niewinnych dodatkowa moc podczas glosowania!
-StealthInfo:Killing Blinds Everyone in the Room
-PenguinInfo:Drag your victims
+StealthInfo:Zabijanie oslepia wszystkich w pomieszczeniu
+PenguinInfo:Przeciagnij swoje ofiary
 OverseerInfo:Odkryj role innych graczy
 CoronerInfo:Znajdz trupy i ich mordercow
-PresidentInfo:You are in charge of the meeting
+PresidentInfo:Ty jestes odpowiedzialny za spotkanie
 MerchantInfo:Sprzedawaj modyfikacje i przekupuj mordercow.
 RetributionistInfo:Pomoz zalodze po smierci.
-HawkInfo:Seek murdering the bad guys!
+HawkInfo:Szukanie mordercow z zlych ludzi!
 DeputyInfo:Zakuj w kajdanki mordercow, aby zwiekszyc im czas odnowienia zabojstwa.
-InvestigatorInfo:Find potential evils
+InvestigatorInfo:Znajdz potencjalne zlo
 GuardianInfo:Skoncz wszystkie taski, aby stac sie niesmiertelnym
 AddictInfo:Jestes uzalezniony od wentowania, zwentuj zanim umrzesz przez delirke.
-MoleInfo:<size=90%>Vanish and reappear, the Mole's game is crystal clear!</size>
-AlchemistInfo:Brew potions by completing tasks
+MoleInfo:<size=90%>Znikaj i pojawiaj sie ponownie, gra w Kreta jest krystalicznie czysta!</size>
+AlchemistInfo:Warz mikstury, wykonujac zadania
 TracefinderInfo:Wyczuj lokalizacje trupow.
 OracleInfo:Zaglosuj na gracza, aby poznac do jakiej druzyny nalezy
 SpiritualistInfo:Daj sie zaprowadzic do cial duszkom
