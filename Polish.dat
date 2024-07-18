@@ -655,15 +655,15 @@ SunnyboyInfo:Swiec, swiec moje sloneczko!
 BardInfo:Poematu czar, morderczy szal, szalenczy taniec i smiertelny dar
 RainbowInfo:Colorful melodies! You don't even know your own color.
 DollMasterInfo:Take control of players actions!
-EngineerTOHEInfoLong:(Niewinni):\nJako Inzynier, mozesz korzystac z wentow.\nWenty sa wylaczone podczas sabotazu comsow.
-ScientistTOHEInfoLong:(Niewinni):\nAs the Scientist, you have a portable tablet with the crew's vitals on it.\nUse this any way you'd like.\nCatching self-reports, extra intel on body age, etc.
-NoisemakerTOHEInfoLong:(Crewmates):\nAs the Noisemaker, whenever you die you will make a noise, and a visual indicator of your death appears on the screen so the Crewmates can run to catch the person who killed you red-handed (even if it’s not Red).
-TrackerTOHEInfoLong:(Crewmates):\nAs the Tracker, press your tracker button on a player to track their location via the map for a limited amount of time.
-ShapeshifterTOHEInfoLong:(Impostorzy):\nJako Zmiennoksztaltny/Shapeshifter, mozesz zmienic sie w innego gracza.\nPamietaj, ze podczas zamiany widac jajko Twojego koloru, a zamiana jest chwilowa.
-PhantomTOHEInfoLong:(Impostors):\nAs the Phantom, you can press your vanish button to go invisible to escape a kill. You can click your appear button if you want to become visible before the timer runs out or not.\nNote: You will make a smoke cloud whenever you go invisible and become visible. So make sure you are in a safe area where no one will see you.
-GuardianAngelTOHEInfoLong:(Niewinni):\nJako Aniol Stroz, posmiertnie, Twoim zadaniem jest chronienie graczy przez Impostorami.
-ImpostorTOHEInfoLong:(Impostorzy):\nJako Impostor, Twoim zadaniem jest zabicie Niewinnych\nMozesz sabotowac i wentowac.
-CrewmateTOHEInfoLong:(Niewinni):\nTwoj cel jako niewinny jest dosc prosty. Znajdz i wyrzuc impostorow.\n\nNiewinni wygrywaja, pozbywajac sie wszystkich zabojcow lub wykonujac wszystkie swoje zadania.
+EngineerTOHEInfoLong:(Niewinny):\nJako Inzynier, mozesz korzystac z wentow.\nWenty sa wylaczone podczas sabotazu comsow.
+ScientistTOHEInfoLong:(Niewinny):\nJako Naukowiec dysponujesz przenosnym tabletem, na ktorym zapisane sa parametry zyciowe innych osob.\nUzywaj go w dowolny sposob.
+NoisemakerTOHEInfoLong:(Niewinny):\nAs the Noisemaker, whenever you die you will make a noise, and a visual indicator of your death appears on the screen so the Crewmates can run to catch the person who killed you red-handed (even if it’s not Red).
+TrackerTOHEInfoLong:(Niewinny):\nAs the Tracker, press your tracker button on a player to track their location via the map for a limited amount of time.
+ShapeshifterTOHEInfoLong:(Impostor):\nJako Zmiennoksztaltny/Shapeshifter, mozesz zmienic sie w innego gracza.\nPamietaj, ze podczas zamiany widac jajko Twojego koloru, a zamiana jest chwilowa.
+PhantomTOHEInfoLong:(Impostor):\nAs the Phantom, you can press your vanish button to go invisible to escape a kill. You can click your appear button if you want to become visible before the timer runs out or not.\nNote: You will make a smoke cloud whenever you go invisible and become visible. So make sure you are in a safe area where no one will see you.
+GuardianAngelTOHEInfoLong:(Niewinny):\nJako Aniol Stroz, posmiertnie, Twoim zadaniem jest chronienie graczy przez Impostorami.
+ImpostorTOHEInfoLong:(Impostor):\nJako Impostor, Twoim zadaniem jest zabicie Niewinnych\nMozesz sabotowac i wentowac.
+CrewmateTOHEInfoLong:(Niewinny):\nTwoj cel jako niewinny jest dosc prosty. Znajdz i wyrzuc impostorow.\n\nNiewinni wygrywaja, pozbywajac sie wszystkich zabojcow lub wykonujac wszystkie swoje zadania.
 BountyHunterInfoLong:(Impostorzy):\nKiedy zabijesz wskazany cel, Twoj czas odnowienia zabojstwa sie zmniejszy.\nKiedy zabijesz kogos innego, Twoj czas odnowienia zabojstwa sie zwiekszy.\nTwoj cel zmienia sie co jakis czas.
 FireworkerInfoLong:(Impostorzy):\nFajerwerk moze stawiac fajerwerki, aby zabic graczy w poblizu. Ma dostep do trzech fajerwerkow aktywowanych poprzez shiftowanie. Kiedy pozostaje jedynym Impostorem, a postawil juz swoje bomby, moze je zdetonowac poprzez shiftowanie. Jego bron jest obusieczna, wiec sam moze zginac z wlasnej reki, natomiast jezeli wyeliminuje wszystkich graczy, uwazane to jest za zwyciestwo Impostorow.
 MercenaryKillerInfoLong:(Impostorzy):\nMasz mniejszy czas odnowienia zabojstwa od innych Impostorow, jednakze umrzesz, jezeli nie zdolasz zabic przed uplynieciem czasu shift.
