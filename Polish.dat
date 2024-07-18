@@ -99,7 +99,7 @@ RiftMaker:Tworca Szczelin
 EvilTracker:Zlowrogi Tropiciel
 EvilHacker:Zlowrogi Haker
 EvilGuesser:Zlowrogi Zgadywacz
-AntiAdminer:AntyAdminer
+AntiAdminer:Administrator
 Arrogance:Arogant
 Bomber:Zamachowiec
 Scavenger:Padlinozerca
@@ -137,32 +137,32 @@ Refugee:Uchodzca
 Underdog:Podludz
 Ludopath:Ludopatia
 Godfather:Ojciec chrzestny
-Chronomancer:Chronomancer
+Chronomancer:Chronomanta
 Pitfall:Klopot
-Berserker:Berserker
-EvilMini:Evil Mini
-Blackmailer:Blackmailer
-Instigator:Szczesciarz
+Berserker:Oszalaly
+EvilMini:Zly Mini
+Blackmailer:Szantazysta
+Instigator:Inicjator
 LazyGuy:Len
 SuperStar:Gwiazda
 Celebrity:Celebryta
-Cleanser:Cleanser
-Keeper:Keeper
-Knight:Szermierz
+Cleanser:Czysciciel
+Keeper:Zachowywacz
+Knight:Rycerz
 Mayor:Burmistrz
-Psychic:Mentalista
-Mechanic:Zlota Raczka
+Psychic:Psychik
+Mechanic:Mechanik
 Sheriff:Szeryf
 Vigilante:Vigilante
-Jailer:Jailer
+Jailer:Straznik
 CopyCat:Kopiara
 Snitch:Kapus
 Marshall:Marszalek
 Doctor:Doktor
 Dictator:Dyktator
 Detective:Detektyw
-NiceGuesser:Vigilante
-GuessMaster:Guess Master
+NiceGuesser:Niezly Zgadywacz
+GuessMaster:Mistrz Zgadywania
 Transporter:Transporter
 TimeManager:Zarzadca Czasu
 Veteran:Weteran
@@ -171,7 +171,7 @@ Bodyguard:Ochroniarz
 Deceiver:Zwodziciel
 Grenadier:Granatnik
 Medic:Medyk
-FortuneTeller:Wrozka
+FortuneTeller:Wrozbita
 Judge:Sedzia
 Mortician:Patomorfolog
 Medium:Medium
@@ -182,40 +182,40 @@ Overseer:Podgladacz
 Coroner:Koroner
 Merchant:Kupiec
 President:President
-Hawk:Hawk
-Retributionist:Retributionist
-Deputy:Podkomisarz
-Investigator:Investigator
-Guardian:Guardian
-Addict:Cpun
-Mole:Mole
-Alchemist:Alchemist
-Tracefinder:Tracefinder
-Oracle:Oracle
-Spiritualist:Spiritualist
+Hawk:Jastrzab
+Retributionist:Retrybutywista
+Deputy:Zastepca
+Investigator:Sledczy
+Guardian:Opiekun
+Addict:Uzalezniony
+Mole:Mol
+Alchemist:Alchemik
+Tracefinder:Poszukiwacz sladow
+Oracle:Wyrocznia
+Spiritualist:Spirytysta
 Chameleon:Kameleon
 Inspector:Inspektor
-Captain:Captain
-Admirer:Admirer
+Captain:Kapitan
+Admirer:Wielbiciel
 TimeMaster:Szef Czasu
 Crusader:Zaklinacz
-Reverie:Reverie
-Lookout:Lookout
-Telecommunication:Telecommunication
+Reverie:Zaduma
+Lookout:Punkt widokowy
+Telecommunication:Telekomunikacja
 Lighter:Oswietlajacy
-TaskManager:Task Manager
+TaskManager:Menadzer Zadan
 Witness:Witness
-Swapper:Swapper
-NiceMini:Nice Mini
+Swapper:Zmieniacz
+NiceMini:Dobry Mini
 Mini:Mini
-Spy:Spy
-Randomizer:Randomizer
-Enigma:Enigma
+Spy:Szpieg
+Randomizer:Randomizator
+Enigma:Zagadka
 Jester:Blazen
-Arsonist:Piroman
-Pyromaniac:Pyromaniac
-Kamikaze:Kamikaze
-Huntsman:Huntsman
+Arsonist:Podpalacz
+Pyromaniac:Piroman
+Kamikaze:Kamikadze
+Huntsman:Mysliwy
 Terrorist:Terrorysta
 Executioner:Kat
 Lawyer:Prawnik
@@ -224,65 +224,65 @@ Vector:Mario
 Jackal:Szakal
 God:Bog
 Innocent:Wrabiacz
-Stealth:Stealth
-Penguin:Penguin
+Stealth:Ostrozny
+Penguin:Pingwin
 Pelican:Pelikan
-PlagueDoctor:Plague Scientist
+PlagueDoctor:Naukowiec Plagi
 Revolutionist:Rewolucjonista
 Hater:Hejter
 Demon:Demon
-Stalker:Stalker
+Stalker:Przesladowca
 Workaholic:Pracoholik
-Solsticer:Solsticer
+Solsticer:Przesilenie
 Collector:Kolekcjoner
 Provocateur:Prowokator
 BloodKnight:Krwawy Rycerz
-PlagueBearer:AIDS
-Pestilence:Odporny
-Glitch:Glitch
+PlagueBearer:Nosiciel Plagi
+Pestilence:Zaraza
+Glitch:Usterka
 Sidekick:Pomocnik
-Follower:Choragiewka
-Cultist:Cultist
-SerialKiller:Zabijaka
+Follower:Obserwujacy
+Cultist:Kultysta
+SerialKiller:Seryjny zabojca
 Juggernaut:Juggernaut
-Infectious:Zarazacz
-Virus:Choroba
-Pursuer:Pursuer
-Specter:Specter
+Infectious:Zaraza
+Virus:Wirus
+Pursuer:Sciagajacy
+Specter:Widmo
 Pirate:Pirat
 Agitater:Agitater
-Maverick:Samotnik
-CursedSoul:Cursed Soul
-Pickpocket:Zlodziejaszek
+Maverick:Indywidualista
+CursedSoul:Przekleta Dusza
+Pickpocket:Kieszonkowiec
 Traitor:Zdrajca
-Vulture:Vulture
-Taskinator:Taskinator
-Benefactor:Benefactor
+Vulture:Sep
+Taskinator:Sabotazysta Taskow
+Benefactor:Dobroczynca
 Medusa:Meduza
-Spiritcaller:Spiritcaller
-Amnesiac:Amnesiac
-Imitator:Imitator
+Spiritcaller:Spirytus
+Amnesiac:Amnezjak
+Imitator:Nasladowca
 Bandit:Bandyta
-Doppelganger:Doppelganger
-PunchingBag:Punching Bag
-Doomsayer:Doomsayer
+Doppelganger:Sobowtor
+PunchingBag:Worek Treningowy
+Doomsayer:Pogromca
 Shroud:Shroud
-Werewolf:Werewolf
+Werewolf:Wilkolak
 Shaman:Shaman
 Seeker:Seeker
 Pixie:Pixie
 Occultist:Occultist
 SoulCollector:Soul Collector
-SchrodingersCat:Schrodingers Cat
-Romantic:Romantic
+SchrodingersCat:Kot Schrodingera
+Romantic:Romantyk
 VengefulRomantic:Vengeful Romantic
 RuthlessRomantic:Ruthless Romantic
 Poisoner:Poisoner
 HexMaster:Hex Master
-Wraith:Widmo
+Wraith:Zjawa
 Jinx:Jinx
 PotionMaster:Potion Master
-Necromancer:Necromancer
+Necromancer:Nekromanta
 Warden:Warden
 Minion:Minion
 Ghastly:Ghastly
@@ -664,54 +664,54 @@ PhantomTOHEInfoLong:(Impostor):\nAs the Phantom, you can press your vanish butto
 GuardianAngelTOHEInfoLong:(Niewinny):\nJako Aniol Stroz, posmiertnie, Twoim zadaniem jest chronienie graczy przez Impostorami.
 ImpostorTOHEInfoLong:(Impostor):\nJako Impostor, Twoim zadaniem jest zabicie Niewinnych\nMozesz sabotowac i wentowac.
 CrewmateTOHEInfoLong:(Niewinny):\nTwoj cel jako niewinny jest dosc prosty. Znajdz i wyrzuc impostorow.\n\nNiewinni wygrywaja, pozbywajac sie wszystkich zabojcow lub wykonujac wszystkie swoje zadania.
-BountyHunterInfoLong:(Impostorzy):\nKiedy zabijesz wskazany cel, Twoj czas odnowienia zabojstwa sie zmniejszy.\nKiedy zabijesz kogos innego, Twoj czas odnowienia zabojstwa sie zwiekszy.\nTwoj cel zmienia sie co jakis czas.
-FireworkerInfoLong:(Impostorzy):\nFajerwerk moze stawiac fajerwerki, aby zabic graczy w poblizu. Ma dostep do trzech fajerwerkow aktywowanych poprzez shiftowanie. Kiedy pozostaje jedynym Impostorem, a postawil juz swoje bomby, moze je zdetonowac poprzez shiftowanie. Jego bron jest obusieczna, wiec sam moze zginac z wlasnej reki, natomiast jezeli wyeliminuje wszystkich graczy, uwazane to jest za zwyciestwo Impostorow.
-MercenaryKillerInfoLong:(Impostorzy):\nMasz mniejszy czas odnowienia zabojstwa od innych Impostorow, jednakze umrzesz, jezeli nie zdolasz zabic przed uplynieciem czasu shift.
-ShapeMasterInfoLong:(Impostorzy):\nMistrz Shiftu nie ma ograniczen co do czestosci shiftowania, natomiast czas trwania jego shiftu jest krotszy.
-VampireInfoLong:(Impostorzy):\nUgryziony gracz nie umrze od razu, ale po czasie. Jezeli w miedzyczasie bedzie spotkanie, gracz umrze od razu. W momencie, gdy ugryziesz Przynete, od razu zglaszasz cialo, a przyczyna smierci Przynety bedzie zwykle zabojstwo.
-WarlockInfoLong:(Impostorzy):\nCzarnoksieznik rzuca klatwe na gracza. \nPo rzuceniu klatwy musisz zshiftowac, a wtedy najblizsza osoba do tej, ktora oznaczyles umiera.\nPodczas shiftowania, mozesz normalnie zabijac.\nMozesz oznaczyc tylko jednego gracza na raz.
-ZombieInfoLong:(Impostorzy):\nZombi ma niski czas odnowienia zabojstwa, ale porusza sie powoli i ma mala wizje. Tylko dyktator moze wyglosowac Zombie. Tempo poruszania sie Zombie bedzie spadac wraz z kolejnymi zabojstwami jak i uplywajacym czasem.
-NinjaInfoLong:(Impostorzy):\n Ninja moze skorzystac z przycisku zabojstwa, aby oznaczyc gracza, jezeli oznaczenie sie powiedzie, zobaczy animacje tarczy. Nastepnie, moze skorzystac z opcji shiftu, aby przeteleportowac sie do oznaczonego gracza i go zabic. W zaleznosci od ustawien hosta, Ninja moga zabijac regularnie po dokonaniu pierwszego zamachu.
-AnonymousInfoLong:(Impostorzy):\nHaker moze skorzystac z shiftu aby zhakowac osobe, w ktora sie zmienia. Osoba ta, od razu zglosi cialo osoby zabitej przez hakera. Jezeli Haker jeszcze nikogo nie zabil, zhakowana osoba zglosi swoje cialo.\nUwaga: Hakowanie ignoruje czy dane cialo moze byc zgloszone. Hakowanie Lenia nie daje Ci zadnego pozytku, jedynie marnuje Twoj czas.
-MinerInfoLong:(Impostorzy):\nGornik moze shiftowac, aby przeteleportowac sie do ostatniego wenta, w ktorym byl.
-KillingMachineInfoLong:(Impostorzy):\nZabojcza Maszyna ma bardzo niski czas odnowy zabicia, ale nie moze wentowac, sabotowac, zglaszac, ani zwolywac spotkan nadzwyczajnych. Zabojcza Maszyna ma tez takie samo pole widzenia co Niewinni.
-EscapistInfoLong:(Impostorzy):\nUciekiner moze oznaczyc lokalizacje shiftujac. Jezeli ponownie zshiftuja zostana przeteleportowani do oznaczonego przez siebie miejsca. Uwaga: przy shiftowaniu, a nie odshiftowywaniu.
-WitchInfoLong:(Impostorzy):\nWiedzma ma dwie formy ataku: zwykle zabojstwo, badz rzucenie zaklecia. Dwukrotne wcisniecie przycisku zabijania skutkuje zwyklym zabojstwem, a jednokrotne rzuca klatwe. Podczas spotkania, zaklety gracz bedzie oznaczony krzyzem「†」, widocznym dla wszystkich graczy. Jezeli wiedzma nie zostanie wyrzucona badz zabita podczas spotkania, oznaczony gracz umiera po spotkaniu.
-NemesisInfoLong:(Impostorzy):\nMafia nie moze zabijac, gdy inni Impostorzy zyja. Gdy umrze, moze skorzystac z komendy /ry [id gracza], aby zabic konkretnego gracza.
-BloodmoonInfoLong:(Impostors [Ghost]):\nAs the Bloodmoon, attack the enemies to make them drip blood, this means they will die in a time set by the host, and will be aware of it.
-PuppeteerInfoLong:(Impostorzy):\nGracz kontrolowany przez Marionetkarza zabije pierwsza napotkana osobe na swojej drodze, o ile osoba ta nie jest Impostorem. Marionetkarz nie moze zabijac w zwyczajny sposob. Dodatkowo: oznaczenie Lenia nie przyniesie Ci pozytku, jedynie zmarnuje Twoj czas.
-MastermindInfoLong:(Impostors):\nAs the Mastermind, you can use your kill button on a player once to manipulate them. This does nothing if the target doesn't have a kill button. But if the target has a kill button of any time, they'll be told after a delay that they were manipulated and they must kill someone in a limited time to survive. If the time limit expires or a meeting gets called before killing someone, they die.\nDouble click on someone to kill them normally.
-TimeThiefInfoLong:(Impostorzy):\nZa kazdym razem, gdy Zlodziej Czasu zabije gracza, czas spotkania sie skraca. Jezeli Zlodziej Czasu umrze, czas spotkania wroci do normy.
-SniperInfoLong:(Impostorzy):\nMozesz zastrzelic graczy z daleka.\nMusisz zshiftowac dwa razy aby wystrzelic naboj.\nMiejsce pierwszego shiftu jest miejscem, z ktorego wystrzelisz naboj, a miejsce drugiego shiftu to miejsce, do ktorego ten naboj doleci.\nWyznacza to droge i kierunek strzalu.\n Pierwsza osoba na drodze zostanie zabita.\nNie mozesz zabijac w normalny sposob dopoki nie pozbedziesz sie amunicji.
-UndertakerInfoLong:(Impostors):\nEverytime you Shapeshift into a player you mark the location. Your kills will then teleport to the marked location.\nAfter every kill and meeting your marked location will reset.\n\nAfter every teleported kill you will freeze for a configurable amount of time
-RiftMakerInfoLong:(Impostors):\nAs Rift Maker you can shapeshift to create a rift. You can teleport from one rift to another by touching the area where the rift was created. Trying to vent will kick you out and all the rifts will be destroyed.\n\nNote: Up to two rifts can be placed at a time, if you try to place a third, it removes the first one.
-EvilTrackerInfoLong:(Impostorzy):\nZlowrogi Tropiciel moze sledzic innych graczy. Aby zmienic sledzony cel, zshiftuj w osobe, ktora chcesz tropic. Strzalka pod Twoja nazwa wskazuje tropiony cel. Jezeli ktos z jego druzyny zabije, Zlowrogi Tropiciel zostanie o tym powiadomiony w postaci blysku sabotazu.
-EvilHackerInfoLong:(Impostors):\nThe Evil Hacker can get the last-minute admin information at the meeting beginning.\nUnoccupied rooms are not shown.\nA '★' marks rooms with impostors.\nRooms with dead bodies are marked with the number of bodies.\nExample: ★Cafeteria: 3 (DEAD×1).
-EvilGuesserInfoLong:(Impostorzy):\nZly Zgadywacz moze odgadnac role konkretnego gracza w trakcie spotkania. Jesli jest prawidlowa, cel umiera, a jesli jest niewlasciwa, Zly Zgadywacz umiera.\nKomenda do zgadywania to: /bt [id gracza] [rola]\nMozesz zobaczyc id gracza przed nazwa gracza lub uzyc komendy /id, aby wyswietlic id wszystkich graczy.
-AntiAdminerInfoLong:(Impostorzy):\nInwigilator moze w kazdym momencie sprawdzic czy ktos z crew stoi blisko urzadzen takich jak kamery,  panel w adminie itd.\nUwaga: Inwigilator nie wie czy dany gracz korzysta z danego urzadzenia, wie jedynie, ze jest niedaleko.
-ArroganceInfoLong:(Impostorzy):\nArogancja zmniejsza czas odnowienia zabojstwa z kazdym ich udanym zabojstwem.
-BomberInfoLong:(Impostorzy):\n Kamikaze moze skorzystac z opcji shiftu, aby wybuchnac, zabijajac graczy w niedalekim promieniu. Niestety sam wtedy ginie.\nUwaga: Wszyscy gracze zobacza blysk sabotazu, gdy Kamikaze wybuchnie.
-ScavengerInfoLong:(Impostorzy):\nPadlinozerca nie zostawia cial za soba. Dodatkowo, jezeli ofiara jest Przyneta, cialo nie zostanie zgloszone.
-TrapsterInfoLong:(Impostorzy):\nWirus zainfekuje cialo swojej ofiary po zabiciu. Gracz, ktory w okreslonym czasie podejdzie zglosic to cialo, zginie, a na dodatek zostanie w ten sam sposob zarazony itd. Niestety za to, Wirus sam umrze po dokonaniu pierwszej zbrodni.\nUwaga: Trup Wirusa nie ma takiego samego efektu.
-GangsterInfoLong:(Impostorzy):\nOjciec Chrzestny moze rekrutowac graczy do swojego gangu poprzez wcisniecie przycisku zabojstwa. Kiedy gracz przejdzie rekrutacje, Ojciec Chrzestny jak i jego podwladny zobacza animacje tarczy. Liczba mozliwych osob do zrekrutowania jest widoczna obok nazwy Ojca Chrzestnego. Jezeli sprobuje zrekrutowac osobe, ktora nie moze zostac zrekrutowania, np neutrale i inne, zabije te osobe. Jezeli Ojcu Chrzestnemu skoncza sie miejsca w gangu, moze jedynie zabijac.
-CleanerInfoLong:(Impostorzy):\nWozny moze posprzatac kazde napotkane cialo poprzez nacisniecie przycisku zgloszenia. Jezeli uda mu sie usunac cialo, Wozny zobaczy u siebie animacje tarczy. Posprzatane cialo nie moze zostac zgloszone, nawet cialo Przynety.
-LightningInfoLong:(Impostorzy):\nKwantyzator nie moze zabijac w normalny sposob. Po tym jak Kwantyzator uzyje swojego przycisku zabicia na celu, cel odparuje sie w ducha kwantowego po ustalonym czasie, i kazdy moze zobaczyc 「■」 obok imienia ducha kwantowego jako przypomnienie. Jesli jest niesferyczna blyskawica i gracz, ktory nie jest duchem kwantowym dotyka ducha kwantowego, duch kwantowy natychmiast sie kwantuje i umiera. Jezeli duch kwantowy przezyje do spotkania, umrze on gdy spotkanie dobiegnie konca. W trakcie tego, kazda aktywna interakcja (przycisk zabicia) nie oddzialuje na ducha kwantowego. W zaleznosci od ustawien hosta, zabicie Kwantyzatora moze spowodowac, ze zabojca odparuje sie w ducha kwantowego.
-GreedyInfoLong:(Impostorzy):\nKczas odnowienia zabojstwa Chciwca zmienia sie w zaleznosci od tego czy jest to parzyste, czy nieparzyste zabojstwo. czas odnowienia zabojstwa Chciwca jest resetowany podczas kazdego spotkania, a pierwsze zabojstwo Chciwca jest zawsze nieparzyste.
-CursedWolfInfoLong:(Impostorzy):\nKiedy ktos sprobuje zabic Przekletego Wilka, sam umrze.
-SoulCatcherInfoLong:(Impostorzy):\nZbieracz dusz moze zamienic sie miejscem z osoba, w ktora zshiftuje. Jezeli jego cel jest martwy, polkniety itd., nic sie nie stanie.
-QuickShooterInfoLong:(Impostorzy):\nKiedy minie czas odnowienia zabojstwa, Szybki Strzelec moze zresetowac czas odnowienia zabojstwa shiftujac, aby zdobyc amunicje. Kiedy uda mu sie zdobyc naboj, zobaczy u siebie animacje tarczy. Po zabojstwie, zamiast czekac na czas odnowienia zabojstwa, moze korzystac z posiadanej amunicji. Podczas kazdego spotkania, moze przechowywac tylko okreslona liczbe naboi, liczbe te ustawia wlasciciel lobby.
-CamouflagerInfoLong:(Impostorzy):\nEfekt kamuflazu rozpoczyna sie gdy Daltonista shiftuje. Kazdy wyglada wtedy tak samo. Efekt konczy sie w momencie konca shiftu Daltonisty. Uwaga: Sabotaz komunikacji i kamuflaz Daltonisty moga wystapic jednoczesnie Uwaga: kamuflaz zakonczy sie w momencie spotkania.
-EraserInfoLong:(Impostorzy):\nWymazywacz moze zaglosowac na dowolnego gracza z crew, aby usunac jego role. Rola zostanie wymazana po spotkaniu. Uwaga: Gracz, ktorego rola zostanie usunieta bedzie jako rola vanilla. Gracza mozna wymazac jedynie raz, wlacznie z Oiiai.
-ButcherInfoLong:(Impostorzy):\nZabojstwa Rzeznika (wlaczajac w to pasywne zabojstwa) pozostawiaja wiele martwych cial na celu. Sprawia to, ze trudno jest wlasciwie zidentyfikowac inne martwe ciala, gdy sie zglasza. Uwaga: Z racji na zasade implementacji, zabity cel musi wielokrotnie wyswietlac animacje zabicia. Ta animacja nie moze zostac pominieta i nie da sie normalnie uczystniczyc w spotkaniu w tym okresie. Dodatkowo, jesli Rzeznik zabije Msciwego, Msciwy w gniewie pomsci wszystkich.
-HangmanInfoLong:(Impostorzy):\nMetoda zabijania Dusiciela podczas shiftowania to duszenie. Duszenie ignoruje status osoby zabijanej, taki jak tarcza od medyka, ochroniarza itd. Uduszony gracz nie pozostawia za soba ciala, ani nie aktywuje zadnych swoich zdolnosci tj. Weteran, Szczesciarz itd. Jasnowidz rowniez nie zostanie powiadomiony.
-SwooperInfoLong:(Impostorzy):\nKameleon moze wentowac, aby stac sie niewidzialnym dla graczy na pewien okres. Oznacza to, ze Kameleon nie moze normalnie wentowac. W celu wylaczenia niewidki zwentuj ponownie. Uwaga: Po uplynietym czasie samoistnie staniesz sie widoczny.
-CrewpostorInfoLong:(Impostorzy):\nZabijesz najblizszego gracza po zrobieniu jakiegokolwiek zadania.
-WildlingInfoLong:(Impostorzy):\nJako Dzikus, mozesz shiftowac, ale nie masz mozliwosci wentowac.\nKiedy kogos zabijesz, chwilowo stajesz sie odpornym na ataki.
-TricksterInfoLong:(Impostorzy):\nAs the Trickster, you function as a regular Impostor but with one key difference.\nYou appear crewmate to crewmate roles.\n\nThe Sheriff cannot kill you.\nPsychic does not see you as evil.\nSnitch cannot find you.
-VindicatorInfoLong:(Impostorzy):\nJako Obronca masz dodatkowe glosy. Taki Burmistrz Impostorski.
-StealthInfoLong:(Impostors):\nWhen the Stealth kills, players in the same room are blinded for a short time.
-PenguinInfoLong:(Impostors):\nAs the Penguin, you can restrain target by pressing the kill button, and drag around.\nWhile dragging, the target dies by pressing the kill button again or after a certain period of time.\nPress the kill button twice for a direct kill.
-ParasiteInfoLong:(Impostorzy):\nJako Pasozyt, jestes Impostorem, ktory nie zna reszty Impostorow, a oni nie znaja Ciebie.\n\nMozesz zabijac, wentowac, sabotowac. No, wszystko mozesz.\nPo prostu miej swiadomosc, ze jestes Impostorem.
+BountyHunterInfoLong:(Impostor):\nKiedy zabijesz wskazany cel, Twoj czas odnowienia zabojstwa sie zmniejszy.\nKiedy zabijesz kogos innego, Twoj czas odnowienia zabojstwa sie zwiekszy.\nTwoj cel zmienia sie co jakis czas.
+FireworkerInfoLong:(Impostor):\nFajerwerk moze stawiac fajerwerki, aby zabic graczy w poblizu. Ma dostep do trzech fajerwerkow aktywowanych poprzez shiftowanie. Kiedy pozostaje jedynym Impostorem, a postawil juz swoje bomby, moze je zdetonowac poprzez shiftowanie. Jego bron jest obusieczna, wiec sam moze zginac z wlasnej reki, natomiast jezeli wyeliminuje wszystkich graczy, uwazane to jest za zwyciestwo Impostorow.
+MercenaryKillerInfoLong:(Impostor):\nMasz mniejszy czas odnowienia zabojstwa od innych Impostorow, jednakze umrzesz, jezeli nie zdolasz zabic przed uplynieciem czasu shift.
+ShapeMasterInfoLong:(Impostor):\nMistrz Shiftu nie ma ograniczen co do czestosci shiftowania, natomiast czas trwania jego shiftu jest krotszy.
+VampireInfoLong:(Impostor):\nUgryziony gracz nie umrze od razu, ale po czasie. Jezeli w miedzyczasie bedzie spotkanie, gracz umrze od razu. W momencie, gdy ugryziesz Przynete, od razu zglaszasz cialo, a przyczyna smierci Przynety bedzie zwykle zabojstwo.
+WarlockInfoLong:(Impostor):\nCzarnoksieznik rzuca klatwe na gracza. \nPo rzuceniu klatwy musisz zshiftowac, a wtedy najblizsza osoba do tej, ktora oznaczyles umiera.\nPodczas shiftowania, mozesz normalnie zabijac.\nMozesz oznaczyc tylko jednego gracza na raz.
+ZombieInfoLong:(Impostor):\nZombi ma niski czas odnowienia zabojstwa, ale porusza sie powoli i ma mala wizje. Tylko dyktator moze wyglosowac Zombie. Tempo poruszania sie Zombie bedzie spadac wraz z kolejnymi zabojstwami jak i uplywajacym czasem.
+NinjaInfoLong:(Impostor):\n Ninja moze skorzystac z przycisku zabojstwa, aby oznaczyc gracza, jezeli oznaczenie sie powiedzie, zobaczy animacje tarczy. Nastepnie, moze skorzystac z opcji shiftu, aby przeteleportowac sie do oznaczonego gracza i go zabic. W zaleznosci od ustawien hosta, Ninja moga zabijac regularnie po dokonaniu pierwszego zamachu.
+AnonymousInfoLong:(Impostor):\nHaker moze skorzystac z shiftu aby zhakowac osobe, w ktora sie zmienia. Osoba ta, od razu zglosi cialo osoby zabitej przez hakera. Jezeli Haker jeszcze nikogo nie zabil, zhakowana osoba zglosi swoje cialo.\nUwaga: Hakowanie ignoruje czy dane cialo moze byc zgloszone. Hakowanie Lenia nie daje Ci zadnego pozytku, jedynie marnuje Twoj czas.
+MinerInfoLong:(Impostor):\nGornik moze shiftowac, aby przeteleportowac sie do ostatniego wenta, w ktorym byl.
+KillingMachineInfoLong:(Impostor):\nZabojcza Maszyna ma bardzo niski czas odnowy zabicia, ale nie moze wentowac, sabotowac, zglaszac, ani zwolywac spotkan nadzwyczajnych. Zabojcza Maszyna ma tez takie samo pole widzenia co Niewinni.
+EscapistInfoLong:(Impostor):\nUciekiner moze oznaczyc lokalizacje shiftujac. Jezeli ponownie zshiftuja zostana przeteleportowani do oznaczonego przez siebie miejsca. Uwaga: przy shiftowaniu, a nie odshiftowywaniu.
+WitchInfoLong:(Impostor):\nWiedzma ma dwie formy ataku: zwykle zabojstwo, badz rzucenie zaklecia. Dwukrotne wcisniecie przycisku zabijania skutkuje zwyklym zabojstwem, a jednokrotne rzuca klatwe. Podczas spotkania, zaklety gracz bedzie oznaczony krzyzem「†」, widocznym dla wszystkich graczy. Jezeli wiedzma nie zostanie wyrzucona badz zabita podczas spotkania, oznaczony gracz umiera po spotkaniu.
+NemesisInfoLong:(Impostor):\nMafia nie moze zabijac, gdy inni Impostorzy zyja. Gdy umrze, moze skorzystac z komendy /ry [id gracza], aby zabic konkretnego gracza.
+BloodmoonInfoLong:(Impostor [Duch]):\nAs the Bloodmoon, attack the enemies to make them drip blood, this means they will die in a time set by the host, and will be aware of it.
+PuppeteerInfoLong:(Impostor):\nGracz kontrolowany przez Marionetkarza zabije pierwsza napotkana osobe na swojej drodze, o ile osoba ta nie jest Impostorem. Marionetkarz nie moze zabijac w zwyczajny sposob. Dodatkowo: oznaczenie Lenia nie przyniesie Ci pozytku, jedynie zmarnuje Twoj czas.
+MastermindInfoLong:(Impostor):\nAs the Mastermind, you can use your kill button on a player once to manipulate them. This does nothing if the target doesn't have a kill button. But if the target has a kill button of any time, they'll be told after a delay that they were manipulated and they must kill someone in a limited time to survive. If the time limit expires or a meeting gets called before killing someone, they die.\nDouble click on someone to kill them normally.
+TimeThiefInfoLong:(Impostor):\nZa kazdym razem, gdy Zlodziej Czasu zabije gracza, czas spotkania sie skraca. Jezeli Zlodziej Czasu umrze, czas spotkania wroci do normy.
+SniperInfoLong:(Impostor):\nMozesz zastrzelic graczy z daleka.\nMusisz zshiftowac dwa razy aby wystrzelic naboj.\nMiejsce pierwszego shiftu jest miejscem, z ktorego wystrzelisz naboj, a miejsce drugiego shiftu to miejsce, do ktorego ten naboj doleci.\nWyznacza to droge i kierunek strzalu.\n Pierwsza osoba na drodze zostanie zabita.\nNie mozesz zabijac w normalny sposob dopoki nie pozbedziesz sie amunicji.
+UndertakerInfoLong:(Impostor):\nEverytime you Shapeshift into a player you mark the location. Your kills will then teleport to the marked location.\nAfter every kill and meeting your marked location will reset.\n\nAfter every teleported kill you will freeze for a configurable amount of time
+RiftMakerInfoLong:(Impostor):\nAs Rift Maker you can shapeshift to create a rift. You can teleport from one rift to another by touching the area where the rift was created. Trying to vent will kick you out and all the rifts will be destroyed.\n\nNote: Up to two rifts can be placed at a time, if you try to place a third, it removes the first one.
+EvilTrackerInfoLong:(Impostor):\nZlowrogi Tropiciel moze sledzic innych graczy. Aby zmienic sledzony cel, zshiftuj w osobe, ktora chcesz tropic. Strzalka pod Twoja nazwa wskazuje tropiony cel. Jezeli ktos z jego druzyny zabije, Zlowrogi Tropiciel zostanie o tym powiadomiony w postaci blysku sabotazu.
+EvilHackerInfoLong:(Impostor):\nThe Evil Hacker can get the last-minute admin information at the meeting beginning.\nUnoccupied rooms are not shown.\nA '★' marks rooms with impostors.\nRooms with dead bodies are marked with the number of bodies.\nExample: ★Cafeteria: 3 (DEAD×1).
+EvilGuesserInfoLong:(Impostor):\nZly Zgadywacz moze odgadnac role konkretnego gracza w trakcie spotkania. Jesli jest prawidlowa, cel umiera, a jesli jest niewlasciwa, Zly Zgadywacz umiera.\nKomenda do zgadywania to: /bt [id gracza] [rola]\nMozesz zobaczyc id gracza przed nazwa gracza lub uzyc komendy /id, aby wyswietlic id wszystkich graczy.
+AntiAdminerInfoLong:(Impostor):\nInwigilator moze w kazdym momencie sprawdzic czy ktos z crew stoi blisko urzadzen takich jak kamery,  panel w adminie itd.\nUwaga: Inwigilator nie wie czy dany gracz korzysta z danego urzadzenia, wie jedynie, ze jest niedaleko.
+ArroganceInfoLong:(Impostor):\nArogancja zmniejsza czas odnowienia zabojstwa z kazdym ich udanym zabojstwem.
+BomberInfoLong:(Impostor):\n Kamikaze moze skorzystac z opcji shiftu, aby wybuchnac, zabijajac graczy w niedalekim promieniu. Niestety sam wtedy ginie.\nUwaga: Wszyscy gracze zobacza blysk sabotazu, gdy Kamikaze wybuchnie.
+ScavengerInfoLong:(Impostor):\nPadlinozerca nie zostawia cial za soba. Dodatkowo, jezeli ofiara jest Przyneta, cialo nie zostanie zgloszone.
+TrapsterInfoLong:(Impostor):\nWirus zainfekuje cialo swojej ofiary po zabiciu. Gracz, ktory w okreslonym czasie podejdzie zglosic to cialo, zginie, a na dodatek zostanie w ten sam sposob zarazony itd. Niestety za to, Wirus sam umrze po dokonaniu pierwszej zbrodni.\nUwaga: Trup Wirusa nie ma takiego samego efektu.
+GangsterInfoLong:(Impostor):\nOjciec Chrzestny moze rekrutowac graczy do swojego gangu poprzez wcisniecie przycisku zabojstwa. Kiedy gracz przejdzie rekrutacje, Ojciec Chrzestny jak i jego podwladny zobacza animacje tarczy. Liczba mozliwych osob do zrekrutowania jest widoczna obok nazwy Ojca Chrzestnego. Jezeli sprobuje zrekrutowac osobe, ktora nie moze zostac zrekrutowania, np neutrale i inne, zabije te osobe. Jezeli Ojcu Chrzestnemu skoncza sie miejsca w gangu, moze jedynie zabijac.
+CleanerInfoLong:(Impostor):\nWozny moze posprzatac kazde napotkane cialo poprzez nacisniecie przycisku zgloszenia. Jezeli uda mu sie usunac cialo, Wozny zobaczy u siebie animacje tarczy. Posprzatane cialo nie moze zostac zgloszone, nawet cialo Przynety.
+LightningInfoLong:(Impostor):\nKwantyzator nie moze zabijac w normalny sposob. Po tym jak Kwantyzator uzyje swojego przycisku zabicia na celu, cel odparuje sie w ducha kwantowego po ustalonym czasie, i kazdy moze zobaczyc 「■」 obok imienia ducha kwantowego jako przypomnienie. Jesli jest niesferyczna blyskawica i gracz, ktory nie jest duchem kwantowym dotyka ducha kwantowego, duch kwantowy natychmiast sie kwantuje i umiera. Jezeli duch kwantowy przezyje do spotkania, umrze on gdy spotkanie dobiegnie konca. W trakcie tego, kazda aktywna interakcja (przycisk zabicia) nie oddzialuje na ducha kwantowego. W zaleznosci od ustawien hosta, zabicie Kwantyzatora moze spowodowac, ze zabojca odparuje sie w ducha kwantowego.
+GreedyInfoLong:(Impostor):\nKczas odnowienia zabojstwa Chciwca zmienia sie w zaleznosci od tego czy jest to parzyste, czy nieparzyste zabojstwo. czas odnowienia zabojstwa Chciwca jest resetowany podczas kazdego spotkania, a pierwsze zabojstwo Chciwca jest zawsze nieparzyste.
+CursedWolfInfoLong:(Impostor):\nKiedy ktos sprobuje zabic Przekletego Wilka, sam umrze.
+SoulCatcherInfoLong:(Impostor):\nZbieracz dusz moze zamienic sie miejscem z osoba, w ktora zshiftuje. Jezeli jego cel jest martwy, polkniety itd., nic sie nie stanie.
+QuickShooterInfoLong:(Impostor):\nKiedy minie czas odnowienia zabojstwa, Szybki Strzelec moze zresetowac czas odnowienia zabojstwa shiftujac, aby zdobyc amunicje. Kiedy uda mu sie zdobyc naboj, zobaczy u siebie animacje tarczy. Po zabojstwie, zamiast czekac na czas odnowienia zabojstwa, moze korzystac z posiadanej amunicji. Podczas kazdego spotkania, moze przechowywac tylko okreslona liczbe naboi, liczbe te ustawia wlasciciel lobby.
+CamouflagerInfoLong:(Impostor):\nEfekt kamuflazu rozpoczyna sie gdy Daltonista shiftuje. Kazdy wyglada wtedy tak samo. Efekt konczy sie w momencie konca shiftu Daltonisty. Uwaga: Sabotaz komunikacji i kamuflaz Daltonisty moga wystapic jednoczesnie Uwaga: kamuflaz zakonczy sie w momencie spotkania.
+EraserInfoLong:(Impostor):\nWymazywacz moze zaglosowac na dowolnego gracza z crew, aby usunac jego role. Rola zostanie wymazana po spotkaniu. Uwaga: Gracz, ktorego rola zostanie usunieta bedzie jako rola vanilla. Gracza mozna wymazac jedynie raz, wlacznie z Oiiai.
+ButcherInfoLong:(Impostor):\nZabojstwa Rzeznika (wlaczajac w to pasywne zabojstwa) pozostawiaja wiele martwych cial na celu. Sprawia to, ze trudno jest wlasciwie zidentyfikowac inne martwe ciala, gdy sie zglasza. Uwaga: Z racji na zasade implementacji, zabity cel musi wielokrotnie wyswietlac animacje zabicia. Ta animacja nie moze zostac pominieta i nie da sie normalnie uczystniczyc w spotkaniu w tym okresie. Dodatkowo, jesli Rzeznik zabije Msciwego, Msciwy w gniewie pomsci wszystkich.
+HangmanInfoLong:(Impostor):\nMetoda zabijania Dusiciela podczas shiftowania to duszenie. Duszenie ignoruje status osoby zabijanej, taki jak tarcza od medyka, ochroniarza itd. Uduszony gracz nie pozostawia za soba ciala, ani nie aktywuje zadnych swoich zdolnosci tj. Weteran, Szczesciarz itd. Jasnowidz rowniez nie zostanie powiadomiony.
+SwooperInfoLong:(Impostor):\nKameleon moze wentowac, aby stac sie niewidzialnym dla graczy na pewien okres. Oznacza to, ze Kameleon nie moze normalnie wentowac. W celu wylaczenia niewidki zwentuj ponownie. Uwaga: Po uplynietym czasie samoistnie staniesz sie widoczny.
+CrewpostorInfoLong:(Impostor):\nZabijesz najblizszego gracza po zrobieniu jakiegokolwiek zadania.
+WildlingInfoLong:(Impostor):\nJako Dzikus, mozesz shiftowac, ale nie masz mozliwosci wentowac.\nKiedy kogos zabijesz, chwilowo stajesz sie odpornym na ataki.
+TricksterInfoLong:(Impostor):\nAs the Trickster, you function as a regular Impostor but with one key difference.\nYou appear crewmate to crewmate roles.\n\nThe Sheriff cannot kill you.\nPsychic does not see you as evil.\nSnitch cannot find you.
+VindicatorInfoLong:(Impostor):\nJako Obronca masz dodatkowe glosy. Taki Burmistrz Impostorski.
+StealthInfoLong:(Impostor):\nWhen the Stealth kills, players in the same room are blinded for a short time.
+PenguinInfoLong:(Impostor):\nAs the Penguin, you can restrain target by pressing the kill button, and drag around.\nWhile dragging, the target dies by pressing the kill button again or after a certain period of time.\nPress the kill button twice for a direct kill.
+ParasiteInfoLong:(Impostor):\nJako Pasozyt, jestes Impostorem, ktory nie zna reszty Impostorow, a oni nie znaja Ciebie.\n\nMozesz zabijac, wentowac, sabotowac. No, wszystko mozesz.\nPo prostu miej swiadomosc, ze jestes Impostorem.
 DisperserInfoLong:(Impostorzy):\nRozpraszacz moze skorzystac z opcji zmiany ksztaltu, aby przeteleportowac wszystkich graczy do losowych wentow.\nUwaga: Rozpraszacz, ani Gracze obecnie znajdujacy sie w wentach, nie zostana przeteleportowani.:
 InhibitorInfoLong:(Impostorzy):\nAs the Inhibitor, you can only kill when there is not a critical sabotage active.\n\nIf a critical sabotage is active (eg Lights or Reactor), you cannot kill.
 SaboteurInfoLong:(Impostorzy):\nAs the Saboteur, you can only kill when there is a critical sabotage active.\n\nIf a critical sabotage is active (eg Comms or O2), then you can kill.
