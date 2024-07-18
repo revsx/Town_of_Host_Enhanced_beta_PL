@@ -8,7 +8,4 @@ To use the translation, follow these steps:
    
 _To reload the language file in the game, use the **F5+t** hotkey._
 
-Mod: [Town of Host:Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced#town-of-host-enhanced)
-Town of Host:Enhanced [Discord](https://discord.com/invite/tohe)
-Town of Host:Enhanced [Website](https://tohre.dev)
-Town of Host:Enhanced [Ko-fi](https://ko-fi.com/TOHE)
+Mod: [Town of Host:Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced#town-of-host-enhanced) [Discord](https://discord.com/invite/tohe) [Website](https://tohre.dev) [Ko-fi](https://ko-fi.com/TOHE)
