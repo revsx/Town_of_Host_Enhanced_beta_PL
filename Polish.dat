@@ -55,7 +55,7 @@ CrewCanGuessCrew:<color=#8cffff>Niewinny</color> Moze Zgadywac Role <color=#8cff
 ImpCanGuessImp:<color=#ff1919>Impostor</color> Moze Zgadywac Role <color=#ff1919>Impostorow</color>
 GuessImmune:Przykro mi, ale cel jest odporny na zgadywanie!
 GM:Mistrz Gry
-Sunnyboy:Sloneczny Chlopiec
+Sunnyboy:Sloneczny chlopiec
 Bard:Poeta
 Crewmate:Niewinny
 CrewmateTOHE:Niewinny
@@ -224,10 +224,10 @@ Vector:Mario
 Jackal:Szakal
 God:Bog
 Innocent:Wrabiacz
-Stealth:Ostrozny
+Stealth:Chytry
 Penguin:Pingwin
 Pelican:Pelikan
-PlagueDoctor:Naukowiec Plagi
+PlagueDoctor:Doktor Plagi
 Revolutionist:Rewolucjonista
 Hater:Hejter
 Demon:Demon
@@ -244,13 +244,13 @@ Sidekick:Pomocnik
 Follower:Obserwujacy
 Cultist:Kultysta
 SerialKiller:Seryjny zabojca
-Juggernaut:Juggernaut
+Juggernaut:Niszczyciel
 Infectious:Zaraza
 Virus:Wirus
 Pursuer:Sciagajacy
 Specter:Widmo
 Pirate:Pirat
-Agitater:Agitater
+Agitater:Nawolywacz
 Maverick:Indywidualista
 CursedSoul:Przekleta Dusza
 Pickpocket:Kieszonkowiec
@@ -266,33 +266,33 @@ Bandit:Bandyta
 Doppelganger:Sobowtor
 PunchingBag:Worek Treningowy
 Doomsayer:Pogromca
-Shroud:Shroud
+Shroud:Calun
 Werewolf:Wilkolak
-Shaman:Shaman
-Seeker:Seeker
-Pixie:Pixie
-Occultist:Occultist
-SoulCollector:Soul Collector
+Shaman:Szaman
+Seeker:Poszukiwacz 
+Pixie:Chochlik
+Occultist:Okultysta
+SoulCollector:Kolekcjoner Dusz
 SchrodingersCat:Kot Schrodingera
 Romantic:Romantyk
-VengefulRomantic:Vengeful Romantic
-RuthlessRomantic:Ruthless Romantic
-Poisoner:Poisoner
-HexMaster:Hex Master
+VengefulRomantic:Msciwy Romantyk
+RuthlessRomantic:Bezlitosny Romantyk
+Poisoner:Truciciel
+HexMaster:Mistrz Czarow
 Wraith:Zjawa
-Jinx:Jinx
-PotionMaster:Potion Master
+Jinx:Przeklenstwo
+PotionMaster:Mistrz Eliksirow
 Necromancer:Nekromanta
-Warden:Warden
-Minion:Minion
-Ghastly:Ghastly
+Warden:Zarzadca
+Minion:Ulubieniec
+Ghastly:Upiorny
 LastImpostor:Ostatni
-Overclocked:Overclocked
+Overclocked:Podkrecony
 Lovers:Zakochany
-Madmate:Zlymate
+Madmate:Szaleniec
 Watcher:Podgladajacy
 Flash:Szybki
-Torch:Torch
+Torch:Pochodnia
 Seer:Jasnowidzacy
 Tiebreaker:Rozstrzygajacy
 Oblivious:Slepy
@@ -303,62 +303,62 @@ Avanger:Msciwy
 Youtuber:YouTuber
 Egoist:Egoistyczny
 TicketsStealer:Podkradajacy
-Paranoia:Paranoia
+Paranoia:Paranoja
 Mimic:Odkrywajacy
 Guesser:Zgadujacy
-Necroview:Necroview
+Necroview:Widok zmarlych
 Reach:Zasieg
 Charmed:Zaklety
-Cleansed:Cleansed
+Cleansed:Zmywacz
 Bait:Przyneta
 Trapper:Pulapka
-Infected:Infected
-Onbound:Onbound
-Rebound:Rebound
-Mundane:Mundane
+Infected:Zainfekowany
+Onbound:Przychodzacy
+Rebound:Odbicie
+Mundane:Przyziemny
 Knighted:Zrycerzowany
 Unreportable:Zignorowany
-Contagious:Contagious
-Lucky:Lucky
-Unlucky:Unlucky
-VoidBallot:Void Ballot
-Aware:Aware
+Contagious:Zarazliwy
+Lucky:Szczesciarz
+Unlucky:Nieszczescie
+VoidBallot:Niewazny Glos
+Aware:Swiadomy
 Fragile:Kruchy
 DoubleShot:Dodatkowy
-Rascal:Rascal
-Soulless:Soulless
+Rascal:Lobuz
+Soulless:Bezduszny
 Gravestone:Nagrobek
 Lazy:Leniwy
-Autopsy:Badajacy
+Autopsy:Autopsja
 Loyal:Lojalny
-EvilSpirit:Evil Spirit
+EvilSpirit:Zly duch
 Recruit:Zrekrutowany
-Admired:Admired
+Admired:Podziwiany
 Radar:Radar
 Glow:Napromieniowany
 Diseased:Zwiekszajacy
 Antidote:Zmniejszajacy
-Stubborn:Stubborn
-Swift:Swift
-Ghoul:Ghoul
-Bloodthirst:Bloodthirst
+Stubborn:Uparty
+Swift:Blyskawiczny
+Ghoul:Upior
+Bloodthirst:Zadza krwi
 Mare:Zmora
-Burst:Burst
-Sleuth:Sleuth
+Burst:Impuls
+Sleuth:Tajny agent
 Clumsy:Niezdarny
-Nimble:Nimble
-Circumvent:Circumvent
+Nimble:Zwinny
+Circumvent:Obejscie
 Cyber:Cyber
-Hurried:Hurried
+Hurried:Pospieszny
 Oiiai:OIIAI
-Influenced:Influenced
-Silent:Silent
-Susceptible:Susceptible
-Tricky:Tricky
-Rainbow:Rainbow
-Tired:Tired
-Statue:Statue
-DollMaster:Dollmaster
+Influenced:Wplyw
+Silent:Cichy
+Susceptible:Drazliwy
+Tricky:Podchwytliwy
+Rainbow:Tecza
+Tired:Zmeczony
+Statue:Statua
+DollMaster:Lalkarz
 BracketAddons:Dodaj nawiasy do modyfikacja
 EngineerTOHEInfo:Uzyj Wentow, aby znalezc i zlapac <color=#ff1919>Impostorow</color>
 ScientistTOHEInfo:Uzyskaj dostep do parametrow zyciowych graczy z dowolnego miejsca
