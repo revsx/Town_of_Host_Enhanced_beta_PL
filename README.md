@@ -8,4 +8,4 @@ To use the translation, follow these steps:
    
 _To reload the language file in the game, use the **F5+t** hotkey._
 
-GitHub: [Town of Host:Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced#town-of-host-enhanced) [Website](https://tohre.dev) [Discord](https://discord.com/invite/tohe) [Ko-fi](https://ko-fi.com/TOHE) [TikTok](https://www.tiktok.com/@TOHEnhanced) [X](https://twitter.com/TOHEnhanced) [X](https://twitter.com/TOHEnhanced) [Reddit](https://www.reddit.com/r/TOHE/) [YouTube](https://www.youtube.com/@TOHEnhanced) [Instagram](https://www.instagram.com/tohenhanced/)
+GitHub: [Town of Host:Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced#town-of-host-enhanced) [Website](https://tohre.dev) [Discord](https://discord.com/invite/tohe) [Ko-fi](https://ko-fi.com/TOHE) [TikTok](https://www.tiktok.com/@TOHEnhanced) [X](https://twitter.com/TOHEnhanced) [Reddit](https://www.reddit.com/r/TOHE/) [YouTube](https://www.youtube.com/@TOHEnhanced) [Instagram](https://www.instagram.com/tohenhanced/)
