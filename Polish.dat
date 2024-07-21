@@ -2909,7 +2909,7 @@ MoleVentButtonText:Dig
 MoleVentCooldown:Dig cooldown
 AddictVentButtonText:Nacpaj sie
 AddictInvulnerbilityTimeAfterVent:Czas <color=#008000>Ochrony</color> 
-AddictSpeedWhileInvulnerble:Predkosc poruszania sie podczas <color=#008000>Ochrony</color>
+AddictSpeedWhileInvulnerble:Movement speed while <color=#008000>Invulnerable</color>
 AddictFreezeTimeAfterInvulnerbility:Czas unieruchomienia <color=#008000>Cpuna</color> po <color=#008000>Ochronie</color>
 AlchemistShieldDur:Resistance Potion Duration
 AlchemistInvisDur:Invisibility Potion Duration
@@ -2920,12 +2920,11 @@ AlchemistSpeed:Speed Potion Boost
 AlchemistVentButtonText:Drink
 AlchemistGotShieldPotion:Potion of Resistance: Grants a temporary shield
 AlchemistGotSightPotion:Potion of Night Vision: Gives temporary enhanced vision
-AlchemistGotInvisPotion:Potion of Invisibility: Gives temporary invisibility
 AlchemistGotQFPotion:Potion of Fixing: Allows you to fix one sabotage instantly
 AlchemistGotTPPotion:Potion of Warping: Teleports you to a random player
 AlchemistGotSuicidePotion:Potion of Poison: Poisons you
 AlchemistGotSpeedPotion:Potion Of Speed: Hastens you
-AlchemistGotBloodlustPotion:Potion of Harming: Kill the next player you touch
+AlchemistGotBloodthirstPotion:Potion of Harming: Kill the next player you touch
 AlchemistGotInvisibility:Potion of Invisibility: Become Invisible
 NoPotion:You have no potions
 StoreShield:<color=#00ff97>Potion of Resistance</color>
@@ -2942,7 +2941,7 @@ AlchemistShielded:Potion of Resistance started
 AlchemistHasVision:Potion of Night Vision started
 AlchemistShieldOut:Potion of Resistance ended
 AlchemistVisionOut:Potion of Night Vision ended
-AlchemistPotionBloodlust:You gained bloodlust
+AlchemistPotionBloodthirst:You gained bloodthirst
 AlchemistHasSpeed:Potion Of Speed started
 AlchemistSpeedOut:Potion Of Speed ended
 DeathpactDuration:<color=#ff1919>Death Pact</color> duration
@@ -2962,8 +2961,18 @@ DeathpactButtonText:Assign
 DevourerHideNameConsumed:Hide the names of consumed players
 DevourCooldown:Devour Cooldown
 DevourerButtonText:Devour
-EatenByDevourer:Your skin was eaten by the Devourer
-DevourerEatenSkin:Target skin eaten
+DollMasterPossessionButtonText:Possess
+DollMasterUnPossessionButtonText:UnPossess
+DollMaster_PossessedTarget:Possessed target
+DollMaster_CannotPossessImpTeammate:Unable to possess teammate
+DollMaster_CouldNotSwapWithTarget:Unable to possess player
+DollMaster_CanNotSwapWithDeadTarget:Possesing a dead player isn't possible
+DollMaster_MainBody:Main Body
+DollMaster_Doll:Doll
+DollMaster_UnableToUseAbility:Unable to use your ability on player
+Doppelganger_RoleInfo:Spoofed Role: {0}
+EatenByDevourer:The Devourer ate your skin
+DevourerEatenSkin:Target skin is eaten
 DevouredName:Devoured
 PitfallTrapCooldown:Trap Cooldown
 PitfallMaxTrapCount:Number of Traps that can be set
@@ -2974,7 +2983,7 @@ PitfallTrapFreezeTime:Trap freeze time
 PitfallTrapCauseVision:Trap caused vision
 PitfallTrapCauseVisionTime:Trap caused vision time
 PitfallTrap:You have fallen into a trap!
-DivinationMaxCount:Maximum Reveals
+ConsigliereDivinationMaxCount:Maximum Reveals
 RitualMaxCount:Maximum Reveals
 CleanserHideVote:Hide Cleanser's vote
 OracleSkillLimit:Maximum Uses
@@ -2983,7 +2992,7 @@ OracleCheckReachLimit:You're out of uses!
 OracleCheckSelfMsg:You can't even trust yourself, huh?
 OracleCheckLimit:Reminder: You have <b>{0}</b> uses left
 OracleCheckMsgTitle:Oracle Vision
-OracleCheck.NotCrewmate:Appears to not be a crewmate
+OracleCheck.NotCrewmate:Appears not to be a crewmate
 OracleCheck.Crewmate:Appears to be a crewmate
 OracleCheck.Neutral:Appears to be a neutral
 OracleCheck.Impostor:Appears to be an Impostor
@@ -3010,10 +3019,9 @@ CursedSoulCurseMax:Maximum Soul Snatches
 CursedSoulKnowTargetRole:Know the roles of <color=#531269>Soulless</color> players
 CursedSoulCanCurseNeutral:Neutral roles have souls
 CursedSoulKillButtonText:Snatch
-SoullessByCursedSoul:Your soul was snatched by a Cursed Soul
+SoullessByCursedSoul:A Cursed Soul snatched your soul
 CursedSoulSoullessPlayer:Soul snatched
 CursedSoulInvalidTarget:Nie znaleziono duszy
-Soulless-:Bezduszny 
 AdmireCooldown:Admire Cooldown
 AdmirerKnowTargetRole:Know the roles of <color=#ee43c3>Admired</color> players
 AdmirerSkillLimit:Skill Limit
@@ -3021,7 +3029,6 @@ AdmireButtonText:Admire
 AdmirerAdmired:The Admirer admired you!
 AdmiredPlayer:Player admired
 AdmirerInvalidTarget:Target cannot be admired
-Admired-:Admired 
 SpiritualistNoticeTitle:Spiritualist Connection
 SpiritualistNoticeMessage:The Spiritualist has an arrow pointing to you!\nYou can use them to a killer or frame a crewmate
 SpiritualistShowGhostArrowForSeconds:Ghost arrow duration
@@ -3078,12 +3085,6 @@ EnigmaClueStatusTitle:Enigma Status Clue!
 EnigmaClueRoleTitle:Enigma Role Clue!
 EnigmaClueLevelTitle:Enigma Level Clue!
 EnigmaClueFriendCodeTitle:Enigma Friendcode Clue!
-EnigmaClueTitle:Enigma Clue!
-ChiefOfPoliceSkillCooldown:Cooldown for recruiting sheriffs
-PolicCanImpostorAndNeutarl:You can recruit <color=#ff1919>Impostor</color> or <color=#7f8c8d>Kill Neutral</color> to become sheriffs
-SheriffSuccessfullyRecruited:You recruited a sheriff.
-BeSheriffByPolice:You've been recruited by the police chief! Serve the crew!
-ChiefOfPoliceKillButtonText:Recruitment
 VotesPerKill:Zdobyte glosy za kazde zabojstwo
 PickpocketGetVote:Masz {0} glosow
 VultureArrowsPointingToDeadBody:Strzalki wskazujace na martwe ciala
@@ -3093,21 +3094,33 @@ VultureEatButtonText:Zjedz
 VultureReportCooldown:Czas odnowienia zjedzenie
 VultureMaxEatenInOneRound:Maksymalna mozliwa liczba zjedzonych cial na runde
 VultureCooldownUp:Czas odnowienia zjedzenia zakonczony
+GhastlyPossessCD:Possess Cooldown
+GhastlyMaxPossessions:Max Possessions
+GhastlyPossessionDuration:Possession Duration
+GhastlySpeed:Ghastly Speed
+GhastlyKillAllies:Ghastly cannot possess allies
+GhastlyCannotPossessTarget:Couldn't Possess Target
+GhastlyChooseTarget:Now: Choose Target
+GhastlyNoMorePossess:You've run out of possessions!'
+GhastlyNotUrTarget:That is not your target
+GhastlyYouvePosses:You've Been Possessed!
+GhastlyPossessedUser:You have possessed: {0}
+GhastlyExpired:{0} is no longer possessed
 TasksMarkPerRound:Number of tasks that can be marked in one round
 TaskinatorBombPlanted:Bomb has been planted
 ShieldDuration:Shield duration
 ShieldIsOneTimeUse:Shield breaks after one kill attempt
 BenefactorTaskMarked:Task marked successfully
-BenefactorTargetGotShield:You got shield by Benefactor
+BenefactorTargetGotShield:You got a shield by Benefactor
 PirateTryHideMsg:Hide <color=#EDC240>Pirate</color>'s commands
 SuccessfulDuelsToWin:Number of successful duels needed to win
-PirateMeetingMsg:Duel with your target.\n\nDuel command:\n⦿ /duel 0\n⦿ /duel 1\n⦿ /duel 2\n\nYou win the duel if you choose the same option as the target
+PirateMeetingMsg:Duel with your target.\n\nDuel command:\n⦿ /duel 0\n⦿ /duel 1\n⦿ /duel 2\n\nYou win the Duel if you choose the same option as the target
 PirateTargetMeetingMsg:The <color=#EDC240>Pirate</color> chose t' duel ye!\nDuel wit' <color=#00a5ff>honor</color> or <color=#ff1919>die</color> o' shame.\n\n Duel command:\n⦿ /duel 0\n⦿ /duel 1\n⦿ /duel 2\n\nIf the <color=#EDC240>Pirate</color> chooses the same option as you or you don't participate, <b>you'll <color=#ff1919>die</color></b>
 PirateTitle:PIRATE
 PirateTargetAlreadyChosen:Yarr! Ye've already chosen a target.
 PirateDead:Ye be dead. Ye cannot duel anymore.
 DuelAlreadyDone:Ye 'ave already chosen an option fer the duel.
-DuelDone:Ye 'ave chosen yer option fer the duel.\nWait fer the meetin' to end to see the result.
+DuelDone:Ye 'ave chosen yer option fer the Duel.\nWait fer the meetin' to end to see the result.
 DuelHelp:Duel command:\n⦿ /duel 0\n⦿ /duel 1\n⦿ /duel 2\n\nAs <color=#EDC240>Pirate</color>, try to choose the same number as the target.\nAs the target, try to choose a different number than the <color=#EDC240>Pirate</color>
 PirateDuelButtonText:Duel
 DuelCooldown:Duel Cooldown
@@ -3129,20 +3142,21 @@ SeekerPointsToWin:Number of points required to win
 SeekerTagCooldown:Tag Cooldown
 SeekerNotify:Your target is <b>{0}</b>
 SeekerTargetNotify:You are Seekers target!! Hide before they tag you
+SeekerKillButtonText:Tag
 PixiePointsToWin:Number of points required to win
 MaxTargets:Maximum number of targets per round
 MarkCooldown:Mark cooldown
-PixieSuicide:Pixie suicides if target is not voted out
+PixieSuicide:Pixie suicides if the target is not voted out
 PixieMaxTargetReached:You have already selected all the targets this round
 PixieTargetAlreadySelected:Target is already selected
-PlagueBearerCD:Czas odnowienia zarazy
-PestilenceCD:Czas odnowienia zabicia <color=#343136>Odpornego</color>
-PlagueBearerAlreadyPlagued:Gracz zostal juz zarazony
-PlagueBearerToPestilence:Zmieniles sie w Odpornego!!!
+PixieButtonText:Mark
+PlagueBearerCooldown:Plague cooldown
+PestilenceCooldown:<color=#343136>Pestilence</color> Kill cooldown
 PestilenceCanVent:<color=#343136>Odporny</color> moze wentowac
 PestilenceHasImpostorVision:<color=#343136>Odporny</color> ma wizje <color=#ff1919>Impostora</color>
+PlagueBearerAlreadyPlagued:Player has already been plagued
+PlagueBearerToPestilence:You have turned into Pestilence!!
 GuessPestilence:Wlasnie probowales/as odgadnac Odpornego!\n\nPrzykro mi, Odporny Cie zabil.
-PestilenceImmune:Nie mozesz zabic Odpornego.
 RomanticBetCooldown:Pick Partner Cooldown
 RomanticProtectCooldown:Protect Cooldown
 RomanticBetPlayer:You picked your partner
@@ -3151,13 +3165,14 @@ VengefulKCD:<color=#8B0000>Vengeful Romantic</color> Kill Cooldown
 VengefulCanVent:<color=#8B0000>Vengeful Romantic</color> Can Vent
 RuthlessKCD:<color=#D2691E>Ruthless Romantic</color> Kill Cooldown
 RuthlessCanVent:<color=#D2691E>Ruthless Romantic</color> Can Vent
-VengefulRomanticKillButtonText:Avenge
 RomanticProtectPartner:Your partner is under protection
 RomanticIsProtectingYou:The <color=#FF1493>Romantic</color> is protecting you
 ProtectingOver:Shield expired
 RomanticProtectDuration:Protect Duration
 RomanticKnowTargetRole:<color=#ff1493>Romantic</color> knows their target's role
 RomanticBetTargetKnowRomantic:Target knows who the <color=#ff1493>Romantic</color> is
+RomanticPartnerButtonText:Pick Partner
+RomanticProtectButtonText:Protect
 GuessMasterMisguess:<b>{0}</b> misguessed
 GuessMasterTargetRole:Someone tried to guess <b>{0}</b>
 GuessMasterTitle:Guess Master 
@@ -3184,41 +3199,33 @@ EvilMiniSpawnChances:Probability of Mini being an <color=#ff1919>Impostor</color
 GuessMini:Sorry, you can't hurt a kid Mini.
 GrowUpDuration:Time required to grow (s)
 MajorCooldown:Kill Cooldown when over 18
-MinorCooldown:Kill Cooldown when under 18
 UpDateAge:Display age change in real-time
 Cantkillkid:You can't kill a Mini that hasn't grown up.
 CantEat:You can't eat a Mini that hasn't grown up
 CantShroud:You can't control a Mini that hasn't grown up.
 CantBoom:You can't blow yourself up with a Mini that hasn't grown up.
 CantRecruit:You can't recruit a Mini that hasn't grown up.
+CantDuel:You can't duel a Mini that hasn't grown up.
+CantMark:You can't mark a Mini that hasn't grown up.
+CantBlood:You can't blood a Mini that hasn't grown up.
+CantPosses:You can't possess a Mini that hasn't grown up.
 ExiledNiceMini:You ejected a <color=#8cffff>Nice Mini</color> before they grew up.\n<color=#ff1919>You all lose</color>
 MiniUp:You're a year older!
-MiniMisGuessed:You are supposed to misguess to death!\nHowever you are still a kid, so you are free of guilty while you can no longer guess.\nYou can guess again after you have grown up.
+MiniMisGuessed:You are supposed to misguess to death!\nHowever you are still a kid, so you are free of guilt while you can no longer guess.\nYou can guess again after you have grown up.
 MiniGuessMax:You have misguessed, so you are no longer allowed to guess!
 CountMeetingTime:Meeting time can continue to grow
-YouKillRandomizer1:You kill Randomizer, Self report!
+YouKillRandomizer1:You kill Randomizer, Self-report!
 YouKillRandomizer2:You kill Randomizer, Cannot move!
 YouKillRandomizer3:You kill Randomizer, Kill CD change to 600s!
 YouKillRandomizer4:You kill Randomizer, Triggered Random Revenge!
 MadmateCanBeHurried:<color=#ff1919>Madmate</color> can be Hurried on game start
-TaskBasedCrewCanBeHurried:Task based Crews can be Hurried
-HurriedCanBeConverted:Hurried can be recruited in game (excludes madmate)
+TaskBasedCrewCanBeHurried:Task-based Crews can be Hurried
+HurriedCanBeConverted:Hurried can be recruited in the game (excludes madmate)
 Developer:Deweloper
 Sponsor:Sponsor
-OriginalDev:Oryginalny Deweloper
-NewDev:Glowny Deweloper
 Booster:Booster Serwera
 Translator:Tlumacz
-MainDev:Tworca
-Art:Artysta
-RoleDev:Deweloper Roli
-TechSup:Wsparcie Techniczne
-FeatureDev:Deweloper Funkcji
-TranEN:Angielski
-TranRU:Rosyjski
-TranCHT:Chinski Tradycyjny
-OnlyShowPart:Pokaz tylko czesc
-NoAccess:Unauthorized Access!!!\n\n Please open up a ticket in the discord server to know more (discord.gg/tohe)
+NoAccess:Unauthorized Access!\n\n Please open up a ticket in the discord server to know more (discord.gg/tohe)
 DCNotify.Hacking:Zostales/as <color=#ff1919>zbanowany</color> za cheatowanie.\n\nProsze przestac.
 DCNotify.Banned:Zostales/as <color=#ff1919>zbanowany</color> z tego lobby.\n\nSkontaktuj sie z hostem, jesli to byl blad.
 DCNotify.Kicked:Zostales/as <color=#ffff00>wyrzucony</color> z tego lobby.\n\nNadal mozesz dolaczyc ponownie.
@@ -3237,12 +3244,14 @@ RoleType.ImpKilling:<color=#6a0000>★</color> Impostorskie <color=#6a0000>Zabij
 RoleType.ImpSupport:<color=#00ffff>★</color> Impostorskie <color=#00ffff>Wspierajace</color> Role
 RoleType.ImpConcealing:<color=#6e003a>★</color> Impostorskie <color=#6e003a>Ukryte</color> Role
 RoleType.ImpHindering:<color=#636363>★</color> Impostorskie <color=#636363>Utrudniajace</color> Role
+RoleType.ImpGhost:<color=#bd8b88>★</color> Impostor <color=#bd8b88>Ghost</color> Roles  /ghostinfo
 RoleType.Madmate:★ Role Zlemate
 RoleType.CrewSupport:<color=#00ffff>★</color> Niewinne <color=#00ffff>Wspierajace</color> Role
 RoleType.CrewInvestigative:<color=#008080>★</color> Niewinne <color=#008080>sledzace</color> Role
 RoleType.CrewPower:<color=#ffff00>★</color> Niewinne <color=#ffff00>Silne</color> Roles
 RoleType.CrewKilling:<color=#ff1919>★</color> Niewinne <color=#ff1919>Zabijajace</color> Role
 RoleType.CrewBasic:<color=#FF6600>★</color> Niewinne <color=#FF6600>Podstawowe</color> Role
+RoleType.CrewGhost:<color=#afc3c9>★</color> Crewmate <color=#afc3c9>Ghost</color> Roles  /ghostinfo
 RoleType.NeutralEvil:<color=#912900>★</color> Neutralne <color=#912900>Zle</color> Role
 RoleType.NeutralBenign:<color=#046300>★</color> Neutralne <color=#046300>Przyjazne</color> Role
 RoleType.NeutralChaos:<color=#D4AF37>★</color> Neutralne <color=#D4AF37>Metlikowe</color> Role
@@ -3261,10 +3270,10 @@ SubType.Madmate:★ Madmates
 SubType.CrewmateKilling:★ Crewmate Killings
 SubType.Crewmate:★ Regular Crewmates
 SubType.New:★ New!
-CrewmateRoles:【 ★ Role Niewinne ★ 】
-ImpostorRoles:【 ★ Role Impostorow ★ 】
-NeutralRoles:<color=#7f8c8d>【 ★ Role Neutrale ★ 】</color>
-AddonRoles:<color=#ff9ace>【 ★ Modyfikacje ★ 】</color>
+CrewmateRoles:<size=90%>★ Role Niewinnych ★</size>
+ImpostorRoles:<size=90%>★ Role Impostorskie ★</size>
+NeutralRoles:<size=90%><color=#7f8c8d>★ Neutrale Roles ★</color></size>
+AddonRoles:<size=90%><color=#ff9ace>★ Modyfikacje ★</color></size>
 WinnerRoleText.Impostor:Impostorzy Wygrali!
 WinnerRoleText.Crewmate:Niewinni Wygrali!
 WinnerRoleText.Terrorist:Terrorysta Wygral!
@@ -3275,28 +3284,27 @@ WinnerRoleText.Arsonist:Piroman Wygral!
 WinnerRoleText.Revolutionist:Rewolucjonista Wygral!
 WinnerRoleText.Jackal:Szakale Wygrali!
 WinnerRoleText.God:Bog Wygral!
-WinnerRoleText.Mario:Mario Wygral!
+WinnerRoleText.Vector:Vector Wins!
 WinnerRoleText.Innocent:Innocent Wins!
 WinnerRoleText.Pelican:Pelican Wins!
 WinnerRoleText.Youtuber:YouTuber Wygral!
 WinnerRoleText.Necromancer:Necromancer Wins!
 WinnerRoleText.Egoist:Egoist Wins!
-WinnerRoleText.Gamer:Demon Wins!
-WinnerRoleText.DarkHide:Stalker Wins!
+WinnerRoleText.Demon:Demon Wins!
+WinnerRoleText.Stalker:Stalker Wins!
 WinnerRoleText.Workaholic:Workaholic Wins!
 WinnerRoleText.Collector:Collector Wins!
 WinnerRoleText.BloodKnight:Blood Knight Wins!
 WinnerRoleText.Poisoner:Poisoner Wins!
 WinnerRoleText.Huntsman:Huntsman Wins!
 WinnerRoleText.HexMaster:Hex Master Wins!
-WinnerRoleText.Succubus:Cultist Wins!
+WinnerRoleText.Cultist:Cultist Wins!
 WinnerRoleText.Wraith:Widmo Wygrywa!
 WinnerRoleText.SerialKiller:Serial Killers Win!
 WinnerRoleText.Juggernaut:Juggernaut Wins!
 WinnerRoleText.Infectious:Infectious Wins!
-WinnerRoleText.Rogue:Samotnik Wygrywa!
 WinnerRoleText.Virus:Virus Wins!
-WinnerRoleText.Phantom:Phantom Wins!
+WinnerRoleText.Specter:Specter Wins!
 WinnerRoleText.Jinx:Jinx Wins!
 WinnerRoleText.CursedSoul:Cursed Soul Wins!
 WinnerRoleText.PotionMaster:Potion Master Wins!
@@ -3304,18 +3312,17 @@ WinnerRoleText.Pickpocket:Pickpocket Wins!
 WinnerRoleText.Traitor:Traitor Wins!
 WinnerRoleText.Vulture:Vulture Wins!
 WinnerRoleText.Medusa:Medusa Wins!
-WinnerRoleText.Famine:Famine Wins!
 WinnerRoleText.Spiritcaller:Spiritcaller Wins!
 WinnerRoleText.Glitch:Glitch Wygral!
 WinnerRoleText.Pestilence:Odporny Wygral!
 WinnerRoleText.PlagueBearer:AIDS Wygral!
-WinnerRoleText.Masochist:Masochist Wins!
+WinnerRoleText.PunchingBag:Punching Bag Wins!
 WinnerRoleText.Doomsayer:Doomsayer Wins!
 WinnerRoleText.Pirate:Pirate Wins!
 WinnerRoleText.Shroud:Shroud Wins!
 WinnerRoleText.Werewolf:Werewolf Wins!
 WinnerRoleText.Seeker:Seeker Wins!
-WinnerRoleText.Agitater:Agitater Wins!
+WinnerRoleText.Agitator:Agitator Wins!
 WinnerRoleText.Occultist:Occultist Wins!
 WinnerRoleText.SoulCollector:Soul Collector Wins!
 WinnerRoleText.NiceMini:Nice Mini Wins!
@@ -3325,6 +3332,7 @@ WinnerRoleText.RuthlessRomantic:Ruthless Romantic Wins!
 WinnerRoleText.Solsticer:Solsticer Wins!
 WinnerRoleText.Pyromaniac:Pyromaniac Wins!
 WinnerRoleText.Doppelganger:Doppelganger Wins!
+WinnerRoleText.Quizmaster:Quizmaster Wins!
 AdditionalWinnerRoleText.Sidekick:Sidekick
 AdditionalWinnerRoleText.Taskinator:Taskinator
 AdditionalWinnerRoleText.Opportunist:Opportunist
@@ -3332,12 +3340,12 @@ AdditionalWinnerRoleText.Lawyer:Lawyer
 AdditionalWinnerRoleText.Hater:Hater
 AdditionalWinnerRoleText.Provocateur:Provocateur
 AdditionalWinnerRoleText.Sunnyboy:Sunnyboy
-AdditionalWinnerRoleText.Totocalcio:Follower
+AdditionalWinnerRoleText.Follower:Follower
 AdditionalWinnerRoleText.Pursuer:Pursuer
 AdditionalWinnerRoleText.Jester:Jester
 AdditionalWinnerRoleText.Lovers:Lovers
 AdditionalWinnerRoleText.Executioner:Executioner
-AdditionalWinnerRoleText.Phantom:Phantom
+AdditionalWinnerRoleText.Specter:Specter
 AdditionalWinnerRoleText.Maverick:Samotnik
 AdditionalWinnerRoleText.Shaman:Shaman
 AdditionalWinnerRoleText.Pixie:Pixie
@@ -3351,8 +3359,8 @@ ForceEnd:Przerwano
 EveryoneDied:Kazdy zginal
 ForceEndText:Host przerwal gre
 NiceMiniDied:Nice Mini was killed
-HaterMisFireKillTarget:Hater kills target when misfire
-HaterChooseConverted:Select addons that Hater can kill
+HaterMisFireKillTarget:Hater kills target when misfiring
+HaterChooseConverted:Select add-ons that Hater can kill
 HaterCanKillMadmate:Can kill madmate
 HaterCanKillCharmed:Can kill charmed
 HaterCanKillLovers:Can kill lovers
@@ -3363,10 +3371,12 @@ HaterCanKillContagious:Can kill virus team
 HaterCanKillAdmired:Can kill admirer
 AutoMuteUs:Enable it if you use AutoMuteUs
 HorseMode:Enable to become a horse
-InfluencedChangeVote:oops!You are so influenced by others!\nYou can not contain your fear that you change voted {0}!
+LongMode:Enable to have a long neck
+InfluencedChangeVote:Oops! You are so influenced by others!\nYou can not contain your fear that you change voted {0}!
 FFA:Free For All
 ModeFFA:Gamemode: FFA
-ModeDescribe.FFA:In the FFA (Free For All) gamemode, everyone is a killer and everyone can kill anyone. The last player alive wins!\n\nSome random events make this even more fun in the mean time!
+ModeDescribe.FFA:In the FFA (Free For All) gamemode, everyone is a killer, and everyone can kill anyone. The last player alive wins!\n\nSome random events make this even more fun in the meantime!
+KillerInfoLong:In the FFA (Free For All) game mode, everyone is a killer, and everyone can kill anyone. The last player alive wins!\n\nSome random events make this even more fun in the meantime!
 FFA_GameTime:Maximum Game Length
 FFA_KCD:Kill Cooldown
 FFA_DisableVentingWhenTwoPlayersAlive:Prevent venting when only 2 players are alive
@@ -3398,7 +3408,7 @@ Hide&SeekTOHE:Hide & Seek
 MenuTitle.Hide&Seek:Hide & Seek Settings
 NumImpostorsHnS:Num Impostors
 EveryOneKnowSolsticer:Every One Know who is Solsticer
-SolsticerKnowItsKiller:Solsticer knows the role of whom used kill button on it
+SolsticerKnowItsKiller:Solsticer knows the role of whom used the kill button on it
 SolsticerSpeed:Movement speed of Solsticer
 SolsticerRemainingTaskWarned:Remaining tasks to be known
 SAddTasksPreDeadPlayer:How many extra short tasks Solsticer gets when a player dies
@@ -3412,20 +3422,20 @@ VoteSolsticer:Sorry, but you can not vote Solsticer!
 SolsticerTasksReset:Your tasks get reset!
 SolsticerMisGuessed:You just misguessed! You are no longer allowed to guess.
 SolsticerGuessMax:Because you already misguessed, you are no longer allowed to guess.
-VoteDead:The player you voted for was exhiled before the meeting concluded. Your vote was rescinded.
+VoteDead:The player you voted for was exiled before the meeting concluded. Your vote was rescinded.
 ImpCanBeSilent:<color=#ff1919>Impostors</color> can become Silent
 CrewCanBeSilent:<color=#8cffff>Crewmates</color> can become Silent
 NeutralCanBeSilent:<color=#7f8c8d>Neutrals</color> can become Silent
 LastMessageReplay:Last System Message Replay
 Contributor:Contributor
-dbConnect.InitFailure:Error while connecting to TOHE api, pls check your network connection and retry login!
-dbConnect.nullFriendCode:This build of TOHE is not aviliable to users with no friendcode!
+dbConnect.InitFailure:Error while connecting to TOHE API, please check your network connection and retry login!
+dbConnect.nullFriendCode:This build of TOHE is not available to users with no friendcode!
 ImpCanBeSusceptible:<color=#ff1919>Impostors</color> can become Susceptible
 CrewCanBeSusceptible:<color=#8cffff>Crewmates</color> can become Susceptible
 NeutralCanBeSusceptible:<color=#7f8c8d>Neutrals</color> can become Susceptible
 Quizmaster:Quizmaster
 QuizmasterInfo:Quiz people to kill them in meetings
-QuizmasterInfoLong:(Neutrals):\nAs the Quizmaster, you can mark a player using your kill button. In the next meeting, the marked player will "?!" next to their name. If the player answers a question wrongly, or doesn't answer, they will die. If the Quizmaster was killed/ejected in the same meeting, the player will live.\nThe Quizmaster cannot mark multiple people in the same round
+QuizmasterInfoLong:(Neutrals):\nAs the Quizmaster, you can mark a player using your kill button. In the next meeting, the marked player will have "?!" next to their name. The player will die if they answer the question wrong or doesn't answer. The player will live if the Quizmaster is killed/ejected in the same meeting.\nThe Quizmaster cannot mark multiple people in the same round
 QuizmasterKillButtonText:Quiz
 QuizmasterChat.MarkedBy:You've been marked by the <color={QMCOLOR}><b>Quizmaster</b></color>\nTo survive you have to answer correct to this question:\n\n{QMQUESTION}
 QuizmasterChat.MarkedPublic:<b>{QMTARGET}</b> has been marked by the <color={QMCOLOR}><b>Quizmaster</b></color>\nTo survive {QMTARGET} have to answer correct to their question!
@@ -3436,10 +3446,10 @@ QuizmasterChat.CorrectPublic:<b>{QMTARGET}</b> got the <color={QMCOLOR}><b>Quizm
 QuizmasterChat.WrongTarget:<b><size=150%>Wrong</size></b>\nYour answer was <b>{QMWRONG}</b>\nThe correct answer was <b>{QMRIGHT}</b>\n\n<size=75%>The Quizmaster was <b>{QM}</b>
 QuizmasterChat.Wrong:<b>{QMTARGET}</b> got the wrong answer and <b>died</b>!\nYou can now mark someone else!
 QuizmasterChat.WrongPublic:<b>{QMTARGET}</b> got the <color={QMCOLOR}><b>Quizmaster</b></color>'s question answer wrong and <b>died</b>!\n<size=90%>Beware of the <color={QMCOLOR}><b>Quizmaster</b></color>!</size>
-QuizmasterChat.Marked:You've marked <b>{QMTARGET}</b>\nIf {QMTARGET} doesn't answer by the end of the meeting or answer wrong {QMTARGET} will <b>die</b>
+QuizmasterChat.Marked:You've marked <b>{QMTARGET}</b>\nIf {QMTARGET} doesn't answer by the end of the meeting or answer wrong {QMTARGET} will <b>die</b>\n\nQuestion for {QMTARGET} => {QMQUESTION}
 QuizmasterChat.Title:Quizmaster Information
-QuizmasterChat.CantAnswer:As the quizmaster you can't answer questions
-QuizmasterChat.AnswerNotValid:Your answer must be A, B or C
+QuizmasterChat.CantAnswer:As the quizmaster, you can't answer questions
+QuizmasterChat.AnswerNotValid:Your answer must be A, B, or C
 QuizmasterChat.SyntaxNotValid:<b>Usage:</b>\n/answer [A/B/C]
 QuizmasterSettings.QuestionDifficulty:Question Difficulty
 QuizmasterSettings.CanVentAfterMark:Can Vent After Marked Somebody For Quiz
@@ -3465,7 +3475,7 @@ QuizmasterAnswers.Jackal:Jackal
 QuizmasterAnswers.Mole:Mole
 QuizmasterAnswers.Sniper:Sniper
 QuizmasterAnswers.Coven:Coven
-QuizmasterAnswers.Sabotuer:Sabotuer
+QuizmasterAnswers.Sabotuer:Saboteur
 QuizmasterAnswers.Sorcerers:Sorcerers
 QuizmasterAnswers.Killer:Killer
 QuizmasterAnswers.Edition:Edition
@@ -3476,12 +3486,12 @@ QuizmasterQuestions.LastSabotage:What was the sabotage was called last?
 QuizmasterQuestions.FirstRoundSabotage:What was the first sabotage called this round?
 QuizmasterQuestions.LastEjectedPlayerColor:What was the color of the player that was last ejected?
 QuizmasterQuestions.LastReportPlayerColor:What was the color of the body that was last reported before this meeting?
-QuizmasterQuestions.LastButtonPressedPlayerColor:Who called last meeting before this meeting?
+QuizmasterQuestions.LastButtonPressedPlayerColor:Who called the last meeting before this meeting?
 QuizmasterQuestions.MeetingPassed:How many meetings have passed so far?
 QuizmasterQuestions.HowManyFactions:How many factions are in the game?
 QuizmasterQuestions.BasisOfRole:What's the basis of {QMRole}?
 QuizmasterQuestions.FactionOfRole:What's the faction of {QMRole}?
-QuizmasterQuestions.FactionRemovedName:What faction used to be in the game but was removed an update later?
+QuizmasterQuestions.FactionRemovedName:What faction used to be in the game but was removed in an update later?
 QuizmasterQuestions.HowManyDiedFirstRound:How many people died round one?
 QuizmasterQuestions.ButtonPressedBefore:How many people pressed the emergency button before this meeting?
 QuizmasterQuestions.WhatDoesEOgMeansInName:What did the E in TOHE originally stand for?
@@ -3510,29 +3520,752 @@ PlagueDoctorInfectInactiveTime:Delay Infection After Start The Game And After Me
 PlagueDoctorCanInfectSelf:Can Infect Self
 PlagueDoctorCanInfectVent:Can Infect While In Vent
 WinnerRoleText.PlagueDoctor:Plague Scientist Wins!
+StatueSlow:Statue Slowness
+StatuePeopleToSlow:People Needed To Slow
+ImpCanBeStatue:<color=#ff1919>Impostors</color> can become Statue
+CrewCanBeStatue:<color=#8cffff>Crewmates</color> can become Statue
+NeutralCanBeStatue:<color=#7f8c8d>Neutrals</color> can become Statue
+WardenIncreaseSpeed:Increase Speed By
+WardenWarn:DANGER! RUN!
+MinionAbilityTime:Ability Duration
+Minion_Blind:blinded
+TextBelowVersionText:
+Patreon:
+CrewmateSub:
+ImpostorSub:
+NeutralSub:
+MadmateSub:
+Role.Crewmate:
+Role.Jester:
+Role.Opportunist:
+Role.Convict:
+Role.Celebrity:
+Role.Bodyguard:
+Role.Dictator:
+Role.Mayor:
+Role.Doctor:
+Role.Maverick:
 Role.Witch:
+Role.Pursuer:
+Role.Follower:
+Role.Amnesiac:
+Role.Sheriff:
+Role.Knight:
+Role.Deputy:
+Role.Imitator:
+Role.NoChange:
+AddonSettingsCrew:
+AddonSettingsImp:
+AddonSettingsNeut:
+ClaimAddonSettings:
+BetrayalAddonSettings:
+ImpOnlyAddonSettings:
+CrewOnlyAddonSettings:
+NeutralAddonSettings:
+BasicAddonSettings:
+Nuker:
+Vampiress:
+Assassin:
+Mafia:
+BoobyTrap:
+Capitalism:
+BallLightning:
+Greedier:
+ImperiusCurse:
+OverKiller:
+EvilDiviner:
+Convict:
+Needy:
+CyberStar:
+SwordsMan:
+SabotageMaster:
+SpeedBooster:
+Counterfeiter:
+Divinator:
+Mediumshiper:
+DovesOfNeace:
+Farseer:
+Bloodhound:
+Monitor:
+ChiefOfPolice:
+Mario:
+Konan:
+Gamer:
+DarkHide:
 NWitch:
+Totocalcio:
+Succubus:
+Baker:
+Famine:
+Masochist:
+Ntr:
+Brakar:
+Sunglasses:
+DualPersonality:
+Rogue:
+Bloodlust:
 Repairman:
+Prefix.Ntr:
+Prefix.Watcher:
+Prefix.Overclocked:
+Prefix.Flash:
+Prefix.Torch:
+Prefix.Seer:
+Prefix.Brakar:
+Prefix.Oblivious:
+Prefix.Bewilder:
+Prefix.Workhorse:
+Prefix.Fool:
+Prefix.Avanger:
+Prefix.Youtuber:
+Prefix.Egoist:
+Prefix.TicketsStealer:
+Prefix.DualPersonality:
+Prefix.Mimic:
+Prefix.Bait:
+Prefix.Trapper:
+Prefix.Guesser:
+Prefix.Necroview:
+Prefix.Recruit:
+Prefix.Reach:
+Prefix.Onbound:
+Prefix.Rebound:
+Prefix.Mundane:
+Prefix.Knighted:
+Prefix.Unreportable:
+Prefix.Rogue:
+Prefix.Lucky:
+Prefix.DoubleShot:
+Prefix.Rascal:
+Prefix.Gravestone:
+Prefix.Lazy:
+Prefix.Autopsy:
+Prefix.Loyal:
+Prefix.EvilSpirit:
+Prefix.Glow:
+Prefix.Diseased:
+Prefix.Antidote:
+Prefix.Stubborn:
+Prefix.Cleansed:
+Prefix.Swift:
+Prefix.Unlucky:
+Prefix.VoidBallot:
+Prefix.Aware:
+Prefix.Fragile:
+Prefix.Ghoul:
+Prefix.Bloodlust:
+Prefix.Sunglasses:
+Prefix.Mare:
+Prefix.Burst:
+Prefix.Sleuth:
+Prefix.Clumsy:
+Prefix.Nimble:
+Prefix.Circumvent:
 Prefix.Repairman:
+Prefix.Hurried:
+Prefix.Oiiai:
+Prefix.Influenced:
+Prefix.Cyber:
+Prefix.Silent:
+Prefix.Susceptible:
+Prefix.Rainbow:
+Prefix.Tired:
+PrefixB.Ntr:
+PrefixB.Watcher:
+PrefixB.Overclocked:
+PrefixB.Flash:
+PrefixB.Torch:
+PrefixB.Seer:
+PrefixB.Brakar:
+PrefixB.Oblivious:
+PrefixB.Bewilder:
+PrefixB.Workhorse:
+PrefixB.Fool:
+PrefixB.Avanger:
+PrefixB.Youtuber:
+PrefixB.Egoist:
+PrefixB.TicketsStealer:
+PrefixB.DualPersonality:
+PrefixB.Mimic:
+PrefixB.Bait:
+PrefixB.Trapper:
+PrefixB.Guesser:
+PrefixB.Necroview:
+PrefixB.Recruit:
+PrefixB.Reach:
+PrefixB.Onbound:
+PrefixB.Rebound:
+PrefixB.Mundane:
+PrefixB.Knighted:
+PrefixB.Unreportable:
+PrefixB.Rogue:
+PrefixB.Lucky:
+PrefixB.DoubleShot:
+PrefixB.Rascal:
+PrefixB.Gravestone:
+PrefixB.Lazy:
+PrefixB.Autopsy:
+PrefixB.Loyal:
+PrefixB.EvilSpirit:
+PrefixB.Glow:
+PrefixB.Diseased:
+PrefixB.Antidote:
+PrefixB.Stubborn:
+PrefixB.Cleansed:
+PrefixB.Swift:
+PrefixB.Unlucky:
+PrefixB.VoidBallot:
+PrefixB.Aware:
+PrefixB.Fragile:
+PrefixB.Ghoul:
+PrefixB.Bloodlust:
+PrefixB.Sunglasses:
+PrefixB.Mare:
+PrefixB.Burst:
+PrefixB.Sleuth:
+PrefixB.Clumsy:
+PrefixB.Nimble:
+PrefixB.Circumvent:
 PrefixB.Repairman:
+PrefixB.Hurried:
+PrefixB.Oiiai:
+PrefixB.Cyber:
+PrefixB.Influenced:
+PrefixB.Silent:
+PrefixB.Susceptible:
+PrefixB.Rainbow:
+PrefixB.Tired:
+VampiressInfo:
+AssassinInfo:
+MafiaInfo:
+BeforeMafiaInfo:
+AfterMafiaInfo:
+BoobyTrapInfo:
+CapitalismInfo:
+BallLightningInfo:
+GreedierInfo:
+ImperiusCurseInfo:
+OverKillerInfo:
+EvilDivinerInfo:
+NeedyInfo:
+CyberStarInfo:
+SabotageMasterInfo:
+SpeedBoosterInfo:
+SwordsManInfo:
+CounterfeiterInfo:
+DivinatorInfo:
+MediumshiperInfo:
+DovesOfNeaceInfo:
+FarseerInfo:
+BloodhoundInfo:
+TrackerInfo:
+MonitorInfo:
+ChiefOfPoliceInfo:
+MarioInfo:
+KonanInfo:
+GamerInfo:
+DarkHideInfo:
 NWitchInfo:
+TotocalcioInfo:
+SuccubusInfo:
 NSerialKillerInfo:
+PhantomInfo:
+BakerInfo:
+FamineInfo:
+MasochistInfo:
+NtrInfo:
+BrakarInfo:
+DualPersonalityInfo:
+RogueInfo:
+BloodlustInfo:
+SunglassesInfo:
 RepairmanInfo:
+NukerInfo:
+VampiressInfoLong:
+AssassinInfoLong:
+MafiaInfoLong:
+BoobyTrapInfoLong:
+CapitalismInfoLong:
+BallLightningInfoLong:
+GreedierInfoLong:
+ImperiusCurseInfoLong:
+OverKillerInfoLong:
+ConvictInfoLong:
+EvilDivinerInfoLong:
+NeedyInfoLong:
+CyberStarInfoLong:
+SabotageMasterInfoLong:
+SpeedBoosterInfoLong:
+SwordsManInfoLong:
+CounterfeiterInfoLong:
+DivinatorInfoLong:
+MediumshiperInfoLong:
+DovesOfNeaceInfoLong:
+FarseerInfoLong:
+BloodhoundInfoLong:
+TrackerInfoLong:
+MonitorInfoLong:
+ChiefOfPoliceInfoLong:
+MarioInfoLong:
+GamerInfoLong:
+DarkHideInfoLong:
 NWitchInfoLong:
+TotocalcioInfoLong:
+SuccubusInfoLong:
 NSerialKillerInfoLong:
+PhantomInfoLong:
+BakerInfoLong:
+FamineInfoLong:
+MasochistInfoLong:
 OccultistInfoLong:
+NtrInfoLong:
+BrakarInfoLong:
+DualPersonalityInfoLong:
+RogueInfoLong:
+BloodlustInfoLong:
+SunglassesInfoLong:
 RepairmanInfoLong:
+NukerInfoLong:
+AbilityUseGainWithEachKill:
+AddedTheSkeld:
+AddedMIRAHQ:
+AddedPolus:
+AddedTheAirship:
+DisableTasks:
+ModeOptions:
+EnableRoleSummary:
+FastBoot:
+DisableHiddenRoles:
+RandomSpawn:
+SpawnRandomLocation:
+AirshipAdditionalSpawn:
+SpawnRandomVents:
+KickPlayerFriendCodeNotExist:
+TempBanPlayerFriendCodeNotExist:
+ConfirmRogueOnEject:
+SidekickKnowOtherSidekick:
+SidekickKnowOtherSidekickRole:
+SidekickCanKillSidekick:
+LegacyMafia:
+PuppetCountForDoubleKill:
+HackCooldown:
+HackDuration:
+MimicCooldown:
+MimicDuration:
+MimicButtonText:
+MimicDur:
+HackCD:
+KCD:
+MimicCD:
+VentCooldown:
+CrewmatesCanBeSidekick:
+NeutralsCanBeSidekick:
+ImpostorsCanBeSidekick:
+SidekickCanKillJackal:
+CanKillAllies:
+CanKillSelf:
+HasSidekick:
+ImpKnowAlliesRole:
+GCanGuessNeutrals:
+ShapeshiftDuration:
+ShapeshiftCooldown:
+VitalsDuration:
+VitalsCooldown:
+DeadCrewCantSabotage:
+DeadNeutralCantSabotage:
+KillCooldownNormally:
+SabotageMasterSkillLimit:
+SabotageMasterFixesDoors:
+SabotageMasterFixesReactors:
+SabotageMasterFixesOxygens:
+SabotageMasterFixesCommunications:
+SabotageMasterFixesElectrical:
+SpeedBoosterUpSpeed:
+SpeedBoosterTimes:
+HideJesterVote:
+CanTargetNeutralBenign:
+CanTargetNeutralEvil:
+CanTargetNeutralChaos:
 SerialKillerLimit:
+UndertakerKillCooldown:
+UndertakerSSCooldown:
+UndertakerSSDuration:
+ImpCanBeRogue:
+CrewCanBeRogue:
+NeutralCanBeRogue:
+RogueKnowEachOtherRoles:
+RogueKnowEachOther:
+EvilTrackerResetTargetAfterMeeting:
+WitchModeSwitchAction:
+ParanoiaVentCooldown:
+ParanoiaNumOfUseButton:
+MafiaCanKillNum:
+ImpKnowCyberStarDead:
+NeutralKnowCyberStarDead:
+JesterCanUseButton:
+MarioVentNumWin:
+ArroganceDefaultKillCooldown:
+ArroganceReduceKillCooldown:
+ArroganceMinKillCooldown:
+CapitalismSkillCooldown:
+ImpCanBeDualPersonality:
+CrewCanBeDualPersonality:
+HideDualVotes:
+CounterfeiterSkillCooldown:
+CounterfeiterSkillLimitTimes:
+CounterfeiterAbilityLost:
+SeeMedicAndTarget:
+SeeMedic:
+SeeTarget:
+SeeNoone:
+DeactivationImmediately:
+DeactivationAfterMeeting:
+DeactivationIsVisibleOFF:
+DivinatorSkillLimit:
+SidekickCountMode:
+SidekickCountMode.None:
+SidekickCountMode.Jackal:
+SidekickCountMode.Original:
+SidekickAssignMode:
+SidekickAssignMode.SidekickAndRecruit:
+SidekickAssignMode.Sidekick:
+SidekickAssignMode.Recruit:
+ContagiousCountMode:
+ContagiousCountMode.None:
+ContagiousCountMode.Virus:
+ContagiousCountMode.Original:
+GamerKillCooldown:
+GamerHealthMax:
+GamerDamage:
+GamerSelfHealthMax:
+GamerSelfDamage:
+BallLightningConvertTime:
+BallLightningKillCooldown:
+BallLightningKillerConvertGhost:
+OddKillCooldown:
+EvenKillCooldown:
+GuardSpellTimes:
+killAttacker:
+AssassinMarkCooldown:
+AssassinAssassinateCooldown:
+AssassinCanKillAfterAssassinate:
+TrialLimitPerMeeting:
+TotocalcioMaxBetTimes:
+TotocalcioBetCooldown:
+TotocalcioMaxBetCooldown:
+TotocalcioBetCooldownIncrese:
+TotocalcioKnowTargetRole:
+TotocalcioBetTargetKnowTotocalcio:
+DivinatorHideVote:
+SuccubusCharmCooldown:
+SuccubusCharmCooldownIncrese:
+SuccubusCharmMax:
+SuccubusKnowTargetRole:
+SuccubusTargetKnowOtherTarget:
+SuccubusCanCharmNeutral:
+InfectiousBiteCooldownIncrese:
+VirusKillCooldown:
+VirusCanVent:
+CharmedCountMode:
+CharmedCountMode.None:
+CharmedCountMode.Succubus:
+CharmedCountMode.Original:
+ResetKillCooldownWhenPlayerGetKilled:
+ResetKillCooldownOn:
+SidekickCanWinWithOriginalTeam:
+MediumshiperContactLimit:
+MediumshiperOnlyReceiveMsgFromCrew:
+DovesOfNeaceCooldown:
+DovesOfNeaceMaxOfUseage:
+BloodhoundArrowsPointingToDeadBody:
+BloodhoundLeaveDeadBodyUnreportable:
+BloodhoundInformKillerBeingTracked:
+TrackerHideVote:
+TrackerCanGetArrowColor:
+CanBeSoldByMerchant:
+CanBeGuessed:
+GuessTaskDone:
+CanBeInLove:
+KickExample:
+DeathReason.Disconnected:
+CanHandcuffSheriff:
+CrewKillingShowAs:
+NeutralKillingShowAs:
+PassiveNeutralsShowAs:
+InvestigatorInvestigatedRole:
+InvestigatorInvestigatedCrew:
+InvestigatorInvestigatedNotCrew:
+RoleRevealMode:
+ShowNeutralCount:
+DisableSunnyboy:
+DisableBard:
+DisableSaboteur:
+MafiaDeadMsg:
+MafiaAliveKill:
+MafiaKillMax:
+MafiaKillDead:
+MafiaKillSucceed:
+MafiaKillDisable:
+CyberStarDead:
+LaughToWhoTrialSelf:
+TrialKill:
+TrialHelp:
+TrialNull:
+DivinatorCheck:
+DivinatorCheckLimit:
+DivinatorCheckSelfMsg:
+DivinatorCheckReachLimit:
+DivinatorAlreadyCheckedMsg:
+MediumshipHelp:
+MediumshipYes:
+MediumshipNo:
+MediumshipDone:
+MediumshipNotifyTarget:
+MediumshipNotifySelf:
+MediumshiperKnowPlayerDead:
+ExecutionerRoleChanged:
+SpeedBoosterTaskDone:
+SpeedBoosterSpeedLimit:
+BloodlustAdded:
+OnCyberStarDead:
+TotocalcioBetPlayer:
+TotocalcioBetOnYou:
+SuccubusCharmedPlayer:
+CharmedBySuccubus:
+SuccubusInvalidTarget:
+GuessPhantom:
+DovesOfNeaceOnGuard:
+DovesOfNeaceMaxUsage:
+DovesOfNeaceSkillNotify:
+BloodhoundTrackRecorded:
+BloodhoundNoTrack:
+BloodhoundIsTrackingYou:
+TrackerLastRoomMessage:
+TrapOnlyWorksOnTheBodyBoobyTrap:
+FarseerRevealCooldown:
+FarseerRevealTime:
+FarseerVision:
+MerchantSellNeutral:
+Message.KickedByNoFriendCode:
+Message.TempBannedByNoFriendCode:
 Warning.TemporaryAntiBlackoutFix:
 TemporaryAntiBlackoutFix:
 AntiBlackoutFixTitle:
 Warning.OverrideExiledPlayer:
 NeutralKillingBlackoutWarning:
+CyberStarNewsTitle:
+DivinatorCheckMsgTitle:
+TrialKillTitle:
+MediumshipTitle:
+MafiaRevengeTitle:
+NecromancerRevengeTitle:
+TrackerTitle:
+Temp.Blank:
+TabGroup.GameSettings:
+TabGroup.OtherRoles:
+TabGroup.TaskSettings:
+OtherRoles.CrewmateRoles:
+OtherRoles.NeutralRoles:
+OtherRoles.ImpostorRoles:
+OtherRoles.Addons:
+HideGameCodes:
+announcementUpdate:
+announcementChangelog:
+updateFailed:
+downloadFailed:
+onSetPublicNoLatest:
+InvalidArgs:
+RoleRateNoColor:
+RoleOnNoColor:
+RoleOffNoColor:
+Rate0:
+Rate5:
+Rate10:
+Rate20:
+Rate30:
+Rate40:
+Rate50:
+Rate60:
+Rate70:
+Rate80:
+Rate90:
+Rate100:
+SoloKombat:
+ModeSoloKombat:
 SerialKillerSuicideButtonText:
+AssassinMarkButtonText:
 WitchControlButtonText:
+CapitalismButtonText:
+CounterfeiterButtonText:
+GamerButtonText:
+ImperiusCurseButtonText:
+BallLightningButtonText:
+OverKillerButtonText:
+AssassinShapeshiftText:
+CamouflagerShapeshiftText:
+DefaultRevertShapeshiftText:
+ParanoiaVentButtonText:
+TotocalcioKillButtonText:
+DovesOfNeaceVentButtonText:
+SuccubusKillButtonText:
+FarseerKillButtonText:
+Mad-:
+Cleansed-:
+Ego-:
+turnOn:
+turnOff:
+TOHEVisitorCount:
+MsgKickXboxPlayer:
+MsgKickPlayStationPlayer:
+MsgKickNintendoPlayer:
+Loading:
+DivinatorCheck.Honest:
+DivinatorCheck.Impulse:
+DivinatorCheck.Weirdo:
+DivinatorCheck.Blockbuster:
+DivinatorCheck.Strong:
+DivinatorCheck.Incomprehensible:
+DivinatorCheck.Enthusiasm:
+DivinatorCheck.Disturbed:
+DivinatorCheck.None:
+DivinatorCheck.Glitch:
+DivinatorCheck.HideMsg:
+DivinatorCheck.Love:
+DivinatorCheck.TaskDone:
+DivinatorCheck.Null:
+DivinatorCheck.Result:
+VampiressChance:
+NukerChance:
+ImpCanBeClumsy:
+NeutralCanBeClumsy:
+CollectOwnSoulOpt:
+Occultist Text Strings:
+CursesLookLikeSpells:
+OccultistModeDouble:
+OccultistModeCurse:
+OccultistModeKill:
+OccultistButtonText:
+ConjGuessMax:
+ConjCanGuessAdt:
+RefugeeSettings:
+AntiAdminerAD:
+AntiAdminerVI:
+AntiAdminerDL:
+AntiAdminerCA:
+ShroudAlertMessage:
+GodfatherCount.Refugee:
+GodfatherCount.Madmate:
+BlackmailerShutUp:
+UnluckySabotageSuicideChance:
+UnluckyShapeshiftSuicideChance:
+BloodlustKillCD:
+NormalKillCD:
+BloodlustPlayerCount:
+GlowVision:
+HackButtonText:
+NukeRadius:
+NukeCooldown:
+Masochist Text Strings:
+MasochistKillMax:
+GuessMasochist:
+MasochistKill:
+SelfGuessMasochist:
+GuessMasochistBlocked:
+AmnesiacRemembered:
+AmnesiacInvalidTarget:
 RememberedWitch:
+ImitatedNeutralKiller:
+ImitatedMaverick:
 ImitatedWitch:
+ImitatedPursuer:
+ImitatedFollower:
+ImitatedAmnesiac:
+ImitatedImitator:
+ImitatedImpostor:
+ImitatedCrewmate:
+IncompatibleCrewmateMode:
+BanditStealMode.OnMeeting:
+BanditStealMode.Instantly:
+BanditKillCooldown:
+BanditCanUseSabotage:
+DoppelKillCooldown:
+BakerChangeChances:
+BakerChange:
+BakerChangeNow:
+BakerChangeNONE:
+PanAliveMessageTitle:
+PanAlive:
+OptionWatcher:
+OptionKnighted:
+OptionSeer:
+OptionBait:
+OptionBeartrap:
+OptionTiebreaker:
+OptionOnbound:
+OptionDisregarded:
+OptionLucky:
+OptionAutopsy:
+OptionLoyal:
+OptionSchizo:
+OptionNecroview:
+OptionGravestone:
+OptionGlow:
+OptionBewilder:
+OptionAvenger:
+CopyCatAlreadyCopy:
+MaulKillButtonText:
+KillCooldownAfterKilling:
 ImpCanBeRepairman:
 CrewCanBeRepairman:
 NeutralCanBeRepairman:
+ImpCanBeSunglasses:
+CrewCanBeSunglasses:
+NeutralCanBeSunglasses:
+SunglassesVision:
+FarseerCanBeMadmate:
+GanFarseerCanBeMadmate:
+CouncillorMurderMax:
+LaughToWhoMurderSelf:
+MurderKill:
+MurderHelp:
+MurderNull:
+MurderKillTitle:
+MurderLimitPerMeeting:
+AlchemistGotInvisPotion:
+AlchemistGotBloodlustPotion:
+AlchemistPotionBloodlust:
+DivinationMaxCount:
+EnigmaClueTitle:
+ChiefOfPoliceSkillCooldown:
+PolicCanImpostorAndNeutarl:
+SheriffSuccessfullyRecruited:
+BeSheriffByPolice:
+ChiefOfPoliceKillButtonText:
+PlagueBearerCD:
+PestilenceCD:
+PestilenceImmune:
+VengefulRomanticKillButtonText:
+MinorCooldown:
+OriginalDev:
+NewDev:
+MainDev:
+Art:
+RoleDev:
+TechSup:
+FeatureDev:
+TranEN:
+TranRU:
+TranCHT:
+OnlyShowPart:
+WinnerRoleText.Mario:
+WinnerRoleText.Gamer:
+WinnerRoleText.DarkHide:
+WinnerRoleText.Succubus:
+WinnerRoleText.Rogue:
+WinnerRoleText.Phantom:
+WinnerRoleText.Famine:
+WinnerRoleText.Masochist:
+WinnerRoleText.Agitater:
 AdditionalWinnerRoleText.NWitch:
+AdditionalWinnerRoleText.Totocalcio:
+AdditionalWinnerRoleText.Phantom:
