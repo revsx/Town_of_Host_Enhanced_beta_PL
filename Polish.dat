@@ -960,7 +960,6 @@ Overlay.AllowConsole:<size=50%>Konsola</size>
 DisableShieldAnimations:Disable Unnecessary Shield Animations
 DisableKillAnimationOnGuess:Disable Kill Animation on Guesses
 AbilityUseGainWithEachTaskCompleted:<color=#00ffff>Amount of Ability <color=#7FFFD2>Use Gains</color> With Each Task Completed</color>
-AbilityUseGainWithEachKill:<color=#00ffff>Amount of Ability <color=#7FFFD2>Use Gains</color> With Each Kill</color>
 OutOfAbilityUsesDoMoreTasks:<color=#ffff00>Out of ability uses! Do tasks to get more!</color>
 AbilityUseLimit:Initial Ability Use Limit
 ShowArrows:Has Arrows pointing toward bodies
@@ -968,7 +967,6 @@ ArrowDelayMin:Minimum Arrow show-up delay
 ArrowDelayMax:Maximum Arrow show-up delay
 SMUsesUsedWhenFixingReactorOrO2:Uses it takes to fix Reactor/O2
 SMUsesUsedWhenFixingLightsOrComms:Uses it takes to fix Lights/Comms
-SheriffShowShotLimit:Display Shot Limit next to Role Name
 AbilityCD:Ability Cooldown
 GrenadierSkillMaxOfUseage:(Initial) Max number of Grenades
 ShowSpecificRole:Know specific roles on Task Completion
@@ -981,19 +979,15 @@ DisableSabotage:Wylacz sabotaz
 NoGameEnd:Bez konca gry
 AllowConsole:Konsola
 DebugMode:Tryb debugowania
-SyncButtonMode:Tryb przyciskow synchronizacji
+SyncButtonMode:Limit Meeting Times
 RandomMapsMode:Tryb losowych map
-SyncedButtonCount:Maksymalna liczba dozwolonych spotkan
+SyncedButtonCount:Max Number of Emergency Meetings per Game
 HHSuccessKCDDecrease:Kill cooldown decrease on killing target
 HHFailureKCDIncrease:Kill cooldown increase on killing others
 HHNumOfTargets:Number of targets
 Targets:<color=#bf1313>Targets:</color> 
 HHMaxKCD:Maximum kill cooldown
 HHMinKCD:Minimum kill cooldown
-AddedTheSkeld:Obejmij The Skeld
-AddedMIRAHQ:Obejmij MIRA HQ
-AddedPolus:Obejmij Polus
-AddedTheAirship:Obejmij Airship
 AllAliveMeeting:Spotkanie, gdy nikt nie jest martwy
 AllAliveMeetingTime:Czas spotkania, kiedy nikt nie jest martwy
 AdditionalEmergencyCooldown:Dodatkowy awaryjny czas odnowienia
@@ -1001,7 +995,7 @@ AdditionalEmergencyCooldownThreshold:Minimalna liczba zywych graczy do zastosowa
 AdditionalEmergencyCooldownTime:Dodatkowy czas odnowienia
 LadderDeath:Spadanie z drabin
 LadderDeathChance:Szansa na upadek smierci
-DisableTasks:Wylacz zadania
+EveryoneCanSeeDeathReason:Everyone Can See Death Reason
 DisableSwipeCardTask:Wylacz zadanie Swipe Card
 DisableSubmitScanTask:Wylacz zadanie Submit Scan
 DisableUnlockSafeTask:Wylacz zadanie Unlock Safe
@@ -1104,22 +1098,30 @@ GhostCanSeeOtherRoles:Duchy moga widziec inne role
 GhostCanSeeOtherVotes:Duchy widza kolory glosow
 GhostCanSeeDeathReason:Duchy widza przyczyne smierci
 GhostIgnoreTasks:Duchy zwolnione sa z zadan
+ConvertedCanBeGhostRole:Converted Players Can Be Any Ghost-Roles
+MaxImpGhostRole:Max Impostor Ghost-Roles
+MaxCrewGhostRole:Max Crewmate Ghost-Roles
+DefaultAngelCooldown:Default Ability Cooldown
 DisableTaskWin:Wylacz wygranie na zadania
+DisableTaskWinIfAllCrewsAreDead:Disable Task Win If All <#8cffff>Crewmates</color> Are Dead
+DisableTaskWinIfAllCrewsAreConverted:Disable Task Win If All <#8cffff>Crewmates</color> Are <#ffab1b>Converted</color>
 HideGameSettings:Ukryj ustawienia gry
 DIYGameSettings:Wlacz tylko niestandardowe /n wiadomosc
+Settings::Ustawienia:
 PlayerCanSetColor:Gracze moga korzystac z /color komenda
 PlayerCanSetName:Players can use the /rn command
 PlayerCanUseQuitCommand:Players can use the /quit command to leave the lobby forever
+PlayerCanUseTP:Players can use the /tpin and /tpout command
+CanPlayMiniGames:Players can play mini-games
 KPDCamouflageMode:Tryb wygladu kamuflazu
 RoleOptions:Opcje roli
-ModeOptions:Opcje trybu
-AutoStart:Automatycznie startuj przy pelnym lobby
+DarkTheme:Enable Dark Theme
+AutoStart:Auto start
 EnableCustomButton:Wlacz niestandardowe obrazy przyciskow
 EnableCustomSoundEffect:Wlacz niestandardowe efekty dzwiekowe
+EnableCustomDecorations:Enable Custom Map Decorations
 SwitchVanilla:Przelacz na Vanille
 ModeForSmallScreen:Small Screen Mode
-EnableRoleSummary:Old Role Summary
-FastBoot:Tryb szybkiego startu
 UnlockFPS:Odblokuj FPS'Y
 ForceOwnLanguage:Zmus modfikacje do uzywania twojego jezyka, jesli to mozliwe
 ForceOwnLanguageRoleName:Jesli to mozliwe, wymuszaj nazwy rol w twoim jezyku
@@ -1128,9 +1130,11 @@ GodMode:Niesmiertelnosc
 AutoDisplayKillLog:Wyswietl dziennik zabojstw
 AutoDisplayLastRoles:Wyswietl ostatnie role
 AutoDisplayLastResult:Automatycznie wyswietlaj ostatni wynik
+RevertOldKillLog:Revert to old kill-log
 HideExileChat:Hide exile (lava) chat
 ExileSpamMsg:Someone is trying to be a smart ass by lava chatting
 EnableYTPlan:Wlacz plan Youtubera
+InvalidPermissionCMD:<color=#ff1919><size=125%><b>INVALID PERMISSION</b></size></color>\n\n<color=#ff1919>Sorry, you do not have the permission to use this command, check /me for all permissions</color>
 KickLowLevelPlayer:Wyrzucaj graczy, ktorych poziom jest nizszy niz
 TempBanLowLevelPlayer:Temporarily ban low-level players
 ApplyWhiteList:Turn on Whitelist to bypass level kick
@@ -1153,7 +1157,6 @@ OptKickNintendoPlayer:Wyrzuc graczy Nintendo Switch
 ShareLobby:Zezwalaj TOHE-Chan udostepniac kod lobby na discorda
 ShareLobbyMinPlayer:Udostepnij kod lobby, gdy osiagnie liczbe graczy
 DisableVanillaRoles:Wylacz Role Vanilla
-DisableHiddenRoles:Wylacz Ukryte Role
 VoteMode:Tryb Glosowania
 WhenSkipVote:Jesli gracz pominal
 WhenSkipVoteIgnoreFirstMeeting:Ignoruj pierwsze spotkanie
@@ -1197,10 +1200,10 @@ BlockDisturbancesToSwitches:Block Switches When They Are Up
 DisableAirshipViewingDeckLightsPanel:Wylacz Viewing Deck Lights Panel (Airship)
 DisableAirshipGapRoomLightsPanel:Wylacz Gap Room Lights Panel (Airship)
 DisableAirshipCargoLightsPanel:Wylacz Cargo Lights Panel (Airship)
-RandomSpawn:Losowy Spawn
-SpawnRandomLocation:Random Spawns In Locations
-AirshipAdditionalSpawn:Dodatkowe lokalizacje Spawnu (Airship)
-SpawnRandomVents:Random Spawns On Vents
+RandomSpawnMode:Random Spawns Mode
+RandomSpawn_SpawnRandomLocation:Random Spawns In Locations
+RandomSpawn_AirshipAdditionalSpawn:Additional Spawn Locations (<color=#ed0007>Airship</color>)
+RandomSpawn_SpawnRandomVents:Random Spawns On Vents
 CommsCamouflage:Kamuflaz podczas sabotazu komunikacji
 DisableOnSomeMaps:Disable comms camouflage on some maps
 DisableOnSkeld:Disable on <color=#66a186>The Skeld</color>
@@ -1235,10 +1238,9 @@ ChangeDecontaminationTime:Change Decontamination Time (<color=#e84b56>MIRA HQ</c
 DecontaminationTimeOnMiraHQ:Decontamination Time On <color=#e84b56>MIRA HQ</color>
 DecontaminationTimeOnPolus:Decontamination Time On <color=#a167c0>Polus</color>
 ApplyDenyNameList:Zastosuj liste zablokowanych nazw
-KickPlayerFriendCodeNotExist:Wyrzucaj graczy, ktorzy nie sa zalogowani
-TempBanPlayerFriendCodeNotExist:Temp Ban players without a friend code
+KickPlayerFriendCodeInvalid:Kick players with an invalid friend code
+TempBanPlayerFriendCodeInvalid:Temp Ban players with an invalid friend code
 ApplyBanList:Zastosuj liste zbanowanych
-EndWhenPlayerBug:Zakoncz gre, gdy gracz ma blad krytyczny
 RemovePetsAtDeadPlayers:Remove pets at dead players
 KillFlashDuration:Czas trwania zabojczego blysku
 ConfirmEjectionsMode:Potwierdz tryb wyrzucania
@@ -1250,8 +1252,7 @@ ShowNKRemainOnEject:Pokaz pozostalych <color=#7f8c8d>Neutralnych Zabojcow</color
 ConfirmEgoistOnEject:Potwierdz <color=#5600ff>Egoistow</color> przy wyrzucaniu
 ConfirmLoversOnEject:Potwierdz <color=#ff9ace>Kochankow</color> przy wyrzucaniu
 ConfirmSidekickOnEject:Potwierdz <color=#00b4eb>Pomocnikow</color> przy wyrzucaniu
-ConfirmRogueOnEject:Potwierdz <color=#696969>Samotnika</color> przy wyrzucaniu
-HideBittenRolesOnEject:Ukryj role <color=#7b8968>ugryziony<color> przy wyrzucaniu
+HideBittenRolesOnEject:Ukryj role <color=#7b8968>Ugryzionych<color> przy wyrzucaniu
 ShowTeamNextToRoleNameOnEject:Pokaz jaka druzyna jest rola wyrzuconego gracza
 Ban:Zbanuj
 Kick:Wyrzuc
@@ -1274,68 +1275,53 @@ MenuTitle.TaskSettings:★ Zarzadzanie Zadaniami ★
 MenuTitle.Guessers:★ Tryb Zgadywania ★
 MenuTitle.GuesserModeRoles:★ Role i Modyfikacje dla trybu Zgadywania ★
 ShieldPersonDiedFirst:Oslaniaj osobe, ktora pierwsza zginela w ostatniej grze
-JackalWinWithSidekick:<color=#00b4eb>Szakal</color> moze wygrac razem z <color=#00b4eb>Pomocnikami</color>
-SidekickKnowOtherSidekick:<color=#00b4eb>Pomocnicy</color> znaja sie nawzajem
-SidekickKnowOtherSidekickRole:<color=#00b4eb>Pomocnicy</color> znaja role innych <color=#00b4eb>Pomocnikow</color>
-SidekickCanKillSidekick:<color=#00b4eb>Pomocnicy</color> moga zabic innych <color=#00b4eb>Pomocnikow</color>
-LegacyMafia:Uzyj starszej wersji
+LegacyNemesis:Use Legacy Version
 ArsonistKeepsGameGoing:<color=#ff6633>Piroman</color> kontynuuje gre
 ArsonistCanIgniteAnytime:Can Ignite Anytime
 ArsonistMinPlayersToIgnite:Minimum doused needed for ignite
 ArsonistMaxPlayersToIgnite:Maximum doused needed for ignite
-PuppetCountForDoubleKill:Total puppet count needed for double kill
 PuppeteerDoubleKills:Puppet dies alongside victim
+DollMasterPossessionCooldown:Possession Cooldown
+DollMasterPossessionDuration:Possession Duration
+DollMasterCanKillAsMainBody:Can kill as the main body
+DollMasterTargetDiesAfterPossession:Target dies after possession
 MastermindCD:Manipulate Cooldown
 MastermindTimeLimit:Time limit to kill someone
 MastermindDelay:Manipulation notification delay
 ManipulateNotify:Kill someone in {0}s or die!
 ManipulatedKilled:<color=#00ffff>{0}</color> has killed someone
 SurvivedManipulation:You survived the <color=#ff1919>Mastermind</color>'s manipulation!
-HackCooldown:Hack Cooldown
-HackDuration:Hack Duration
-MimicCooldown:Mimic Cooldown
-MimicDuration:Mimic Duration
-MimicButtonText:Mimic
-MimicDur:<color=#3333ff>Mimic Duration:</color> {0}s
-HackCD:<color=#39FF14>Hack Cooldown:</color> {0}s
-KCD:<color=#ff1919>Kill Cooldown:</color> {0}s
-MimicCD:<color=#3333ff>Mimic Cooldown:</color> {0}s
+Glitch_HackCooldown:Hack Cooldown
+Glitch_HackDuration:Hack Duration
+Glitch_MimicCooldown:Mimic Cooldown
+Glitch_MimicDuration:Mimic Duration
+Glitch_MimicButtonText:Mimic
+Glitch_MimicDur:<color=#3333ff>Mimic Duration:</color> {0}s
+Glitch_HackCD:<color=#39FF14>Hack Cooldown:</color> {0}s
+Glitch_KCD:<color=#ff1919>Kill Cooldown:</color> {0}s
+Glitch_MimicCD:<color=#3333ff>Mimic Cooldown:</color> {0}s
 HackedByGlitch:<color=#39FF14>You are hacked by the Glitch, you can't {0}.</color>
 GlitchKill:kill
 GlitchReport:report
 GlitchVent:vent
 ShowFPS:Show FPS
 FPSGame:FPS: 
-Cooldown:Odnowienie
-KillCooldown:Odnowienie zabojstwa
-VentCooldown:Odnowienie wentowania
 ControlCooldown:Odnowienie kontroli
 PoisonCooldown:Odnowienie trucizny
 PoisonerKillDelay:Opoznienie zabojstwa trucizny
-CanVent:Moze wentowac
-CanKill:Moze zabic
-CanGuess:Moze zgadywac w trybie zgadywania
+WardenNotifyLimit:Max number of alerts
 BombCooldown:Odnowienie Bomby
-SniperCanKill:<color=#ff1919>Snajper</color> moze zabic pozostalymi kulami
-CrewmatesCanBeSidekick:<color=#8cffff>Niewinni</color> moga byc <color=#00b4eb>Pomocnikami</color>
-NeutralsCanBeSidekick:<color=#7f8c8d>Neutrale</color> moga byc <color=#00b4eb>Pomocnikami</color>
-ImpostorsCanBeSidekick:<color=#ff1919>Impostorzy</color> moga byc <color=#00b4eb>Pomocnikami</color>
-JackalCanKillSidekick:<color=#00b4eb>Szakal</color> moze zabic <color=#00b4eb>Pomocnikow</color>
-SidekickCanKillJackal:<color=#00b4eb>Pomocnicy</color> moga zabic <color=#00b4eb>Szakala</color>
-ImpostorVision:Maja wizje <color=#ff1919>Impostora</color>
-CanUseSabotage:Moze Sabotowac
-CanKillAllies:Moga zabic <color=#ff1919>Impostorow</color>
-CanKillSelf:Moze sie zabic
+Warlock_CanKillSelf:Can Kill Themselves
 CrewpostorKnowsAllies:Znaja <color=#ff1919>Impostorow</color>
 AlliesKnowCrewpostor:Znaja <color=#ff1919>Impostorow</color>
 CrewpostorLungeKill:Crewpostor lunges on kill
-CrewpostorKillAfterTask:Number of tasks completed to make 1 kill
-HasSidekick:Ma <color=#00b4eb>Pomocnikow</color>
+CrewpostorKillAfterTask:Number of tasks completed to make one kill
 NonNeutralKillingRolesMinPlayer:Minimalna wartosc roli <color=#7f8c8d>Nie-Neutralnych zabojcow</color>
 NonNeutralKillingRolesMaxPlayer:Maksymalna wartosc roli <color=#7f8c8d>Nie-Neutralnych zabojcow</color>
 NeutralKillingRolesMinPlayer:Minimalna wartosc roli <color=#7f8c8d>Neutralnych zabojcow</color>
 NeutralKillingRolesMaxPlayer:Maksymalna wartosc roli <color=#7f8c8d>Neutralnych zabojcow</color>
-ImpKnowAlliesRole:<color=#ff1919>Impostors</color> know the roles of other <color=#ff1919>Impostors</color>
+ImpsCanSeeEachOthersRoles:<color=#ff1919>Impostors</color> know the roles of other <color=#ff1919>Impostors</color>
+ImpsCanSeeEachOthersAddOns:<color=#ff1919>Impostors</color> can see each other's Add-ons
 ImpKnowWhosMadmate:<color=#ff1919>Impostors</color> know <color=#ff1919>Madmates</color>
 MadmateKnowWhosImp:<color=#ff1919>Madmates</color> know <color=#ff1919>Impostors</color>
 MadmateKnowWhosMadmate:<color=#ff1919>Madmates</color> know each other
@@ -1349,34 +1335,61 @@ EGCanGuessAdt:Can Guess Add-Ons
 EGCanGuessTaskDoneSnitch:Can guess <color=#b8fb4f>Snitch</color> with All Tasks Done
 GGCanGuessAdt:Moze Odgadnac Modyfikacje
 GuesserCanGuessTimes:Maksymalna liczba odgadniec
-GuesserTryHideMsg:Sprobuj ukryc komendy zgadujacego
+GuesserTryHideMsg:Try to hide the guesser's command
 GCanGuessImp:<color=#ff1919>Impostor</color> can guess <color=#ff1919>Impostor</color> roles
 GCanGuessCrew:<color=#8cffff>Crewmate</color> can guess <color=#8cffff>Crewmate</color> roles
-GCanGuessNeutrals:<color=#8cffff>Crewmate</color> can guess <color=#8cffff>Crewmate</color> roles
 GCanGuessAdt:Can guess Add-ons
 GCanGuessTaskDoneSnitch:Can guess <color=#b8fb4f>Snitch</color> with All Tasks Done
 BountyTargetChangeTime:Time Until Target Swaps
 BountySuccessKillCooldown:Kill Cooldown After Killing Bounty
 BountyFailureKillCooldown:Kill Cooldown After Killing Others
-BountyShowTargetArrow:Show arrow pointing towards target
+BountyShowTargetArrow:Show arrow pointing towards the target
 DefaultShapeshiftCooldown:Default Shapeshift Cooldown
-ShapeshiftDuration:<color=#ff1919>Shapeshift</color> Duration
-ShapeshiftCooldown:<color=#ff1919>Shapeshift</color> Cooldown
-VitalsDuration:Vitals Duration
-VitalsCooldown:Vitals Cooldown
 DeadImpCantSabotage:<color=#ff1919>Impostors</color> can't sabotage after they've died
-DeadCrewCantSabotage:<color=#8cffff>Crewmates</color> can't sabotage after they've died
-DeadNeutralCantSabotage:<color=#7f8c8d>Neutrals</color> can't sabotage after they've died
 VampireKillDelay:Bite Kill Delay
+VampireTargetDead:Target died
+VampireActionMode:Action Mode
+Vampire_OnlyBites:Only Bites
+Cooldown:Cooldown
+AbilityCooldown:Ability Cooldown
+CanKill:Can Kill
+KillCooldown:Kill Cooldown
+CanVent:Can Vent
+ImpostorVision:Has <color=#ff1919>Impostor</color> Vision
+CanUseSabotage:Can Sabotage
+CanKillImpostors:Can Kill <color=#ff1919>Impostors</color>
+CanGuess:Can Guess in Guesser Mode or as Guesser
+HideVote:Hide Vote
+CanUseMeetingButton:Can Call Emergency Meetings
+ModeSwitchAction:Switch Action via
+ShowShapeshiftAnimations:Show <color=#ff1919>Shapeshift</color> animations
+ShapeshifterBase_ShapeshiftCooldown:<color=#ff1919>Shapeshift</color> Cooldown
+ShapeshifterBase_ShapeshiftDuration:<color=#ff1919>Shapeshift</color> Duration
+ShapeshifterBase_LeaveShapeshiftingEvidence:Leave Shapeshifting Evidence
+PhantomBase_InvisCooldown:Invis Cooldown
+PhantomBase_InvisDuration:Invis Duration
+GuardianAngelBase_ProtectCooldown:Protect Cooldown
+GuardianAngelBase_ProtectionDuration:Protection Duration
+GuardianAngelBase_ImpostorsCanSeeProtect:Protect Visible To Impostors
+ScientistBase_BatteryCooldown:Vitals Display Cooldown
+ScientistBase_BatteryDuration:Battery Duration
+EngineerBase_VentCooldown:Vent Cooldown
+EngineerBase_InVentMaxTime:Max Time In Vents
+NoisemakerBase_ImpostorAlert:Impostors Can Get Alert
+NoisemakerBase_AlertDuration:Alert Duration
+TrackerBase_TrackingCooldown:Tracking Cooldown
+TrackerBase_TrackingDuration:Tracking Duration
+TrackerBase_TrackingDelay:Tracking Delay
+KamikazeControversialSymbol:Use controversial symbol
 MareAddSpeedInLightsOut:Additional Speed During Lights Out
 MareKillCooldownInLightsOut:Kill Cooldown During Lights Out
-KillCooldownNormally:Kill Cooldown Without Sabotage
-SabotageMasterSkillLimit:Max use of Abilities (Excluding Doors)
-SabotageMasterFixesDoors:Can open all doors in the same building
-SabotageMasterFixesReactors:Can Fix Both Reactors Alone
-SabotageMasterFixesOxygens:Can Fix Both O2 Alone
-SabotageMasterFixesCommunications:Can Fix Both Comms Alone In MIRA HQ
-SabotageMasterFixesElectrical:Can Fix Lights With One Switch
+MechanicSkillLimit:Initial repair use limit
+MechanicFixesDoors:Can open all doors in the same building
+MechanicFixesReactors:Can Fix Both Reactors Alone
+MechanicFixesOxygens:Can Fix Both O2 Alone
+MechanicFixesCommunications:Can Fix Both Comms Alone In MIRA HQ
+MechanicFixesElectrical:Can Fix Lights With One Switch
+SheriffShowShotLimit:Display Shot Limit next to Role Name
 SheriffCanKill%role%:Can Kill %role%
 SheriffCanKillNeutrals:Can Kill <color=#7f8c8d>Neutrals</color>
 SheriffCanKillNeutralsMode:<color=#7f8c8d>Neutral</color> Configuration
@@ -1409,42 +1422,40 @@ SnitchCanGetArrowColor:Zobacz Kolorowe Strzalki Na Podstawie Kolorow Druzyny
 SnitchCanFindNeutralKiller:Moze znalezc <color=#7f8c8d>Neutralnych Zabojcow</color>
 SnitchCanFindMadmate:Moze znalezc <color=#ff1919>Zlychmates</color>
 SnitchRemainingTaskFound:Pozostale zadania do poznania roli
-SpeedBoosterUpSpeed:Increase Speed by
-SpeedBoosterTimes:Max Boosts
 MayorAdditionalVote:Additional Votes Count
 MayorHasPortableButton:<color=#204d42>Mayor</color> has a Mobile Emergency Button
 MayorNumOfUseButton:Max Number of Mobile Emergency Buttons
 MayorHideVote:Hide additional vote(s)
-HideJesterVote:Ukryj glosowania Blazna
 MeetingsNeededForWin:Meetings needed to win
 ExecutionerCanTargetImpostor:Can Target <color=#ff1919>Impostors</color>
 ExecutionerCanTargetNeutralKiller:Can Target <color=#7f8c8d>Neutral</color> <color=#ff1919>Killing</color>
 ExecutionerChangeRolesAfterTargetKilled:When Target Dies, <color=#c0c0c0>Executioner</color> becomes
-CanTargetNeutralBenign:Can Target <color=#7f8c8d>Neutral</color> <color=#046300>Benign</color>
-CanTargetNeutralEvil:Can Target <color=#7f8c8d>Neutral</color> <color=#912900>Evil</color>
-CanTargetNeutralChaos:Can Target <color=#7f8c8d>Neutral</color> <color=#D4AF37>Chaos</color>
+ExecutionerCanTargetNeutralBenign:Can Target <color=#7f8c8d>Neutral</color> <color=#046300>Benign</color>
+ExecutionerCanTargetNeutralEvil:Can Target <color=#7f8c8d>Neutral</color> <color=#912900>Evil</color>
+ExecutionerCanTargetNeutralChaos:Can Target <color=#7f8c8d>Neutral</color> <color=#D4AF37>Chaos</color>
 SidekickSheriffCanGoBerserk:<color=#00b4eb>Recruited</color> <color=#f8cd46>Sheriff</color> Can Go Nuts
 LawyerCanTargetImpostor:Can Target <color=#ff1919>Impostors</color>
 LawyerCanTargetNeutralKiller:Can Target <color=#7f8c8d>Neutral Killers</color>
 LawyerCanTargetCrewmate:Can Target <color=#8cffff>Crewmates</color>
 LawyerCanTargetJester:Can Target <color=#ec62a5>Jester</color>
 LawyerChangeRolesAfterTargetKilled:When Target Dies, <color=#008080>Lawyer</color> becomes
+LaywerShouldChangeRoleAfterTargetKilled:Should Lawyer Change Role when Target Dies
+LawyerTargetDeadInMeeting:Your target was killed while meeting.\nYour role may change depending on the settings.
 MercenaryKillerLimit:Czas do samobojstwa
 ArsonistDouseTime:Czas Trwania Oblania
 CanTerroristSuicideWin:Moze Wygrac Przez Samobojstwo
 FireworkerMaxCount:Liczba Fajerwerkow
 FireworkerRadius:Promien Eksplozji Fajerwerkow
+SniperCanKill:<color=#ff1919>Sniper</color> can kill with bullets remaining
 SniperBulletCount:Amunicja
 SniperPrecisionShooting:Precyzyjne Strzelanie
 SniperAimAssist:Asystent Celowania
 SniperAimAssistOneshot:Asystent Jednego Strzalu
 PyroDouseCooldown:Douse cooldown
 PyroBurnCooldown:Kill cooldown after killing a doused player
-UndertakerKillCooldown:Kill Cooldown
-UndertakerSSCooldown:Mark Cooldown
-UndertakerSSDuration:Shapeshift Duration
 UndertakerFreezeDuration:Freeze Duration
 NameDisplayAddons:Wyswietl dodatki obok nazwy roli
+YourAddon:Twoje Modyfikacje:
 NoLimitAddonsNumMax:Maksymalna liczba dodatkow na gracza
 LoverSpawnChances:Spawn Chance of <color=#ff9ace>Lovers</color>
 AdditionRolesSpawnRate:Szansa Na Spawn
@@ -1462,11 +1473,6 @@ BecomeTrapperBlockMoveTime:Freeze time
 ImpCanBeTrapper:<color=#ff1919>Impostors</color> can become <color=#5a8fd0>Beartrap</color>
 CrewCanBeTrapper:<color=#8cffff>Crewmates</color> can become <color=#5a8fd0>Beartrap</color>
 NeutralCanBeTrapper:<color=#7f8c8d>Neutrals</color> can become <color=#5a8fd0>Beartrap</color>
-ImpCanBeRogue:<color=#ff1919>Impostors</color> can become <color=#696969>Rogue</color>
-CrewCanBeRogue:<color=#8cffff>Crewmates</color> can become <color=#696969>Rogue</color>
-NeutralCanBeRogue:<color=#7f8c8d>Neutrals</color> can become <color=#696969>Rogue</color>
-RogueKnowEachOtherRoles:<color=#696969>Rogues</color> know the roles of each other
-RogueKnowEachOther:<color=#696969>Rogues</color> know each other
 ImpCanBeGravestone:<color=#ff1919>Impostors</color> can become <color=#2EA8E7>Gravestone</color>
 CrewCanBeGravestone:<color=#8cffff>Crewmates</color> can become <color=#2EA8E7>Gravestone</color>
 NeutralCanBeGravestone:<color=#7f8c8d>Neutrals</color> can become <color=#2EA8E7>Gravestone</color>
@@ -1474,14 +1480,20 @@ TimeThiefDecreaseMeetingTime:Lower Meeting Time by
 TimeThiefLowerLimitVotingTime:Minimum Voting Time
 TimeThiefReturnStolenTimeUponDeath:Zwroc Skradziony Czas Po Smierci
 EvilTrackerCanSeeKillFlash:Can See Kill-Flash
-EvilTrackerResetTargetAfterMeeting:Can Reset Target After Meeting
 EvilTrackerCanSeeLastRoomInMeeting:Can See Target's Last Room In Meeting
 EvilTrackerTargetMode:Can Set Target
 EvilTrackerTargetMode.Never:Nigdy
-EvilTrackerTargetMode.OnceInGame:Once in game
+EvilTrackerTargetMode.OnceInGame:Once in-game
 EvilTrackerTargetMode.EveryMeeting:Every Meeting
 EvilTrackerTargetMode.Always:Any time
-WitchModeSwitchAction:Switch Action via
+EvilHackerCanSeeDeadMark:Can See The Location of Dead-bodies
+EvilHackerCanSeeImpostorMark:Can See The Location of Other Impostors
+EvilHackerCanSeeKillFlash:Can See Kill-Flash
+EvilHackerCanSeeMurderRoom:Can See The Murder Location
+EvilHackerMurderNotify:Murder In
+EvilHackerLastAdminInfoTitle:Last-minute admin information
+EvilHackerDeadbody:DEAD
+TraitorKnowMadmate:Traitor Knows Madmates
 NBareRed:<color=#7f8c8d>Neutral Benign</color> can be red
 NEareRed:<color=#7f8c8d>Neutral Evil</color> can be red
 NCareRed:<color=#7f8c8d>Neutral Chaos</color> can be red
@@ -1489,20 +1501,17 @@ CrewKillingRed:<color=#8cffff>Crewmate</color> Killings can be red
 PsychicCanSeeNum:Max number of red names
 PsychicFresh:New red names every meeting
 DetectiveCanknowKiller:Can find the killer's role
-ParanoiaVentCooldown:Vent Cooldown
-ParanoiaNumOfUseButton:Max number of portable buttons
 EveryOneKnowSuperStar:Everyone knows the <color=#f6f657>Super Star</color>
 HackLimit:Ability Use Count
 ZombieSpeedReduce:After a certain time, decrease the speed of <color=#ff1919>Zombie</color> by
-MafiaCanKillNum:Max number of revenges
-ImpKnowCyberStarDead:<color=#ff1919>Impostors</color> know when the <color=#ee4a55>Celebrity</color> dies
-NeutralKnowCyberStarDead:<color=#7f8c8d>Neutrals</color> know when the <color=#ee4a55>Celebrity</color> dies
-JesterCanUseButton:Can call emergency meetings
-MarioVentNumWin:Number of Vents to win
+NemesisCanKillNum:Max number of revenges
+ImpKnowCelebrityDead:<color=#ff1919>Impostors</color> know when the <color=#ee4a55>Celebrity</color> dies
+NeutralKnowCelebrityDead:<color=#7f8c8d>Neutrals</color> know when the <color=#ee4a55>Celebrity</color> dies
+VectorVentNumWin:Number of Vents to win
 CanCheckCamera:Can track camera usage
-ArroganceDefaultKillCooldown:Starting kill cooldown
-ArroganceReduceKillCooldown:Zredukuj czas odnowienia zabojstw
-ArroganceMinKillCooldown:Minimalny czas odnowienia zabojstwa
+DefaultKillCooldown:Starting kill cooldown
+ReduceKillCooldown:Reduce kill cooldown by
+MinKillCooldown:Minimum kill cooldown
 BomberRadius:Promien bomby (5x wynosi okolo pol Cafeteri)
 NotifyGodAlive:Informuj graczy na spotkaniach, ze Bog wciaz zyje
 TransporterTeleportMax:Maksymalna liczba teleportow
@@ -1517,11 +1526,9 @@ WorkhorseNumLongTasks:Additional Long Tasks
 WorkhorseNumShortTasks:Additional Short Tasks
 SnitchCanBeWorkhorse:<color=#b8fb4f>Snitch</color> can become <color=#00ffff>Workhorse</color>
 InnocentCanWinByImp:If their target was an <color=#ff1919>Impostor</color> then they win with them
-CapitalismSkillCooldown:Ability Cooldown
-ImpCanBeDualPersonality:<color=#ff1919>Impostors</color> can become <color=#3a648f>Schizophrenic</color>
-CrewCanBeDualPersonality:<color=#8cffff>Crewmates</color> can become <color=#3a648f>Schizophrenic</color>
+ImpCanBeParanoia:<color=#ff1919>Impostors</color> can become <color=#3a648f>Paranoia</color>
+CrewCanBeParanoia:<color=#8cffff>Crewmates</color> can become <color=#3a648f>Paranoia</color>
 DualVotes:Duplikuj glosy
-HideDualVotes:Ukryj zduplikowane glosy
 VeteranSkillCooldown:Czas Odnowienia Alarmu
 VeteranSkillDuration:Czas Trwania Alertu
 BodyguardProtectRadius:Protect Radius
@@ -1552,11 +1559,11 @@ BaitDelayMax:Maksymalne opoznienie reportu
 BaitDelayNotify:<color=#ffff00>Warn the killer about the upcoming self-report</color>
 BecomeBaitDelayNotify:<color=#ffff00>Warn the killer about the upcoming self-report</color>
 BaitNotification:Reveal <color=#00f7ff>Bait</color> at the first meeting
-BaitAdviceAlive:<b>{0}</b> jest przyneta. Ktokolwiek zabije Przynete, sam sie zglosi.
-BaitCanBeReportedUnderAllConditions:Bait Can Be Reported even if meeting is disabled during comms sabotage
-CounterfeiterSkillCooldown:Ability cooldown
-CounterfeiterSkillLimitTimes:Max number of uses
-CounterfeiterAbilityLost:Deceiver looses ability if it deceives player without kill button
+BaitAdviceAlive:<b>{0}</b> is the Bait. Whoever kills the Bait will commit self-report.
+BaitCanBeReportedUnderAllConditions:Bait Can Be Reported even if a meeting is disabled during comms sabotage
+DeceiverSkillCooldown:Ability cooldown
+DeceiverSkillLimitTimes:Max number of uses
+DeceiverAbilityLost:Deceiver loses ability if it deceives player without kill button
 PursuerSkillCooldown:Ability cooldown
 PursuerSkillLimitTimes:Max number of uses
 AddictSuicideTimer:Time Until Suicide
@@ -1578,18 +1585,18 @@ Pelican.TargetCannotBeEaten:Target cannot be eaten
 MadSnitchTasks:Zadania <color=#b8fb4f>Kapusa</color>
 MedicWhoCanSeeProtect:Widzi tarcze
 MedicKnowShieldBroken:Widzi probe zabicia
-SeeMedicAndTarget:<color=#00ff97>Medic</color>+<color=#8cffff>Shielded</color>
-SeeMedic:<color=#00ff97>Medic</color>
-SeeTarget:<color=#8cffff>Shielded</color>
-SeeNoone:Nic
+Medic_SeeMedicAndTarget:<color=#00ff97>Medic</color>+<color=#8cffff>Shielded</color>
+Medic_SeeMedic:<color=#00ff97>Medic</color>
+Medic_SeeTarget:<color=#8cffff>Shielded</color>
+Medic_SeeNoOne:Nothing
 MedicShieldDeactivatesWhenMedicDies:Shield deactivates when the <color=#00ff97>Medic</color> dies
 MedicShielDeactivationIsVisible:Shield deactivation is visible
-DeactivationImmediately:Natychmiast
-DeactivationAfterMeeting:Po Spotkaniu
-DeactivationIsVisibleOFF:<color=#ff4c6f>OFF</color>
+MedicShieldDeactivationIsVisible_Immediately:Immediately
+MedicShieldDeactivationIsVisible_AfterMeeting:After Meeting
+MedicShieldDeactivationIsVisible_OFF:<color=#ff0000>OFF</color>
 MedicResetCooldown:On kill attempt, reset murderer's cooldown to
 MedicShieldedCanBeGuessed:Guessing ignores <color=#00ff97>Medic</color> shield
-DivinatorSkillLimit:Max number of ability uses
+FortuneTellerSkillLimit:Max number of ability uses
 MadmateSpawnMode:<color=#ff1919>Madmate</color> spawning mode
 MadmateSpawnMode.Assign:Assign
 MadmateSpawnMode.FirstKill:Pierwsze Zabojstwo
@@ -1598,36 +1605,24 @@ MadmateCountMode:<color=#ff1919>Madmates</color> count as
 MadmateCountMode.None:Nic
 MadmateCountMode.Imp:<color=#ff1919>Impostors</color>
 MadmateCountMode.Original:Original Team
-SidekickCountMode:<color=#00b4eb>Sidekicks</color> count as
-SidekickCountMode.None:Nic
-SidekickCountMode.Jackal:<color=#00b4eb>Jackal</color>
-SidekickCountMode.Original:Original Team
-SidekickAssignMode:<color=#00b4eb>Sidekick</color> Assign Mode
-SidekickAssignMode.SidekickAndRecruit:<color=#00b4eb>Sidekick</color>+<color=#00b4eb>Recruit</color>
-SidekickAssignMode.Sidekick:<color=#00b4eb>Sidekick</color> Only
-SidekickAssignMode.Recruit:<color=#00b4eb>Recruit</color> Only
-ContagiousCountMode:<color=#2E8B57>Contagious</color> players count as
-ContagiousCountMode.None:Nic
-ContagiousCountMode.Virus:<color=#2E8B57>Virus</color>
-ContagiousCountMode.Original:Original Team
 SnatchesWin:Snatches victory
-GamerKillCooldown:Attack Cooldown
-GamerHealthMax:Maksymalne zdrowie gracza
-GamerDamage:Obrazenia 
-GamerSelfHealthMax:Demon max health
-GamerSelfDamage:Demon damage received
-BallLightningConvertTime:Duration of the transformation to Quantum Ghost
-BallLightningKillCooldown:Lightning Cooldown
-BallLightningKillerConvertGhost:Killer can transform into Quantum Ghost
+DemonKillCooldown:Attack Cooldown
+DemonHealthMax:Player max health
+DemonDamage:Damage 
+DemonSelfHealthMax:Demon max health
+DemonSelfDamage:Demon damage received
+LightningConvertTime:Duration of the transformation to Quantum Ghost
+LightningKillCooldown:Lightning Cooldown
+LightningKillerConvertGhost:Killer can transform into Quantum Ghost
 CanCountNeutralKiller:When <color=#8cffff>Crewmates</color> win by killing a <color=#7f8c8d>Neutral</color> player, they can snatch the victory
-OddKillCooldown:Odd-Numbered kill cooldown
-EvenKillCooldown:Even-Numbered kill cooldown
+GreedyOddKillCooldown:Odd-Numbered kill cooldown
+GreedyEvenKillCooldown:Even-Numbered kill cooldown
 WorkaholicCannotWinAtDeath:Can't win after they died
 WorkaholicVisibleToEveryone:Everyone knows who the <color=#008b8b>Workaholic</color> is
-WorkaholicGiveAdviceAlive:Advice at first meeting if alive, can win after death, ghost tasks ON
+WorkaholicGiveAdviceAlive:Advice at the first meeting if alive, can win after death, ghost tasks ON
 DoctorVisibleToEveryone:Everyone knows who the <color=#80ffdd>Doctor</color> is
-GuardSpellTimes:Amount of Cursed Shields
-killAttacker:Kill attacker when ability is remaining
+CursedWolfGuardSpellTimes:Amount of Cursed Shields
+KillAttackerWhenAbilityRemaining:Kill attacker when ability is remaining
 JinxSpellTimes:Amount of Jinx Spells
 CollectorCollectAmount:Required number of votes
 GlitchCanVote:Moze glosowac
@@ -1637,15 +1632,28 @@ AccurateCheckMode:Can know specific role when tasks are not done
 RandomActiveRoles:Show random active roles in Fortune Teller hints
 CamouflageCooldown:Odnowienie kamuflazu
 CamouflageDuration:Czas trwania kamuflazu
-EraseLimit:Max Erases
-EraserHideVote:Hide Eraser Votes
-AssassinMarkCooldown:Mark Cooldown
-AssassinAssassinateCooldown:Ass​assinate Cooldown
-AssassinCanKillAfterAssassinate:Can kill after Assas​sinating
+NinjaMarkCooldown:Mark Cooldown
+NinjaAssassinateCooldown:Assassinate Cooldown
+NinjaModeDouble:Double Click = Kill, Single Click = Mark
+JudgeCanTrialnCrewKilling:Can trial <color=#8cffff>Crewmate</color> <color=#ff1919>Killing</color>
+JudgeCanTrialNeutralB:Can trial <color=#7f8c8d>Neutral</color> <color=#046300>Benign</color>
+JudgeCanTrialNeutralK:Can trial <color=#7f8c8d>Neutral</color> <color=#ff1919>Killing</color>
+JudgeCanTrialNeutralE:Can trial <color=#7f8c8d>Neutral</color> <color=#912900>Evil</color>
+JudgeCanTrialNeutralC:Can trial <color=#7f8c8d>Neutral</color> <color=#D4AF37>Chaos</color>
+JudgeCanTrialSidekick:Can trial <color=#00b4eb>Sidekick</color>
+JudgeCanTrialInfected:Can trial <color=#7B8968>Infected</color>
+JudgeCanTrialContagious:Can trial <color=#2E8B57>Contagious</color>
 JudgeTryHideMsg:Hide <color=#f8d85a>Judge</color>'s commands
-TrialLimitPerMeeting:Max Trials per Meeting
+JudgeTrialLimitPerMeeting:Max Trials per Meeting
 JudgeCanTrialMadmate:Can trial <color=#ff1919>Madmates</color>
 JudgeCanTrialCharmed:Can trial <color=#cf6acd>Charmed</color> players
+JudgeDead:Sorry, you can't trial players after death.
+JudgeTrialMax:\nNo more trials left!
+Judge_LaughToWhoTrialSelf:God, I didn't think the Judges would be so blind that they wouldn't even see that they had sentenced themselves.
+Judge_TrialKill:<b>{0}</b> was judged.
+Judge_TrialKillTitle:COURT
+Judge_TrialHelp:Command: /tl [player ID]\nYou can see the players' IDs before the players' names.\nOr use /id to view the list of all player IDs.
+Judge_TrialNull:Please choose a living player for the trial
 VeteranSkillMaxOfUseage:Max number of Alerts
 SwooperCooldown:Czas odnowienia niewidzialnosci
 SwooperDuration:Czas trwania niewidzialnosci
@@ -1660,43 +1668,58 @@ VentBombSuccess:Bomb has been planted
 LowLoadMode:Tryb niskiego obciazenia
 ShowLobbyCode:Show lobby code in Discord status
 BKProtectDuration:Protection Duration
-TotocalcioMaxBetTimes:Maximum Number of Follows
-TotocalcioBetCooldown:Follow Cooldown
-TotocalcioMaxBetCooldown:Maximum Follow Cooldown
-TotocalcioBetCooldownIncrese:Increase Cooldown per 1 follow by
-TotocalcioKnowTargetRole:Follower knows their target's role
-TotocalcioBetTargetKnowTotocalcio:Follower target knows who the Follower is
-DivinatorHideVote:Hide Fortune Teller's Votes
-SuccubusCharmCooldown:Charm Cooldown
-SuccubusCharmCooldownIncrese:Increases Charm Cooldown For Each Charm
-SuccubusCharmMax:Maximum Number Of Charm
-SuccubusKnowTargetRole:Know <color=#cf6acd>Charmed</color> Player's Role
-SuccubusTargetKnowOtherTarget:<color=#cf6acd>Charmed</color> players know each other
-SuccubusCanCharmNeutral:Neutral Roles can be <color=#cf6acd>Charmed</color>
+FollowerMaxBetTimes:Maximum Number of Follows
+FollowerBetCooldown:Follow Cooldown
+FollowerMaxBetCooldown:Maximum Follow Cooldown
+FollowerBetCooldownIncrese:Increase Cooldown per 1 follow by
+FollowerKnowTargetRole:Follower knows their target's role
+FollowerBetTargetKnowFollower:Follower target knows who the Follower is
+FortuneTellerHideVote:Hide Fortune Teller's Votes
+CultistCharmCooldown:Charm Cooldown
+CultistCharmCooldownIncrese:Increases Charm Cooldown For Each Charm
+CultistCharmMax:Maximum Number Of Charm
+CultistKnowTargetRole:Know <color=#cf6acd>Charmed</color> Player's Role
+CultistTargetKnowOtherTarget:<color=#cf6acd>Charmed</color> players know each other
+CultistCanCharmNeutral:Neutral Roles can be <color=#cf6acd>Charmed</color>
 InfectiousBiteCooldown:Odnowienie zarazania
 KnowTargetRole:Knows role of target
 TargetKnowsLawyer:Target knows their <color=#008080>Lawyer</color>
-InfectiousBiteCooldownIncrese:Infect Cooldown Increase Per Use
 InfectiousBiteMax:Maximum Infections
 InfectiousKnowTargetRole:Know <color=#7B8968>infected</color> player's role
 InfectiousTargetKnowOtherTarget:<color=#7B8968>Infected</color> players know each other
 DoubleClickKill:Double click to kill the target
-VirusKillCooldown:Kill Cooldown
-VirusCanVent:Moze wentowac
 VirusInfectMax:Maximum Number Of <color=#2E8B57>Spreads</color>
 VirusKnowTargetRole:Know <color=#2E8B57>Contagious</color> Player's Role
 VirusTargetKnowOtherTarget:<color=#2E8B57>Contagious</color> players know each other
 VirusKillInfectedPlayerAfterMeeting:<color=#2E8B57>Contagious</color> player dies after meeting
-CharmedCountMode:<color=#cf6acd>Charmed</color> players count as
-CharmedCountMode.None:Nic
-CharmedCountMode.Succubus:<color=#cf6acd>Cultist</color>
-CharmedCountMode.Original:Original Team
+Virus_ContagiousCountMode:<color=#2E8B57>Contagious</color> players count as
+Virus_ContagiousCountMode_None:Nothing
+Virus_ContagiousCountMode_Virus:<color=#2E8B57>Virus</color>
+Virus_ContagiousCountMode_Original:Original Team
+VirusNoticeTitle:[ Infected Corpse! ]
+VirusNoticeMessage:The body you reported was infected by the Virus! You are now part of Team Virus. Help the Virus win the game.
+VirusNoticeMessage2:The body you reported was infected by the Virus! Vote the Virus out during this meeting, or you will die.
+Cultist_CharmedCountMode:<color=#cf6acd>Charmed</color> players count as
+Cultist_CharmedCountMode_None:Nothing
+Cultist_CharmedCountMode_Cultist:<color=#cf6acd>Cultist</color>
+Cultist_CharmedCountMode_Original:Original Team
 JackalCanWinBySabotageWhenNoImpAlive:When all <color=#ff1919>Impostors</color> are dead, the <color=#00b4eb>Jackal</color> wins by sabotage instead
-ResetKillCooldownWhenPlayerGetKilled:Reset kill cooldown if someone gets killed by another player
-ResetKillCooldownOn:Kill Cooldown On Reset
+JackalResetKillCooldownWhenPlayerGetKilled:Reset kill cooldown if someone gets killed by another player
+JackalResetKillCooldownOn:Kill Cooldown On Reset
 JackalCanRecruitSidekick:Can recruit <color=#00b4eb>Sidekick</color>
 JackalSidekickRecruitLimit:Maximum Number Of Recruits
-SidekickCanWinWithOriginalTeam:<color=#00b4eb>Sidekicks</color> can win with original team
+Jackal_SidekickCountMode:<color=#00b4eb>Sidekicks</color> count as
+Jackal_SidekickCountMode_None:Nothing
+Jackal_SidekickCountMode_Jackal:<color=#00b4eb>Jackal</color>
+Jackal_SidekickCountMode_Original:Original Team
+Jackal_SidekickAssignMode:<color=#00b4eb>Sidekick</color> Assign Mode
+Jackal_SidekickAssignMode_SidekickAndRecruit:<color=#00b4eb>Sidekick</color>+<color=#00b4eb>Recruit</color>
+Jackal_SidekickAssignMode_Sidekick:<color=#00b4eb>Sidekick</color> Only
+Jackal_SidekickAssignMode_Recruit:<color=#00b4eb>Recruit</color> Only
+JackalWinWithSidekick:<color=#00b4eb>Jackal</color> can win with <color=#00b4eb>Sidekick</color>'s team
+Jackal_SidekickCanKillSidekick:<color=#00b4eb>Sidekicks</color> can kill other <color=#00b4eb>Sidekicks</color>
+Jackal_SidekickCanKillJackal:<color=#00b4eb>Sidekick</color> can kill <color=#00b4eb>Jackal</color>
+JackalCanKillSidekick:<color=#00b4eb>Jackal</color> can kill <color=#00b4eb>Sidekick</color>
 ImpCanBeNecroview:<color=#ff1919>Impostors</color> can become <color=#663399>Necroview</color>
 CrewCanBeNecroview:<color=#8cffff>Crewmates</color> can become <color=#663399>Necroview</color>
 NeutralCanBeNecroview:<color=#7f8c8d>Neutrals</color> can become <color=#663399>Necroview</color>
@@ -1724,15 +1747,11 @@ GuessedAsMundane:You're Mundane.\nYou can't guess until you finish all the tasks
 ImpCanBeUnreportable:<color=#ff1919>Impostorzy</color> moga zostac <color=#FF6347>Zignorowani</color>
 CrewCanBeUnreportable:<color=#8cffff>Niewinni</color> moga zostac <color=#FF6347>Zignorowani</color>
 NeutralCanBeUnreportable:<color=#7f8c8d>Neutrale</color> moga zostac <color=#FF6347>Zignorowani</color>
-MediumshiperContactLimit:Maksymalna liczba porozumien z duchami (uzyc zdolnosci)
-MediumshiperOnlyReceiveMsgFromCrew:Otrzymuj wiadomosci jedynie od <color=#8cffff>Niewinnych</color> (wlacznie ze <color=#ff1919>Zlymi</color> i <color=#cf6acd>Zakletymi</color> Graczami)
-DovesOfNeaceCooldown:Ability Cooldown
-DovesOfNeaceMaxOfUseage:Max Number of Ability Uses
-BloodhoundArrowsPointingToDeadBody:Strzalki prowadza do ciala
-BloodhoundLeaveDeadBodyUnreportable:Ciala, z ktorych korzysta <color=#8B0000>Koroner</color> nie moga zostac zgloszone
-BloodhoundInformKillerBeingTracked:Inform the Killer that he gets tracked
-TrackerHideVote:Ukryj glosy <color=#3CB371>Tropiciela</color> 
-TrackerCanGetArrowColor:Can See Colored Arrows
+PacifistCooldown:Ability Cooldown
+PacifistMaxOfUseage:Max Number of Ability Uses
+CoronerArrowsPointingToDeadBody:Arrows pointing to dead bodies
+CoronerLeaveDeadBodyUnreportable:Bodies the <color=#8B0000>Coroner</color> uses can't be reported
+CoronerInformKillerBeingTracked:Inform the Killer that he gets tracked
 PresidentAbilityUses:Max Number of Ability Uses
 PresidentCanBeGuessedAfterRevealing:<color=#00ffac>President</color> can be guessed after revealing
 HidePresidentEndCommand:Hide <color=#00ffac>President</color>'s commands
@@ -1742,8 +1761,8 @@ ImpsSeePresident:<color=#ff1919>Impostors</color> can see revealed <color=#00ffa
 PresidentDead:Sorry, you can't force end the meeting after death.
 PresidentEndMax:No more force end meeting uses left!
 PresidentRevealMax:You have already revealed yourself...
-PresidentRevealed:[{0}] has chose to reveal themselves as President!
-GuessPresident:President has revealed themselves, you can't guess them.
+PresidentRevealed:[{0}] has chosen to reveal themselves as President!
+GuessPresident:President has revealed themselves. You can't guess them.
 PresidentRevealTitle:PRESIDENT REVEAL
 LuckyProbability:Probability of surviving a kill
 ImpCanBeLucky:<color=#ff1919>Impostors</color> can become <color=#b8d7a3>Lucky</color>
