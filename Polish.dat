@@ -189,7 +189,7 @@ Deputy:Zastepca
 Investigator:Sledczy
 Guardian:Opiekun
 Addict:Uzalezniony
-Mole:Mol
+Mole:Kret
 Alchemist:Alchemik
 Tracefinder:Poszukiwacz sladow
 Oracle:Wyrocznia
@@ -2912,7 +2912,7 @@ DazzlerDazzleLimit:Max number of players affected by reduced vision
 DazzlerResetDazzledVisionOnDeath:Reset vision of dazzled players on death/eject
 DazzleCooldown:Dazzle Cooldown
 DazzleButtonText:Dazzle
-MoleVentButtonText:Dig
+MoleVentButtonText:Kop
 MoleVentCooldown:Dig cooldown
 AddictVentButtonText:Nacpaj sie
 AddictInvulnerbilityTimeAfterVent:Czas <color=#008000>Ochrony</color> 
@@ -3478,7 +3478,7 @@ QuizmasterAnswers.Vampire:Vampire
 QuizmasterAnswers.Snitch:Snitch
 QuizmasterAnswers.Vigilante:Vigilante
 QuizmasterAnswers.Jackal:Jackal
-QuizmasterAnswers.Mole:Mole
+QuizmasterAnswers.Mole:Kret
 QuizmasterAnswers.Sniper:Sniper
 QuizmasterAnswers.Coven:Coven
 QuizmasterAnswers.Sabotuer:Saboteur
