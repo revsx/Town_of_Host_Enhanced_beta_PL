@@ -1008,7 +1008,7 @@ KnightedInfoLong:(Add-ons):\nWhen a Monarch knights someone, they get an extra v
 UnreportableInfoLong:(Add-ons):\nWith the Disregarded Add-on, your corpse will be unreportable.
 ContagiousInfoLong:(Betrayal Add-ons):\nWhen the Virus infects you, you become contagious.\nContagious players are on the Virus team.\n\nWhether or not you die after a meeting depends on the settings for the Virus.
 LuckyInfoLong:(Add-ons):\nWith the Lucky Add-on, there is a probability for you to evade the kill; the Host sets the specific probability. The killer will see a Shield Animation when the evasion takes effect, but you will not know anything.
-DoubleShotInfoLong:(Add-ons):\nWhen a player with Double Shot guesses a role incorrectly, they will get a second chance to guess, but the next wrong guess will result in suicide.
+DoubleShotInfoLong:(Add-ons):\nGdy gracz z Double Shot zgadnie role niepoprawnie, otrzyma druga szanse na zgadniecie,\nale nastepna bledna proba zakonczy sie samobojstwem.
 RascalInfoLong:(Add-ons):\nAs the Rascal, you can die to the Sheriff, and Snitch can find you if Snitch can find Madmates.\n\nOnly assigned to Crewmates, cannot be assigned by the Merchant.
 SoullessInfoLong:(Add-ons):\nWhen a Cursed Soul steals your soul, you get this Add-on.\n\nYou are not counted as alive.
 GravestoneInfoLong:(Add-ons):\nAs the Gravestone, your role is revealed to everyone when you die.
@@ -1031,10 +1031,10 @@ SpurtInfoLong:(Add-ons):\nWhen you start walking, you gain an enormous speed boo
 VoidBallotInfoLong:(Add-ons):\nHolder of this Add-on will have 0 vote count.
 AwareInfoLong:(Add-ons):\nJako Aware otrzymujesz powiadomienie na nastepnym spotkaniu, jesli rola ujawniajaca wchodzila z toba w interakcje.
 FragileInfoLong:(Add-ons):\nAs Fragile, you will instantly die if someone tries to use the Kill button on you (even if the role cannot directly kill).
-GhoulInfoLong:(Add-ons):\nAs the Ghoul, one of two outcomes can occur on task completion.\n\nIf alive: Suicide\nIf dead: You kill your killer if they're alive.\n\nThis is only assigned to Crewmates, and not Crewmates with no tasks or are task-based.
+GhoulInfoLong:(Add-ons):\nJako Ghoul moga wystapic dwa rezultaty po ukonczeniu zadania.\n\nJesli zyjesz: popelniasz samobojstwo\nJesli nie zyjesz: zabijasz swojego morderce, jesli nadal zyje\n\nTa rola jest przypisywana tylko Czlonkom Zalogi, ktorzy maja zadania, a nie tym bez zadan lub opartych na zadaniach.
 BloodthirstInfoLong:(Add-ons):\nAs the Bloodthirst, doing tasks allows you to become bloodthirsty and kill players.\nWhen you finish a task, the next player you come in contact with dies.\n\nYour Bloodthirst remains after a meeting.\nUpon making a kill, your Bloodthirst clears till the next task you complete.\nBloodthirsts do not stack.\n\nOnly assigned to Crewmates with tasks.
 MareInfoLong:(Add-ons):\nAs the Mare, you have a low Kill Cooldown and have higher speed but can only kill during lights.\n\nAdditionally, your name will appear in red during lights.\n\nOnly assigned to Impostors and cannot be guessed.
-BurstInfoLong:(Add-ons):\nAs the Burst, your killer explodes if they aren't inside a Vent after a set amount of time.
+BurstInfoLong:(Add-ons):\nJako Burst twoj morderca eksploduje, jesli nie znajduje sie w Vencie po uplywie okreslonego czasu.
 SleuthInfoLong:(Add-ons):\nAs the Sleuth, you gain info from dead bodies.\n\nOptionally, you may also gain the killer's role.\n\nNot assigned to Detective or Mortician.
 ClumsyInfoLong:(Add-ons):\nAs the Clumsy, you have a chance to miss your kill.\n\nWhen you miss, your Cooldown is reset, and the target remains untouched.\n\nOnly assigned to killers.
 CircumventInfoLong:(Add-ons):\nAs the Circumvent, you can't Vent.\n\nOnly assigned to Impostors.
