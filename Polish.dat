@@ -1638,57 +1638,57 @@ ArsonistDouseTime:Douse Duration
 CanTerroristSuicideWin:Can Win By Suicide
 FireworkerMaxCount:Fireworker Count
 FireworkerRadius:Firework Explosion Radius
-SniperCanKill:<color=#ff1919>Sniper</color> can kill with bullets remaining
-SniperBulletCount:Ammo
-SniperPrecisionShooting:Precise Shooting
-SniperAimAssist:Aim Assist
-SniperAimAssistOneshot:One shot Assist
-PyroDouseCooldown:Douse Cooldown
-PyroBurnCooldown:Kill Cooldown after killing a doused player
-Prohibited_OverrideBlockedVentsAfterMeeting:Override Blocked Vents After Meeting
-Prohibited_CountBlockedVentsInSkeld:Count Blocked Vents In <color=#66a186>The Skeld</color>
-Prohibited_CountBlockedVentsInMira:Count Blocked Vents In <color=#e84b56>MIRA HQ</color>
-Prohibited_CountBlockedVentsInPolus:Count Blocked Vents In <color=#a167c0>Polus</color>
-Prohibited_CountBlockedVentsInDleks:Count Blocked Vents In <color=#66a186>Dleks</color>
-Prohibited_CountBlockedVentsInAirship:Count Blocked Vents In <color=#ed0007>Airship</color>
-Prohibited_CountBlockedVentsInFungle:Count Blocked Vents In <color=#ffa646>The Fungle</color>
-UndertakerFreezeDuration:Freeze Duration
-NameDisplayAddons:Display Add-Ons next to the role name
-BracketAddons:Add Brackets To Add-ons
+SniperCanKill:<color=#ff1919>Sniper</color> moze zabijac wciaz posiadajac pociski 
+SniperBulletCount:Amunicja
+SniperPrecisionShooting:Precyzyjne strzelanie
+SniperAimAssist:Wspomaganie celowania
+SniperAimAssistOneshot:Wspomaganie jednego strzalu
+PyroDouseCooldown:Cooldown Oblania
+PyroBurnCooldown:Kill Cooldown po zabiciu oblanego gracza
+Prohibited_OverrideBlockedVentsAfterMeeting:Reset zablokowanych ventow po spotkaniu
+Prohibited_CountBlockedVentsInSkeld:Liczba zablokowanych ventow w <color=#66a186>The Skeld</color>
+Prohibited_CountBlockedVentsInMira:Liczba zablokowanych ventow w <color=#e84b56>MIRA HQ</color>
+Prohibited_CountBlockedVentsInPolus:Liczba zablokowanych ventow w <color=#a167c0>Polus</color>
+Prohibited_CountBlockedVentsInDleks:Liczba zablokowanych ventow w <color=#66a186>Dleks</color>
+Prohibited_CountBlockedVentsInAirship:Liczba zablokowanych ventow w <color=#ed0007>Airship</color>
+Prohibited_CountBlockedVentsInFungle:Liczba zablokowanych ventow w <color=#ffa646>The Fungle</color>
+UndertakerFreezeDuration:Czas trwania zamrozenia
+NameDisplayAddons:Wyswietl dodatki obok nazwy roli
+BracketAddons:Dodaj nawiasy do dodatkow
 ShowShortNamesForAddOns:
 ShortAddOnNamesMode_Disable:
 ShortAddOnNamesMode_Always:
 ShortAddOnNamesMode_OnlyInMeeting:
 ShortAddOnNamesMode_OnlyInGame:
 YourAddon:Your Add-ons:
-NoLimitAddonsNumMax:Maximum Add-ons Per Player
-RemoveIncompatibleAddOnsMidGame:Remove Incompatible Addons for role assigned mid game
-LoverSpawnChances:Spawn Chance of <color=#ff9ace>Lovers</color>
-AdditionRolesSpawnRate:Spawn Chance
-TorchVision:<color=#eee5be>Torch</color> Vision
-TorchAffectedByLights:<color=#eee5be>Torch</color>'s vision is affected by Lights Sabotage
-BewilderVision:<color=#c894f5>Bewilder</color> Vision
-JesterVision:<color=#ec62a5>Jester</color> Vision
-LawyerVision:<color=#008080>Lawyer</color> Vision
-FlashSpeed:<color=#ff8400>Flash</color> Speed
-SlothSpeed:<color=#376db8>Sloth</color> Speed
-LoverSuicide:<color=#ff9ace>Lovers</color> die together
-NumberOfLovers:Number of <color=#ff9ace>Lover Pairs</color> (x2 members)
-LoverKnowRoles:<color=#ff9ace>Lovers</color> know the roles of each other
-TrapperBlockMoveTime:Freeze time
-BecomeTrapperBlockMoveTime:Freeze time
-TimeThiefDecreaseMeetingTime:Lower Meeting Time by
-TimeThiefLowerLimitVotingTime:Minimum Voting Time
-TimeThiefReturnStolenTimeUponDeath:Return Stolen Time Upon Death
-TimeThiefMaxTimeOnAdmired:Maximum Meeting Time if Time Thief Is <color=#ee43c3>Admired</color>
-EvilTrackerCanSeeKillFlash:Can See Kill-Flash
-EvilTrackerCanSeeLastRoomInMeeting:Can See Target's Last Room In Meeting
-EvilTrackerTargetMode:Can Set Target
-EvilTrackerTargetMode.Never:Never
-EvilTrackerTargetMode.OnceInGame:Once in-game
-EvilTrackerTargetMode.EveryMeeting:Every Meeting
-EvilTrackerTargetMode.Always:Any time
-ScavengerHasCustomDeathReason:Enable Custom Death Reason
+NoLimitAddonsNumMax:Maksimum dodatkow na gracza
+RemoveIncompatibleAddOnsMidGame:Usuwanie niekompatybilnych dodatkow dla rol przypisanych w trakcie gry
+LoverSpawnChances:Szansa na Spawn <color=#ff9ace>Lovers</color>
+AdditionRolesSpawnRate:Szansa na Spawn
+TorchVision:<color=#eee5be>Torch</color> Wizja
+TorchAffectedByLights:Wizja <color=#eee5be>Torch</color>'a jest zaklocana przez Sabotaz Swiatel
+BewilderVision:<color=#c894f5>Bewilder</color> Wizja
+JesterVision:<color=#ec62a5>Jester</color> Wizja
+LawyerVision:<color=#008080>Lawyer</color> Wizja
+FlashSpeed:<color=#ff8400>Flash</color> Predkosc
+SlothSpeed:<color=#376db8>Sloth</color> Predkosc
+LoverSuicide:<color=#ff9ace>Lovers</color> umieraja razem
+NumberOfLovers:Liczba <color=#ff9ace>par Lovers</color> (x2 graczy)
+LoverKnowRoles:<color=#ff9ace>Lovers</color> znaja wzajemne role
+TrapperBlockMoveTime:Czas zamrozenia
+BecomeTrapperBlockMoveTime:Czas zamrozenia
+TimeThiefDecreaseMeetingTime:Skrocenie czasu spotkania o
+TimeThiefLowerLimitVotingTime:Minimalny czas glosowania
+TimeThiefReturnStolenTimeUponDeath:Zwroc skradziony czas po smierci
+TimeThiefMaxTimeOnAdmired:Maksymalny czas spotkania, jesli zlodziejem czasu jest <color=#ee43c3>Admired</color>
+EvilTrackerCanSeeKillFlash:Moze widziec Kill-Flash
+EvilTrackerCanSeeLastRoomInMeeting:Moze zobaczyc ostatni pokoj Celu na spotkaniu
+EvilTrackerTargetMode:Moze ustawic Cel
+EvilTrackerTargetMode.Never:Nigdy
+EvilTrackerTargetMode.OnceInGame:Raz w trakcie gry
+EvilTrackerTargetMode.EveryMeeting:Co spotkanie
+EvilTrackerTargetMode.Always:W kazdej chwili
+ScavengerHasCustomDeathReason:Wlacz wlasny powod smierci
 EvilHackerCanSeeDeadMark:Can See The Location of Dead-bodies
 EvilHackerCanSeeImpostorMark:Can See The Location of Other Impostors
 EvilHackerCanSeeKillFlash:Can See Kill-Flash
