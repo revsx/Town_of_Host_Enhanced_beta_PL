@@ -13,15 +13,15 @@ Website:Website
 PlayerNameForRoleInfo:Hi {0}, Twoja rola to:- \n
 HostIconInMeeting:HOST: {0}
 ModdedClient:Modded Client
-SubText.GM:Spectate the chaos!
-SubText.Crewmate:Find and exile the <color=#ff1919>Impostors</color>
-SubText.Impostor:Sabotage and kill everyone
-SubText.Neutral:Work alone to achieve your victory
-SubText.Apocalypse:Become unstoppable with your team
-SubText.Coven:Bewitch and kill everyone
-SubText.Madmate:Help the <color=#ff1919>Impostors</color>
-SubText.Lovers:Stay alive and win together
-SubText.Egoist:Win on your own
+SubText.GM:Obserwuj chaos!
+SubText.Crewmate:Znajdź i wyrzuć <color=#ff1919>Impostorow</color>
+SubText.Impostor:Sabotuj i zabijaj wszystkich
+SubText.Neutral:Pracuj sam, aby osiagnac swoje zwyciestwo
+SubText.Apocalypse:Stan sie niepowstrzymany ze swoim zespolem
+SubText.Coven:Oczaruj i zabij wszystkich
+SubText.Madmate:Pomoz <color=#ff1919>Impostorom</color>
+SubText.Lovers:Pozostan przy zyciu i wygraj wspolnie
+SubText.Egoist:Wygraj na wlasna reke
 TypeImpostor:Impostors
 TypeCrewmate:Crewmates
 TypeNeutral:Neutrals
@@ -36,11 +36,11 @@ TeamMadmate:Madmate
 TeamLovers:Lovers
 TeamEgoist:Egoist
 TeamApocalypse:Apocalypse
-YouAreCrewmate:You are a Crewmate
-YouAreImpostor:You are an Impostor
-YouAreNeutral:You are a Neutral
-YouAreCoven:You are a Coven member
-YouAreMadmate:You are a Madmate
+YouAreCrewmate:Jestes Crewmate
+YouAreImpostor:Jestes Impostorem
+YouAreNeutral:Jestes Neutralem
+YouAreCoven:Jestes w druzynie Coven
+YouAreMadmate:Jestes Madmate
 Role_Crewmate:<color=#8cffff>Crewmate</color>
 Role_Jester:<color=#ec62a5>Jester</color>
 Role_Opportunist:<color=#4dff4d>Opportunist</color>
@@ -64,22 +64,22 @@ Role_Medic:<color=#00ff97>Medic</color>
 Role_AdmiredImpostor:<color=#ee43c3>Admired Impostor</color>
 Role_Trickster:<color=#ff1919>Trickster</color>
 Role_Traitor:<color=#BA2E05>Traitor</color>
-Role_NoChange:Don't change the role
-Role_Random:Random role from list
-CrewmatesCanGuess:<color=#8cffff>Crewmates</color> can guess
-ImpostorsCanGuess:<color=#ff1919>Impostors</color> can guess
-NeutralKillersCanGuess:<color=#7f8c8d>Neutral Killers</color> can guess
-NeutralApocalypseCanGuess:<color=#7f8c8d>Neutral</color> <color=#ff174f>Apocalypse</color> can guess
-CovenCanGuess:<color=#ac42f2>Coven</color> can guess
-PassiveNeutralsCanGuess:Passive <color=#7f8c8d>Neutrals</color> can guess
+Role_NoChange:Nie zmieniaj roli
+Role_Random:Losowa rola z listy
+CrewmatesCanGuess:<color=#8cffff>Crewmates</color> moze zgadywac
+ImpostorsCanGuess:<color=#ff1919>Impostors</color> moze zgadywac
+NeutralKillersCanGuess:<color=#7f8c8d>Neutral Killers</color> moze zgadywac
+NeutralApocalypseCanGuess:<color=#7f8c8d>Neutral</color> <color=#ff174f>Apocalypse</color> moze zgadywac
+CovenCanGuess:<color=#ac42f2>Coven</color> moze zgadywac
+PassiveNeutralsCanGuess:Passive <color=#7f8c8d>Neutrals</color> moze zgadywac
 CanGuessAddons:Can Guess Add-ons
-ShowOnlyEnabledRolesInGuesserUI:Show Only Enabled Roles in Guesser UI
+ShowOnlyEnabledRolesInGuesserUI:Pokaz tylko wlaczone role w Guesser UI
 CanOnlyGuessEnabled:
-CrewCanGuessCrew:<color=#8cffff>Crewmates</color> can Guess <color=#8cffff>Crewmate</color> Roles
-ImpCanGuessImp:<color=#ff1919>Impostors</color> can Guess <color=#ff1919>Impostor</color> Roles
-ApocCanGuessApoc:<color=#7f8c8d>Neutral</color> <color=#ff174f>Apocalypse</color> can Guess <color=#7f8c8d>Neutral</color> <color=#ff174f>Apocalypse</color> Roles
-CovenCanGuessCoven:<color=#ac42f2>Coven</color> Can Guess <color=#ac42f2>Coven</color> Roles
-GuessImmune:Sorry, but target is immune to being guessed!
+CrewCanGuessCrew:<color=#8cffff>Crewmates</color> moze zgadnac <color=#8cffff>Crewmate</color> Roles
+ImpCanGuessImp:<color=#ff1919>Impostors</color> moze zgadnac <color=#ff1919>Impostor</color> Roles
+ApocCanGuessApoc:<color=#7f8c8d>Neutral</color> <color=#ff174f>Apocalypse</color> moze zgadnac <color=#7f8c8d>Neutral</color> <color=#ff174f>Apocalypse</color> Role
+CovenCanGuessCoven:<color=#ac42f2>Coven</color> moze zgadnac <color=#ac42f2>Coven</color> Role
+GuessImmune:Przykro mi, ale cel jest odporny na zgadywanie!
 GM:Game Master
 Sunnyboy:Sunnyboy
 Bard:Bard
@@ -414,23 +414,23 @@ Prohibited:Prohibited
 Eavesdropper:Eavesdropper
 Shocker:Shocker
 Revenant:Revenant
-EngineerTOHEInfo:Use the vents to catch the <color=#ff1919>Impostors</color>
-ScientistTOHEInfo:Access portable Vitals from anywhere
-NoisemakerTOHEInfo:Send out an alert when killed
-TrackerTOHEInfo:Track players with your map
-ShapeshifterTOHEInfo:Disguise as <color=#8cffff>Crewmates</color> to frame them
-PhantomTOHEInfo:Turn invisible
-GuardianAngelTOHEInfo:Protect the <color=#8cffff>Crewmates</color> from the <color=#ff1919>Impostors</color>
-ImpostorTOHEInfo:Kill and Sabotage
-CrewmateTOHEInfo:Search for the <color=#ff1919>Impostors</color>
-BountyHunterInfo:Eliminate your target
-FireworkerInfo:Go out with a BANG
-MercenaryInfo:Keep killing, else you suicide
-ShapeMasterInfo:Swiftly kill with no Shapeshift Cooldown
-VampireInfo:Your kills are delayed
-WarlockInfo:Curse <color=#8cffff>Crewmates</color> then Shift to make them kill
-NinjaInfo:Mark a target, then Shift to kill
-ZombieInfo:You are very slow
+EngineerTOHEInfo:Uzywaj Ventow, aby zlapac <color=#ff1919>Impostorow</color>
+ScientistTOHEInfo: Masz dostep do Vitalsow z dowolnego miejsca
+NoisemakerTOHEInfo:Wyslij powiadomienie, gdy zostaniesz zabity
+TrackerTOHEInfo:Sledz graczy za pomoca swojej mapy
+ShapeshifterTOHEInfo:Przebierz sie za <color=#8cffff>Crewmate'ow</color> aby ich wrobic
+PhantomTOHEInfo:Stan sie niewidzialny
+GuardianAngelTOHEInfo:Chron <color=#8cffff>Crewmate'ow</color> przed <color=#ff1919>Impostorami</color>
+ImpostorTOHEInfo:Zabij i sabotuj
+CrewmateTOHEInfo:Szukaj <color=#ff1919>Impostorow</color>
+BountyHunterInfo:Wyeliminuj swoj cel
+FireworkerInfo:Zakoncz z wielkim HUKIEM
+MercenaryInfo:Wciaz zabijaj, lub popelnisz samobojstwo
+ShapeMasterInfo:Zabijaj szybko i bez Shapeshift Cooldown
+VampireInfo:Twoje zabojstwa sa opoznione
+WarlockInfo:Przeklnij <color=#8cffff>Crewmate'ow</color>, a nastepnie Shift, aby zmusic ich do zabicia
+NinjaInfo:Oznacz cel, a nastepnie Shift, aby go zabic
+ZombieInfo:Jestes bardzo powolny
 AnonymousInfo:Force a player to report a body
 MinerInfo:Warp to your last used Vent by Shifting
 KillingMachineInfo:You can ONLY kill, but low Cooldown
