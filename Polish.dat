@@ -14,7 +14,7 @@ PlayerNameForRoleInfo:Hi {0}, Twoja rola to:- \n
 HostIconInMeeting:HOST: {0}
 ModdedClient:Modded Client
 SubText.GM:Obserwuj chaos!
-SubText.Crewmate:Znajdź i wyrzuć <color=#ff1919>Impostorow</color>
+SubText.Crewmate:Znajdz i wyrzuc <color=#ff1919>Impostorow</color>
 SubText.Impostor:Sabotuj i zabijaj wszystkich
 SubText.Neutral:Pracuj sam, aby osiagnac swoje zwyciestwo
 SubText.Apocalypse:Stan sie niepowstrzymany ze swoim zespolem
