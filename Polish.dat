@@ -434,7 +434,7 @@ ZombieInfo:Jestes bardzo powolny
 AnonymousInfo:Zmus gracza do zgloszenia ciala
 MinerInfo:Przenies sie do ostatnio uzywanego Wenta poprzez Shift
 KillingMachineInfo:Mozesz TYLKO zabijac, ale masz niski Cooldown
-EscapistInfo:Shift, aby zaznaczyc miejsca i powrocic do niego
+EscapistInfo:Shiftuj, aby zaznaczyc miejsca i powrocic do niego
 WitchInfo:Zaklnij Crewmate'ow, aby zabic ich na meetingach
 NemesisInfo:Zabij, gdy bedziesz ostatnim Impostorem
 BeforeNemesisInfo:Nie mozesz jeszcze zabijac
@@ -453,7 +453,7 @@ AntiAdminerInfo:Wiedz, kiedy gracze znajduja sie w poblizu urzadzen
 ArroganceInfo:Z każdym twoim zabojstwem Cooldown zmniejsza sie
 BomberInfo:Shapeshiftoj, aby eksplodowac
 TrapsterInfo:Uwiez swoje ofiary
-ScavengerInfo:Twoje zabojstwa sa nie do zgloszenia
+ScavengerInfo:Twoje zabojstwa sa nie do zgloszenia, nie zostawiasz cial jak pelikan
 EvilGuesserInfo:Odgadnij role <color=#8cffff>Crewmate'ow</color> podczas meetingu by ich zabic
 GangsterInfo:Konwertuj graczy na swoja strone
 CleanerInfo:Zglaszaj ciala, aby nie mozna bylo ich zglosic
@@ -489,7 +489,7 @@ RefugeeInfo:Help the Impostors kill off the Crew
 UnderdogInfo:Start killing on a low player count
 LudopathInfo:Your kill Cooldown is random
 GodfatherInfo:Convert players to Refugees by voting
-ChronomancerInfo:Kill in bursts
+ChronomancerInfo:Zabijaj seryjnie
 PitfallInfo:Setup traps around the map
 EvilMiniInfo:No one can hurt you until you grow up
 BlackmailerInfo:Ucisz innych graczy
@@ -730,7 +730,7 @@ NotAssignedInfo:No assigned role
 SunnyboyInfo:Swiec, swiec moje sloneczko!
 BardInfo:Poematu czar, morderczy szal, szalenczy taniec i smiertelny dar
 RainbowInfo:Colorful melodies! You don't even know your own color.
-DollMasterInfo:Take control of players actions!
+DollMasterInfo:Przejmij kontrolę nad dzialaniami graczy!
 DoubleAgentInfo:Plant bombs on players in meetings
 SlothInfo:Jestes wolniejszy
 ProhibitedInfo:Certain Vents are blocked
@@ -748,7 +748,7 @@ ImpostorTOHEInfoLong:(Impostors):\nAs the Impostor, your goal is to simply kill 
 CrewmateTOHEInfoLong:(Crewmates):\nAs the Crewmate, your goal is to find and exile the Impostors.\nCrewmates win by getting rid of all killers or by finishing all their tasks.
 BountyHunterInfoLong:(Impostors):\nAs the Bounty Hunter, if you kill your assigned target (indicated by the arrow if you have one), your next Kill Cooldown will be shortened.\nIf you kill anyone other than your target, your next Kill Cooldown will be increased. The target swaps after a certain amount of time.
 FireworkerInfoLong:(Impostors):\nAs the Fireworker, you can Shapeshift to place Fireworks up to the maximum amount the Host sets.\nWhen you are the last Impostor and all Fireworks have been placed, Shapeshift again to detonate them and kill everyone in their radius, including you.\nIf you kill all players with your Fireworks, it's considered an Impostor victory.
-MercenaryInfoLong:(Impostors):\nAs the Mercenary, you must kill within your deadline, as shown by your Shapeshift Cooldown (which you cannot use). If you fail to kill, you die.
+MercenaryInfoLong:(Impostors):\nJako Mercenary musisz zabic w wyznaczonym czasie, jak pokazuje twoj Cooldown Shapeshift (ktorego nie mozesz uzywac). Jesli nie uda ci sie zabic, umierasz.
 ShapeMasterInfoLong:(Impostors):\nAs the Shapemaster, you have no Shapeshift Cooldown.
 VampireInfoLong:(Impostors):\nJako Wampir twoje zabojstwa sa opoznione.\nOznacza to, ze cel i tak umrze, nawet jesli najpierw zostanie wywolane spotkanie.\nJednak jesli ugryziesz Baita, zabijasz normalnie i zglaszasz cialo.\nW zaleznosci od ustawien mozesz uzyc podwojnego trybu (gryzienie – pojedyncze klikniecie, normalne zabojstwo – podwojne klikniecie).
 WarlockInfoLong:(Impostors):\nJako Czarnoksieznik (Warlock) mozesz rzucic Klątwe na maksymalnie jednego gracza naraz.\nGdy uzyjesz Shapeshift, jezeli masz przekletego gracza, zabije on najblizsza osobe – w zaleznosci od ustawien moze to byc takze ty lub inni Impostorzy.\nMozesz zabijac normalnie bedac w formie Shapeshift.
@@ -757,8 +757,8 @@ NinjaInfoLong:(Impostors):\nAs the Ninja, you can use your Kill button to mark a
 AnonymousInfoLong:(Impostors):\nAs the Anonymous, you can Shapeshift to force your target to report whoever you killed this round.\nIf you killed nobody that round, the target will report their own dead body as if they had died.\nNote: This does not work on Lazy nor Lazy Guy, and this ability will work regardless of whether the body can normally be reported.
 MinerInfoLong:(Impostors):\nAs the Miner, you can use ShapeShift button to teleport back to the last vent you were in.
 KillingMachineInfoLong:(Impostors):\nAs the Killing Machine, you have a very short Kill Cooldown with tiny vision. However, you cannot Vent, Sabotage, Report, nor call Emergency Meetings.\n\nNote: You will bypass any shields, killing bait and beartrap won't take any effect
-EscapistInfoLong:(Impostors):\nAs the Escapist, you can mark a location with ShapeShift button. Shapeshift again to teleport back to the marked spot.\nMarked location resets upon every teleport.
-WitchInfoLong:(Impostors):\nAs the Witch, you can use your Kill button to Spell (single click) or Kill normally (double click).\nDuring the next meeting, the spelled target(s) will have a 「†」 next to their name visible to everyone. Unless you die by the end of that meeting, all Spelled targets will die.
+EscapistInfoLong:(Impostors):\nJako Escapist mozesz oznaczyc lokalizacje przyciskiem ShapeShift. Uzyj ShapeShift ponownie, aby teleportowac sie z powrotem do oznaczonego miejsca.\nOznaczona lokalizacja resetuje sie po kazdym teleportowaniu.
+WitchInfoLong:(Impostors):\nJako Witch mozesz uzyc przycisku Kill, aby rzucic czar (pojedyncze klikniecie) lub zabic normalnie (podwojne klikniecie).\nPodczas nastepnego spotkania, cel rzuconego czaru bedzie mial「†」 obok swojego imienia, widoczne dla wszystkich.\nJesli nie zginiesz do konca tego spotkania, wszystkie oznaczone cele czaru zgina.
 NemesisInfoLong:(Impostors):\nAs the Nemesis, you can only kill if you are the last Impostor.\nIf you are dead, you can use the command /rv [ID] to kill the player whose ID you typed. Use /id to show the ID's of all players, or look next to their names.
 BloodmoonInfoLong:(Impostors [Ghost]):\nAs the Bloodmoon, attack the enemies to make them drip blood, this means they will die in a time set by the Host, and will be aware of it.
 PossessorInfoLong:(Impostors [Ghost]):\nAs the Possessor, you can possess players when others aren't in the Alert Range. Lead the possessed player as far as possible from other players in the Focus Range. Once the possession duration is up, the possessed player will be killed if others aren't in the Focus Range. If you run into another player in the Alert Range while possessing, the Possessor will immediately unpossess.
@@ -775,20 +775,20 @@ EvilGuesserInfoLong:(Impostors):\nEvil Guesser moze zgadnac role wybranego gracz
 AntiAdminerInfoLong:(Impostors):\nThe Anti Adminer can at any time find out if there are Crewmates or Neutrals near Cameras, Admin Table, Vitals, DoorLog, and/or other devices. Note: Anti Adminer does not know if the player uses the device while near it. They only know that someone is near the device.
 ArroganceInfoLong:(Impostors):\nThe Arrogance reduces their Kill Cooldown with each successful kill of theirs.
 BomberInfoLong:(Impostors):\nBomber moze uzyc przycisku Shapeshift, aby samemu sie wysadzic, zabijajac graczy w okreslonym zasiegu.\nJednak jako cene Bomber rowniez zginie.\nUwaga: Wszyscy gracze zobacza alert, blysk smierci, gdy Bomber wybuchnie.
-ScavengerInfoLong:(Impostors):\\nZabojstwa Scavengera nie zostawiaja cial.\nDodatkowo, jesli ofiara to Bait, nie zrobi selfa.
+ScavengerInfoLong:(Impostors):\nZabojstwa Scavengera nie zostawiaja cial.\nDodatkowo, jesli ofiara to Bait, nie zrobi selfa.
 TrapsterInfoLong:(Impostors):\nTrapster ma unikalna metode zabijania.\nPoprzez zainicjowanie zgloszenia ciala, Trapster moze wyeliminowac gracza, ktory sprobuje zglosic cialo zabite przez Trapstera.\nUwaga: Jesli Trapster zabije Baita, natychmiast zginie.
 GangsterInfoLong:(Impostors):\nThe Gangster, a powerful character, can try to recruit a player to a Madmate by pressing the Kill button. If the recruitment is successful, both the Gangster and the target will see the Shield Animation on each other as a reminder (only visible to each other). The remaining number of available recruits is displayed next to the Gangster's name (the Host sets the maximum). If the Gangster tries to recruit players who cannot be recruited, such as Neutrals or some special Crewmates, they will kill the target normally instead. When the Gangster has no remaining recruitments, they can only make normal kills from that point on.
-CleanerInfoLong:(Impostors):\nCleaner can press the Report button to clean up any dead body they come across (including those they kill). If the cleanup is successful, the Cleaner will see a Shield Animation on their body as a reminder (only visible to himself). The cleaned-up body cannot be reported (including Bait).
+CleanerInfoLong:(Impostors):\nCleaner moze nacisnac przycisk Report, aby posprzatac martwe cialo, na jakie natrafi (w tym te, które zabije). Jeśli czyszczenie zakończy się sukcesem, Cleaner zobaczy animację tarczy na swoim ciele jako przypomnienie (widoczną tylko dla niego). Oczyszczone ciało nie może zostać zgłoszone (w tym Bait).
 LightningInfoLong:(Impostors):\nAs the Lightning, you cannot kill normally. Instead, your Kill button quantizes targets, which activates after a delay, causing the next person they encounter to kill them. Those who are actively quantized show a「■」next to their name. Additionally, those who have been quantized die if they survive until the end of a meeting. There is a setting to quantize your killer.
 GreedyInfoLong:(Impostors):\nGreedy kills with odd and even kills will have different Kill Cooldowns. Greedy's Kill Cooldown is reset every meeting, and Greedy's first kill is always odd.
-CursedWolfInfoLong:(Impostors):\nWhen the Cursed Wolf is about to be killed, the Cursed Wolf will curse the killer to death. (The Host sets the maximum of times you can counterattack)
+CursedWolfInfoLong:(Impostors):\nGdy Cursed Wolf ma byc zabity, Cursed Wolf przeklina morderce na smierc.\n(Host ustala maksymalna liczbe razy, kiedy mozesz odpowiedziec kontratakiem).
 SoulCatcherInfoLong:(Impostors):\nAs the Soul Catcher, you can use ShapeShift button to swap places with your target as long as they are not dead, in a Vent, swallowed by Pelican, or in a similar odd state.
 QuickShooterInfoLong:(Impostors):\nWhen the Kill Cooldown is over, QuickShooter can use the ShapeShift button to store a bullet. \nAfter a successful kill, if QuickShooter still has bullets remaining, he will immediately consume one bullet to reset the kill cooldown to zero. \nDepending on the host's settings, QuickShooter's ability may be restricted by the ShapeShift cooldown.
 CamouflagerInfoLong:(Impostors):\nGdy Camouflager uzywa Shapeshift, wszyscy gracze zaczynaja wygladac tak samo.\nTen stan konczy sie, gdy Camouflager przywraca swoja forme.\nWazne jest, aby zauwazyc, ze umiejetnosci takie jak Communication Sabotage Camouflage oraz umiejetnosci Camouflagera moga byc nakladane na siebie.\nTa umiejetnosc bedzie niewazna, jesli spotkanie zostanie wywolane podczas aktywacji umiejetnosci Camouflagera.
 EraserInfoLong:(Impostors):\nEraser moze glosowac na dowolny cel podczas spotkania, aby wymazac role tego celu, a wymazanie wejdzie w zycie po zakonczeniu spotkania.\nUwaga: Gracze z wymazanymi umiejetnosciami beda zawsze uwazani za role vanilla, w tym na stronie wyniku gry.\nCel moze zostac wymazany tylko raz (w tym OIIAI).
 ButcherInfoLong:(Impostors):\nZabojstwa Butchera, w tym pasywne, zostawiaja na celach kilka cial, co moze byc mylace przy zglaszaniu.\nOto zasada: zabity cel musi wielokrotnie wyswietlac animacje smierci, ktorej nie mozna pominac, i nie moze normalnie uczestniczyc w spotkaniu w tym czasie.\nJesli Butcher zabije Avengera, Avenger zemści sie na wszystkich w gniewie.
-HangmanInfoLong:(Impostors):\nAs the Hangman, during the Shapeshifting, you use a unique killing method-strangling. This method ignores any status of the target, such as the shield of the Medic, the Bodyguard's protection, the Super Star's skills, etc. The strangled player will not leave a dead body, nor will it trigger any of its skills. For example, Veteran kill back (including additional roles), and Seer will not be prompted.
-SwooperInfoLong:(Impostors):\nAs the Swooper, you can Vent to Vanish temporarily. You will still appear visible on your screen. Vent again to become visible.
+HangmanInfoLong:(Impostors):\nJako Hangman, podczas Shapeshiftingu uzywasz unikalnej metody zabijania – duszenia.\nTa metoda ignoruje wszelkie statusy celu, takie jak tarcza Medyka, ochrona Bodyguarda, umiejetnosci Super Stara itp.\nGracz uduszony nie zostawi po sobie ciala, ani nie uruchomi zadnej ze swoich umiejetnosci. Na przyklad, Veteran nie zareaguje (w tym dodatkowe role), a Seer nie zostanie powiadomiony.
+SwooperInfoLong:(Impostors):\nJako Swooper mozesz uzyc Ventow, aby tymczasowo zniknac. Nadal bedziesz widoczny na swoim ekranie. Uzyj Ventow ponownie, aby stac sie widocznym.
 CrewpostorInfoLong:(Team Impostor):\nYou kill the nearest player whenever you finish a task.
 WildlingInfoLong:(Impostors):\nAs the Wildling, you can Shapeshift but cannot Vent.\nWhen you kill, you temporarily become immune to attacks.
 TricksterInfoLong:(Impostors):\nAs the Trickster, you function as a regular Impostor but with one key difference.\nYou appear as a Crewmate to Crewmate roles.\n\nThe Sheriff cannot kill you.\nPsychic does not see you as evil.\nSnitch cannot find you.
@@ -796,28 +796,28 @@ VindicatorInfoLong:(Impostors):\nAs the Vindicator, you have extra votes like a 
 StealthInfoLong:(Impostors):\nWhen the Stealth kills, players in the same room are blinded for a short time.
 PenguinInfoLong:(Impostors):\nAs the Penguin, you can restrain the target by pressing the Kill button and drag it around.\nWhile dragging, the target dies by pressing the Kill button again or after a certain period.\nPress the Kill button twice for a direct kill.
 ParasiteInfoLong:(Madmates):\nAs the Parasite, you are an Impostor that does not know the other Impostors.\n\nYou may Kill, Vent, Sabotage, whatever.\nJust know that you are an Impostor.
-DisperserInfoLong:(Impostors):\nDisperser can use Shapeshift button to teleport all players to random Vents.
+DisperserInfoLong:(Impostors):\nDisperser moze uzyc przycisku Shapeshift, aby teleportowac wszystkich graczy do losowych Ventow.
 InhibitorInfoLong:(Impostors):\nAs the Inhibitor, you can only kill when there is not a Critical Sabotage active.\n\nIf Light or Comms Sabotage is active, then you can kill.
 SaboteurInfoLong:(Impostors):\nAs the Saboteur, you can only kill when there is a Critical sabotage active.\n\nIf Reactor or O2 Sabotage is active, then you can kill.
 CouncillorInfoLong:(Impostors):\nJako Councillor mozesz zabijac graczy podczas spotkania, jak Judge.\nGdy zabijasz podczas spotkania, te zabojstwa beda wygladac jak proces sadowy od Judge.\n\nKomenda zabojstwa: /tl [id gracza]\nMozesz zobaczyc id gracza przed jego imieniem, albo uzyc komendy /id, aby zobaczyc id wszystkich graczy.\nW zaleznosci od ustawien, Councillor popelni samobojstwo, gdy osadzi swoich sojusznikow.\nPrzeksztalcony Councillor moze bez przeszkod osadzac.
 DazzlerInfoLong:(Impostors):\nAs the Dazzler, you can reduce the vision of the target of your Shapeshift permanently. When you die, their vision will turn back to normal.
 DeathpactInfoLong:(Impostors):\nAs the Deathpact, You Shapeshift to mark your targets for a deathpact.\nIf you have enough players marked for a deathpact, they must meet within a specific period; if they fail to do so, they die.\nIf a marked player dies before the deathpact becomes complete, the pact is withdrawn.
-DevourerInfoLong:(Impostors):\nAs the Devourer, you use your Shapeshift to change the appearance of the target of the Shapeshift permanently. Additionally, when each player's appearance changes, you will have your Kill Cooldown reduced by a defined number of seconds. If the Devourer dies or gets voted out during a meeting, the player's appearance will change back to their normal appearance.
-MorphlingInfoLong:(Impostors):\nAs the Morphling, you are a Shapeshifter but cannot kill while not Shapeshifted.
+DevourerInfoLong:(Impostors):\nJako Devourer uzywasz Shapeshift, aby trwale zmienic wyglad osoby, w ktora sie przebierzesz.\nDodatkowo, gdy wyglad kazdego gracza sie zmienia, twoj Kill Cooldown zostanie zmniejszony o okreslona liczbe sekund.\nJesli Devourer zginie lub zostanie wyrzucony podczas spotkania, wyglad gracza wroci do normalnego wygladu.
+MorphlingInfoLong:(Impostors):\nJako Morphling jestes Shapeshifterem, ale nie mozesz zabijac, gdy nie jestes w formie Shapeshift.
 TwisterInfoLong:(Impostors):\nAs the Twister, you can use Shapeshifting to swap the position of all players randomly. The swap happens twice, once when you start your Shapeshift and once when you return to your original appearance.\nThe Twister itself will not swap places with anyone, and players in vents will not teleport.
-LurkerInfoLong:(Impostors):\nAs the Lurker, you can jump into a Vent to reduce your Cooldown by a certain number of seconds. After you kill, your Cooldown resets to its original value.
+LurkerInfoLong:(Impostors):\nJako Lurker mozesz wskoczyc do Venta, aby zmniejszyc swoj Cooldown o okreslona liczbe sekund.\nPo zabojstwie twój Cooldown zostaje zresetowany do swojej poczatkowej wartosci.
 VisionaryInfoLong:(Impostors):\nAs the Visionary, you see the alignments of living players during a meeting.\nThe following information will be displayed on the players:\n- The Red name indicates the Impostors.\n- The Cyan name indicates the Crewmates.\n- The Gray name indicates the Neutrals.
 PlagueDoctorInfoLong:(Neutrals):\n(Plague Doctor from TOH)\nThe Plague Scientist's goal is to infect every living player.\nThey start by choosing one player to infect, after which anyone who spends a set amount of time in the range of the infected player becomes infected themselves.\nInfection progress is cumulative and does not reset with distance or after meetings.
 RefugeeInfoLong:(Madmates):\nAs the Refugee, you were either:\n -An Amnesiac who remembered an Impostor\n -A killer who killed the Godfather's target.\n -A Romantic whose partner was an Impostor\n -Or an Imitator that imitated an Impostor.\n\nNow your job is to help the Impostors kill the Crewmates.
 UnderdogInfoLong:(Impostors):\nAs the Underdog, you cannot kill until there's a certain amount of players alive.
-ConsigliereInfoLong:(Impostors):\nAs the Consigliere, you can reveal the roles of other players using your Kill button.\n\nSingle click: Reveal role\nDouble click: Kill\n\nIf you run out of reveal uses, your Kill button functions normally.
+ConsigliereInfoLong:(Impostors):\nJako Consigliere mozesz ujawnic role innych graczy uzywajac swojego przycisku Kill.\n\nPojedyncze klikniecie: Ujawnij role\nPodwojne klikniecie: Zabij\n\nJesli wyczerpiesz uzycia ujawniania, twoj przycisk Kill dziala normalnie.
 LudopathInfoLong:(Impostors):\nAs the Ludopath, your Kill Cooldown is randomized.\n\nMinimum it can be is 1 second, while the maximum is your default Kill Cooldown.
 GodfatherInfoLong:(Impostors):\nAs the Godfather, you vote someone to make them your target.\nIn the next round, if someone kills the target, the killer will turn into a Refugee or Madmate.
-ChronomancerInfoLong:(Impostors):\nAs the Chronomancer, you have a charge bar which indicates when the slaughter is ready. When it is at 100% the next time you kill someone, you go into slaughter mode, meaning you can kill indefinitely until your bar runs out of charge. Otherwise, you have a normal KCD.
+ChronomancerInfoLong:(Impostors):\nJako Chronomancer masz pasek energii, który wskazuje, kiedy tryb rzezi jest gotowy.\nGdy osiągnie 100%, przy następnym zabójstwie wchodzisz w tryb rzezi, co oznacza, że możesz zabijać bez końca, dopóki pasek energii się nie wyczerpie.\nW przeciwnym razie masz normalny KCD (Cooldown zabójstwa).
 PitfallInfoLong:(Impostors):\nAs the Pitfall, you use your Shapeshift to mark the area around the Shapeshift as a trap. Players who enter this area will be immobilized quickly, and their vision will be affected.
 EvilMiniInfoLong:(Impostors):\nAs the Evil Mini, you are unkillable until you grow up and have a very long initial Kill Cooldown, which gets drastically shortened as you grow up.
 BlackmailerInfoLong:(Impostors):\nAs the Blackmailer, when you Shift into a target, you will blackmail that player. This means that during the meetings, they won't be able to speak.\n\nNote: If someone is already blackmailed, blackmailing another person un-blackmails the current person.
-InstigatorInfoLong:(Impostors):\nAs the Instigator, it's your job to turn the Crewmates against each other. Each time a Crewmate gets voted out in a meeting, if you are alive, an additional Crewmate who voted for the innocent player will die after the meeting. The Host determines the number of additional players dying.
+InstigatorInfoLong:(Impostors):\nJako Instigator twoim zadaniem jest obracanie Crewmates przeciwko sobie.\nZa kazdym razem, gdy Crewmate zostanie wyrzucony w glosowaniu, jesli jestes zywy, dodatkowy Crewmate, ktory glosowal na niewinna osobe, zginie po spotkaniu.\nLiczba dodatkowych graczy, którzy umierają, jest ustalana przez Hosta.
 LazyGuyInfoLong:(Crewmates):\nLazy Guy has only one task. In addition, the Impostor's abilities can't affect the Lazy Guy, such as being a scapegoat for Anonymous, being marked by a Warlock or Puppeteer, and more. Lazy Guy will not have any Add-ons.
 SuperStarInfoLong:(Crewmates):\nThere will be a star logo next to the Super Star's name, so everyone knows who the Super Star is. The Super Star can only die when the murderer is alone with the Super Star (regular kills only). In addition, the Guessers can't guess the Super Star. 
 CelebrityInfoLong:(Crewmates):\nAll Crewmates see the kill-flash when the Celebrity dies (same as the Seer sees the kill-flash) and get a notice at the next meeting. The Impostors don't know anything about this.
@@ -1056,7 +1056,7 @@ BardInfoLong:(Impostors):\nWhen a Bard is alive, the exile confirmation will dis
 WardenInfoLong:(Crewmates [Ghost]):\nJako Warden, powiadom kogos w poblizu o niebezpieczenstwie, dodatkowo dajac im chwilowe przyspieszenie.
 GhastlyInfoLong:(Crewmates [Ghost]):\nAs the Ghastly, possess an unsuspecting person, after that choose a target for them, now they'll only be able to use their kill (or kill ability) on target until you possess someone else or possess time runs out.
 MinionInfoLong:(Impostor [Ghost]):\nAs the Minion, you can temporarily blind non-Impostors.
-DollMasterInfoLong:(Impostor):\nAs the Dollmaster, you can temporarily take control of any player by using the <color=#ff0000>Shapeshift</color> button and to make them do your deeds!
+DollMasterInfoLong:(Impostor):\nJako Dollmaster mozesz tymczasowo przejac kontrole nad dowolnym graczem, uzywajac przycisku <color=#ff0000>Shapeshift</color> i zmusic go do wykonania twoich czynow!
 DoubleAgentInfoLong:(Impostor):\nAs the Double Agent, you cannot access the Kill button. However, you can vote for someone in a meeting to pass a bomb onto them, which can only be done one player at a time. Once the meeting has finished, the bomb will activate and explode in a set amount of time.\nNote: when you pass the bomb onto someone in a meeting, you can vote afterward.\n\nAdditionally depending on settings the Double Agent can diffuse <color=#696969>Bastion</color> and <color=#F4A460>Agitator</color> bombs when Venting.\n\nThe Double Agent can change roles when they are the <color=#ff1919>Last Impostor</color>, depending on the settings the role can be a <color=#ee43c3>Admired Impostor</color>, <color=#ff1919>Trickster</color>, <color=#BA2E05>Traitor</color>, or stay as the Double Agent.
 SlothInfoLong:(Add-ons):\nThe Sloth's default movement speed is slower than others.\n(Speed depends on the setting of the Host)
 ProhibitedInfoLong:(Add-ons):\nAs the Prohibited, you have specific Vents that you can't use.\nHow many Vents are disabled depends on the Host's settings.
@@ -1086,7 +1086,7 @@ SMUsesUsedWhenFixingLightsOrComms:Uses it takes to fix Lights/Comms
 GrenadierSkillMaxOfUseage:(Initial) Maximum number of Grenades
 ShowSpecificRole:Know specific roles on Task Completion
 TimeMasterMaxUses:(Initial) Maximum Amount of Ability Uses
-SwooperVentNormallyOnCooldown:<color=#ff1919>Swooper</color> Vents normally when Swooping is on Cooldown
+SwooperVentNormallyOnCooldown:<color=#ff1919>Swooper</color> Ventuje normalnie kiedy ma cooldown na znikniecie
 WraithVentNormallyOnCooldown:<color=#4b0082>Wraith</color> Vents normally when Invisibility is on Cooldown
 DisableMeeting:Disable Meetings
 DisableCloseDoor:Disable Doors Sabotage
@@ -1419,10 +1419,10 @@ ArsonistCanIgniteAnytime:Can Ignite Anytime
 ArsonistMinPlayersToIgnite:Minimum doused needed for ignite
 ArsonistMaxPlayersToIgnite:Maximum doused needed for ignite
 PuppeteerDoubleKills:Puppet dies alongside victim
-DollMasterPossessionCooldown:Possession Cooldown
-DollMasterPossessionDuration:Possession Duration
-DollMasterCanKillAsMainBody:Can kill as the main body
-DollMasterTargetDiesAfterPossession:Target dies after possession
+DollMasterPossessionCooldown:Cooldown sterowania
+DollMasterPossessionDuration:Czas trwania sterowania
+DollMasterCanKillAsMainBody:Moze zabijac jako glowna postac
+DollMasterTargetDiesAfterPossession:Cel umiera po sterowaniu
 DoubleAgentCanDiffuseBombs:Double Agent can diffuse bombs from other roles
 DoubleAgentClearBombOnMeetingCall:Diffuse active bomb on meeting call
 DoubleAgentCanUseAbilityInCalledMeeting:If diffused can use ability in called meeting
@@ -1497,10 +1497,10 @@ BountyFailureKillCooldown:Kill Cooldown After Killing Others
 BountyShowTargetArrow:Show arrow pointing towards the target
 DefaultShapeshiftCooldown:Default Shapeshift Cooldown
 DeadImpCantSabotage:<color=#ff1919>Impostors</color> can't Sabotage after they've died
-VampireKillDelay:Bite Kill Delay
-VampireTargetDead:Target died
-VampireActionMode:Action Mode
-Vampire_OnlyBites:Only Bites
+VampireKillDelay:Opoznienie ugryzienia
+VampireTargetDead:Cel umarl
+VampireActionMode:Tryb mocy
+Vampire_OnlyBites:Tylko gryz
 Youtuber_KillerWinsWithYouTuber:The Killer Wins With <color=#fb749b>YouTuber</color>
 Maverick_MinKillsToWin:Minimum number of kills to win
 Cooldown:Cooldown
@@ -1633,7 +1633,7 @@ LawyerCanTargetJester:Can Target <color=#ec62a5>Jester</color>
 LawyerChangeRolesAfterTargetKilled:When Target Dies, <color=#008080>Lawyer</color> becomes
 LaywerShouldChangeRoleAfterTargetKilled:Should Lawyer Change Role when Target Dies
 LawyerTargetDeadInMeeting:Your target was killed while meeting.\nYour role may change depending on the settings.
-MercenaryLimit:Time Until Suicide
+MercenaryLimit:Czas do samobojstwa
 ArsonistDouseTime:Douse Duration
 CanTerroristSuicideWin:Can Win By Suicide
 FireworkerMaxCount:Fireworker Count
@@ -1728,7 +1728,7 @@ CanCheckCamera:Can track camera usage
 DefaultKillCooldown:Starting Kill Cooldown
 ReduceKillCooldown:Reduce Kill Cooldown by
 MinKillCooldown:Minimum Kill Cooldown
-BomberRadius:Bomb radius (5x is about half a Cafeteria)
+BomberRadius:Promien bomby (5x to okolo pol Cafeterii)
 NotifyGodAlive:Inform players at meetings that God is still alive
 TransporterTeleportMax:Maximum number of teleports
 TriggerKill:Kill
@@ -1804,16 +1804,16 @@ MadmateCountMode.None:Nothing
 MadmateCountMode.Imp:<color=#ff1919>Impostors</color>
 MadmateCountMode.Original:Original Team
 Altruist_RevivedDeadBodyCannotBeReported_Option:Ozywione martwe cialo nie moze zostac zgloszone.
-Altruist_ImpostorsCanGetsAlert:<color=#ff1919>Impostors</color> can get Alert
-Altruist_ImpostorsCanGetsArrow:<color=#ff1919>Impostors</color> can get Arrow
-Altruist_NeutralKillersCanGetsAlert:<color=#7f8c8d>Neutral</color> <color=#ff1919>Killers</color> can get Alert
-Altruist_NeutralKillersCanGetsArrow:<color=#7f8c8d>Neutral</color> <color=#ff1919>Killers</color> can get Arrow
-Altruist_CovenCanGetsAlert:<color=#ac42f2>Coven</color> can get Alert
-Altruist_CovenCanGetsArrow:<color=#ac42f2>Coven</color> can get Arrow
+Altruist_ImpostorsCanGetsAlert:<color=#ff1919>Impostors</color> dostana powiadomienie/alert
+Altruist_ImpostorsCanGetsArrow:<color=#ff1919>Impostors</color> dostana strzalki
+Altruist_NeutralKillersCanGetsAlert:<color=#7f8c8d>Neutral</color> <color=#ff1919>Killers</color> dostana powiadomienie/alert
+Altruist_NeutralKillersCanGetsArrow:<color=#7f8c8d>Neutral</color> <color=#ff1919>Killers</color> dostana strzalki
+Altruist_CovenCanGetsAlert:<color=#ac42f2>Coven</color> dostana powiadomienie/alert
+Altruist_CovenCanGetsArrow:<color=#ac42f2>Coven</color> dostana strzalki
 AltruistSuffix:<#00ffa5>Mode:</color> <b>{0}</b>
-AltruistReviveMode:Revive
-AltruistReportMode:Report
-Altruist_YouTriedReportRevivedDeadBody:You Tried Report Revived Dead Body
+AltruistReviveMode:Ozyw
+AltruistReportMode:Zglos
+Altruist_YouTriedReportRevivedDeadBody:Próbowales zglosić ozywione martwe cialo.
 Altruist_DeadPlayerHasBeenRevived:Martwy gracz zostal ozywiony!
 AltruistAbilityButton:Change Mode
 SnatchesWin:Snatches victory
@@ -2368,7 +2368,7 @@ BeRecruitedByGangster:The Gangster has recruited you
 KamikazeHostage:Can't hold target hostage
 StealerGetTicket:You've got {0} votes
 BecomeMadmateCuzMadmateMode:You became a Madmate because you died
-CleanerCleanBody:The body has been cleaned
+CleanerCleanBody:Cialo zostalo wyczyszczone
 QuickShooterStoraging:Bullets stored successfully
 QuickShooterFailed:You are still in Cooldown.
 BloodthirstAdded:Your Bloodthirst is now active!
@@ -2378,7 +2378,7 @@ WarlockTargetDead:Manipulation failed due to target dead
 WarlockControlKill:Target died
 OnCelebrityDead:Warning: Celebrity death!
 OnCyberDead:Warning: Cyber died!
-TeleportedInRndVentByDisperser:Everyone was teleported to Vents
+TeleportedInRndVentByDisperser:Wszyscy zostali teleportowani do Ventów.
 TeleportedByTransporter:Swapping places with: {0}
 ErrorTeleport:Teleport failed
 EraseLimit:Maximum Erases
@@ -2389,13 +2389,13 @@ EraserEraseSelf:Unfortunately, you can't erase yourself... Wait, why would you d
 EraserTryingGuessErasedPlayer:You can't guess the role of the player you erased, except Add-ons
 EraserCanGuessErasedPlayer:Can Guess Erased Players
 LostRoleByEraser:You lost your role because of the <color=#ff1919>Eraser</color>
-KilledByScavenger:The Scavenger killed you and thus teleported off-map
+KilledByScavenger:Scavenger cie zabil i teleportowal poza mape.
 SnitchDoneTasks:Call a meeting to find the Impostors
-SwooperCanVent:Vent to turn invisible
-SwooperInvisState:You're invisible
-SwooperInvisStateOut:You're now visible
-SwooperInvisInCooldown:Swoop Cooldown isn't up yet. Swooping failed
-SwooperInvisStateCountdown:Invisibility will expire after {0}s
+SwooperCanVent:Ventuj aby stac sie niewidzialnym
+SwooperInvisState:Jestes niewidzialny
+SwooperInvisStateOut:Teraz jestes widoczny.
+SwooperInvisInCooldown:Cooldown na Swoop jeszcze nie minął. Swoop nie powiódł się.
+SwooperInvisStateCountdown:Niewidzialnosc zniknie za {0}s
 SwooperInvisCooldownRemain:Swoop Cooldown: {0}s
 WraithCanVent:Vent to turn invisible
 WraithInvisState:You are invisible
@@ -2720,14 +2720,14 @@ SabotageButtonText:Sabotage
 SniperSnipeButtonText:Snipe
 FireworkerExplosionButtonText:Detonate
 FireworkerInstallAtionButtonText:Install
-MercenarySuicideButtonText:Suicide Timer
+MercenarySuicideButtonText:Czasomierz samobójstwa
 WarlockCurseButtonText:Curse
 DisperserButtonText:Disperse
 BlackmailerButtonText:Blackmail
 NinjaShapeshiftText:Kill
 NinjaMarkButtonText:Mark
 WitchSpellButtonText:Spell
-VampireBiteButtonText:Bite
+VampireBiteButtonText:Ugryz
 MinerTeleButtonText:Warp
 ArsonistDouseButtonText:Douse
 PuppeteerOperateButtonText:Manipulate
@@ -2752,11 +2752,11 @@ ProvocateurButtonText:Greet
 ButcherButtonText:Dismember
 BomberShapeshiftText:Explode
 QuickShooterShapeshiftText:Keep
-CamouflagerShapeshiftTextBeforeDisguise:Disguise
+CamouflagerShapeshiftTextBeforeDisguise:Przebierz sie
 CamouflagerShapeshiftTextAfterDisguise:Duration
 AnonymousShapeshiftText:Hack
 DefaultShapeshiftText:Shift
-CleanerReportButtonText:Clean
+CleanerReportButtonText:Wyczysc
 SwooperVentButtonText:Swoop
 SwooperRevertVentButtonText:Expose
 WraithVentButtonText:Vanish
@@ -2968,10 +2968,10 @@ FamineStarveCooldown:<color=#83461c>Famine</color> Starve Cooldown
 FamineCantStarveApoc:You cannot starve other Apocalypse members!
 FamineAlreadyStarved:That player has already been starved!
 FamineStarved:Player starved
-ChronomancerKillCooldown:Ability Charge Time
+ChronomancerKillCooldown:Czas trwania mocy
 ChronomancerDecreaseTime:Slaughter Decrease Time (lower is faster)
-ChronomancerStartMassacre:SLAUGHTER: ACTIVATED
-ChronomancerVisionMassacre:Vision When in Slaughter
+ChronomancerStartMassacre:RZEZ: AKTYWOWANA
+ChronomancerVisionMassacre:Wizja podczas Rzezi
 ShamanButtonText:Voodoo
 ShamanTargetAlreadySelected:You have already selected a Voodoo Doll in this round
 Shaman_KillerCannotMurderChosenTarget:The killer cannot murder chosen target
@@ -3033,7 +3033,7 @@ BerserkerCanVent:<color=#FF0055>Berserker</color> Can Vent
 WarCanVent:<color=#2B0804>War</color> Can Vent
 BerserkerOneCanKillCooldown:Unlock lower Kill Cooldown
 BerserkerOneKillCooldown:Kill Cooldown after unlocking
-BerserkerTwoCanScavenger:Unlock scavenged kills
+BerserkerTwoCanScavenger:Odblokuj zabojstwa Scavengera.
 BerserkerThreeCanBomber:Unlock bombed kills
 BerserkerFourCanNotKill:Become <color=#2B0804>War</color>
 BerserkerMaxReached:Maximum level reached!
@@ -3171,8 +3171,8 @@ ImmuneToAttacksWhenTasksDone:Immune to attacks on task completion
 TwisterCooldown:Twist Cooldown
 TwisterButtonText:Twist
 TwisterHideTwistedPlayerNames:Hide who the players swap places with
-InstigatorAbilityLimit:Ability Use Count
-InstigatorKillsPerAbilityUse:Kills per Ability use
+InstigatorAbilityLimit:Liczba uzyc umiejetnosci
+InstigatorKillsPerAbilityUse:Zabojstwa na jedno uzycie umiejetnosci
 CrewCanFindCaptain:Crewmates can find Captain
 MadmateCanFindCaptain:Madmates can find Captain
 ReducedSpeed:Reduced speed
@@ -3277,24 +3277,24 @@ GanMarshallCanBeMadmate:<color=#5573AA>Marshall</color> can be converted
 GanOverseerCanBeMadmate:<color=#BA55D3>Overseer</color> can be converted
 GanCovenCanBeMadmate:<color=#ac42f2>Coven</color> can be converted
 RascalAppearAsMadmate:Appear as <color=#ff1919>Madmate</color> on Ejection
-CouncillorDead:Sorry, you can't murder from the dead.
-CouncillorMurderMaxMeeting:Sorry, you've reached the maximum amount of murders for the meeting.
-CouncillorMurderMaxGame:Sorry, you've reached the maximum amount of murders for the game.
-Councillor_LaughToWhoMurderSelf:Hahaha, who would've thought someone was stupid enough to murder themselves?\n\nGuess it happens to be... YOU!
-Councillor_MurderKill:<b>{0}</b> was murdered.
-Councillor_MurderHelp:Command: /tl [player ID]\nYou can see the players' ID's before the players' names.\nOr use /id to view the list of all player ID's.
-Councillor_MurderNull:Please choose a living player to murder.
-Councillor_MurderKillTitle:WICKED COURT 
-CouncillorMakeEvilJudgeClear:Show Trial as Councillor Murder
-Councillor_CannotMurderImpTeam:Sorry, you can not murder your teammate.
-Councillor_SuicideForMurderImps:You died because you are trying to murder your team members.
-CouncillorMurderLimitPerMeeting:Maximum Kills per Meeting
-CouncillorMurderLimitPerGame:Maximum Kills per Game
-CouncillorCanMurderMadmate:Can Murder <color=#ff1919>Madmates</color>
-CouncillorCanMurderImpostor:Can Murder <color=#ff1919>Impostors</color>
-CouncillorSuicideOnJudgeImpTeam:Suicide when judge <color=#ff1919>Impostors</color> Team Wrongly
-CouncillorCanMurderTaskDoneSnitch:Can Murder <color=#b8fb4f>Snitch</color> with All Tasks Done
-CouncillorTryHideMsg:Try to hide Councillor's commands
+CouncillorDead:Sorry, nie mozesz zabijac jako martwy.
+CouncillorMurderMaxMeeting:Sorry, wykorzystales maksymalna liczbe morderstw na meeting.
+CouncillorMurderMaxGame:Sorry, wykorzystales maksymalna liczbe morderstw na gre.
+Councillor_LaughToWhoMurderSelf:Hahaha, kto by pomyślał, że ktoś będzie na tyle głupi, żeby zabić samego siebie?\n\nChyba zdarzyło się to... TOBIE!
+Councillor_MurderKill:<b>{0}</b> zostal zabity.
+Councillor_MurderHelp:Command: /tl [ID gracza]\nYou can see the players' ID's before the players' names.\nOr use /id to view the list of all player ID's.
+Councillor_MurderNull:Wybierz zyjacego gracza do zamordowania.
+Councillor_MurderKillTitle:POSRANY SAD 
+CouncillorMakeEvilJudgeClear:Pokaz proces jako zabojstwo Councillor.
+Councillor_CannotMurderImpTeam:Sorry, nie mozesz zabic czlonka swojej druzyny.
+Councillor_SuicideForMurderImps:Zginales, poniewaz probujesz zabic czlonka swojej druzyny.
+CouncillorMurderLimitPerMeeting:Maksymalna liczba zabojstw na spotkaniu.
+CouncillorMurderLimitPerGame:Maksymalna liczba zabojstw w grze.
+CouncillorCanMurderMadmate:Mozesz zabijac <color=#ff1919>Madmates</color>.
+CouncillorCanMurderImpostor:Mozesz zabijac <color=#ff1919>Impostorow</color>.
+CouncillorSuicideOnJudgeImpTeam:Popelnisz samobojstwo, jesli osadzisz druzyne <color=#ff1919>Impostorow</color> blednie.
+CouncillorCanMurderTaskDoneSnitch:Mozesz zabijac <color=#b8fb4f>Snitcha</color> po wykonaniu wszystkich zadan.
+CouncillorTryHideMsg:Próba ukrycia komend Councillor.
 DazzlerDazzled:You were dazzled by the Dazzler!
 DazzlerCauseVision:Reduced vision
 DazzlerDazzleLimit:Maximum number of players affected by reduced vision
@@ -3358,15 +3358,15 @@ DeathpactButtonText:Assign
 DevourerHideNameConsumed:Hide the names of consumed players
 DevourCooldown:Devour Cooldown
 DevourerButtonText:Devour
-DollMasterPossessionButtonText:Possess
+DollMasterPossessionButtonText:Steruj
 DollMasterUnPossessionButtonText:UnPossess
-DollMaster_PossessedTarget:Possessed target
-DollMaster_CannotPossessImpTeammate:Unable to possess teammate
-DollMaster_CouldNotSwapWithTarget:Unable to possess player
-DollMaster_CanNotSwapWithDeadTarget:Possessing a dead player isn't possible
-DollMaster_MainBody:Main Body
+DollMaster_PossessedTarget:Sterowany cel
+DollMaster_CannotPossessImpTeammate:Nie mozna sterowac czlonkiem swojej druzyny
+DollMaster_CouldNotSwapWithTarget:Nie mozna sterowac graczem
+DollMaster_CanNotSwapWithDeadTarget:Nie mozna sterowac martwym graczem
+DollMaster_MainBody:Glowna postac
 DollMaster_Doll:Doll
-DollMaster_UnableToUseAbility:Unable to use your ability on player
+DollMaster_UnableToUseAbility:Nie mozna uzyc swojej umiejetnosci na graczu
 Doppelganger_RoleInfo:Spoofed Role: {0}
 EatenByDevourer:The Devourer ate your skin
 DevourerEatenSkin:Target skin is eaten
@@ -3380,7 +3380,7 @@ PitfallTrapFreezeTime:Trap freeze time
 PitfallTrapCauseVision:Trap caused vision
 PitfallTrapCauseVisionTime:Trap caused vision time
 PitfallTrap:You have fallen into a trap!
-ConsigliereDivinationMaxCount:Maximum Reveals
+ConsigliereDivinationMaxCount:Maksymalna liczba odkryc
 CleanserHideVote:Hide Cleanser's vote
 OracleSkillLimit:Maximum Uses
 OracleHideVote:Hide <color=#6666FF>Oracle</color>'s vote
