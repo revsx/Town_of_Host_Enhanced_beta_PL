@@ -450,7 +450,7 @@ RiftMakerInfo:Two rifts I trace, touch 'em to warp space
 EvilTrackerInfo:Sledz graczy poprzez Shiftowanie
 EvilHackerInfo:Zhakuj systemy
 AntiAdminerInfo:Wiedz, kiedy gracze znajduja sie w poblizu urzadzen
-ArroganceInfo:Z każdym twoim zabojstwem Cooldown zmniejsza sie
+ArroganceInfo:Z kazdym twoim zabojstwem Cooldown zmniejsza sie
 BomberInfo:Shapeshiftoj, aby eksplodowac
 TrapsterInfo:Uwiez swoje ofiary
 ScavengerInfo:Twoje zabojstwa sa nie do zgloszenia, nie zostawiasz cial jak pelikan
@@ -467,7 +467,7 @@ EraserInfo:Usun role gracza na ktorego zaglosujesz
 ButcherInfo:Ciesz sie moim pieknym dzielem
 HangmanInfo:Zdecyduj, kiedy zakonczyc zywot gracza
 SwooperInfo:Stan sie tymczasowo niewidzialny
-CrewpostorInfo:Zabijaj, wykonując zadania
+CrewpostorInfo:Zabijaj, wykonujac zadania
 WildlingInfo:Kill with strength and disguise
 TricksterInfo:Kill and trick the Crew
 VindicatorInfo:Uzyj dodatkowych glosow, aby wszystkich zabic
@@ -500,7 +500,7 @@ CleanserInfo:Erase all Add-ons of your vote target
 KeeperInfo:Anuluj wyrzucenie, Keeper ochroni!
 MayorInfo:Twoj glos liczy sie wielokrotnie
 PsychicInfo:Jedno z czerwonych imion jest <color=#ff1919>Zle</color>
-MechanicInfo:Wentuj i naprawiaj sabotaże
+MechanicInfo:Wentuj i naprawiaj sabotaze
 SheriffInfo:Zastrzel <color=#ff1919>Impostorow</color>
 VigilanteInfo:Bohater, na ktorego nie zaslugujemy, ale ktorego potrzebujemy
 JailerInfo:Aresztuj podejrzanych graczy
@@ -612,7 +612,7 @@ PursuerInfo:Ochron sie i dotrwaj do konca gry!
 PlagueDoctorInfo:Spread the infection!
 SpecterInfo:Daj sie zabic i skoncz taski aby wygrac!
 PirateInfo:Pomyslnie spladruj graczy, aby wygrac
-AgitaterInfo:Przekaz Bombę innym
+AgitaterInfo:Przekaz Bombe innym
 MaverickInfo:Zabijaj i dotrwaj do konca
 CursedSoulInfo:Snatch souls and steal the win
 PickpocketInfo:Kradnij glosy od swoich ofiar
@@ -730,7 +730,7 @@ NotAssignedInfo:No assigned role
 SunnyboyInfo:Swiec, swiec moje sloneczko!
 BardInfo:Poematu czar, morderczy szal, szalenczy taniec i smiertelny dar
 RainbowInfo:Colorful melodies! You don't even know your own color.
-DollMasterInfo:Przejmij kontrolę nad dzialaniami graczy!
+DollMasterInfo:Przejmij kontrole nad dzialaniami graczy!
 DoubleAgentInfo:Plant bombs on players in meetings
 SlothInfo:Jestes wolniejszy
 ProhibitedInfo:Certain Vents are blocked
@@ -751,7 +751,7 @@ FireworkerInfoLong:(Impostors):\nAs the Fireworker, you can Shapeshift to place 
 MercenaryInfoLong:(Impostors):\nJako Mercenary musisz zabic w wyznaczonym czasie, jak pokazuje twoj Cooldown Shapeshift (ktorego nie mozesz uzywac). Jesli nie uda ci sie zabic, umierasz.
 ShapeMasterInfoLong:(Impostors):\nAs the Shapemaster, you have no Shapeshift Cooldown.
 VampireInfoLong:(Impostors):\nJako Wampir twoje zabojstwa sa opoznione.\nOznacza to, ze cel i tak umrze, nawet jesli najpierw zostanie wywolane spotkanie.\nJednak jesli ugryziesz Baita, zabijasz normalnie i zglaszasz cialo.\nW zaleznosci od ustawien mozesz uzyc podwojnego trybu (gryzienie – pojedyncze klikniecie, normalne zabojstwo – podwojne klikniecie).
-WarlockInfoLong:(Impostors):\nJako Czarnoksieznik (Warlock) mozesz rzucic Klątwe na maksymalnie jednego gracza naraz.\nGdy uzyjesz Shapeshift, jezeli masz przekletego gracza, zabije on najblizsza osobe – w zaleznosci od ustawien moze to byc takze ty lub inni Impostorzy.\nMozesz zabijac normalnie bedac w formie Shapeshift.
+WarlockInfoLong:(Impostors):\nJako Czarnoksieznik (Warlock) mozesz rzucic Klatwe na maksymalnie jednego gracza naraz.\nGdy uzyjesz Shapeshift, jezeli masz przekletego gracza, zabije on najblizsza osobe – w zaleznosci od ustawien moze to byc takze ty lub inni Impostorzy.\nMozesz zabijac normalnie bedac w formie Shapeshift.
 ZombieInfoLong:(Impostors):\nZombie has a short Kill Cooldown but moves very slowly and has very little vision. Zombie can not be voted out by anyone other than the Dictator, and the movement speed of Zombie will gradually slow down as they make kills or time passes.
 NinjaInfoLong:(Impostors):\nAs the Ninja, you can use your Kill button to mark a target (single click) or kill normally (double click). You may then Shapeshift to teleport to the marked target and kill them.
 AnonymousInfoLong:(Impostors):\nAs the Anonymous, you can Shapeshift to force your target to report whoever you killed this round.\nIf you killed nobody that round, the target will report their own dead body as if they had died.\nNote: This does not work on Lazy nor Lazy Guy, and this ability will work regardless of whether the body can normally be reported.
@@ -766,7 +766,7 @@ PuppeteerInfoLong:(Impostors):\nAs the Puppeteer, you can use your Kill button t
 MastermindInfoLong:(Impostors):\nAs the Mastermind, you can use your Kill button on a player once to manipulate them. The manipulation does nothing if the target doesn't have a Kill button. But if the target does have a Kill button, whoever you manipulate will be told after a delay that they got manipulated and must kill someone in a limited time to survive. If the time limit expires or a meeting gets called before killing someone, they die.\nDouble click on someone to kill them normally.
 YinYangerInfoLong:(Impostors):\nAs the YinYanger, you can use your Kill button one time to pick your Yin and then a second time to choose a Yang. When those two players meet, they'll kill each other. When Yin & Yang have been chosen, you can kill normally.
 TimeThiefInfoLong:(Impostors):\nEvery time the Time Thief kills a player, the meeting time will be reduced by a certain amount of time. If the Time Thief dies, the meeting time will return to normal.
-SniperInfoLong:(Impostors):\nMożesz strzelac do graczy z daleka.\nMusisz uzyc Shapeshift dwa razy, aby wykonac skuteczne trafienie.\nWyobraz sobie strzalke prowadzaca od pierwszej lokalizacji Shapeshift do miejsca Unshift.\nTo bedzie kierunek, w ktorym zostanie oddany strzal.\nStrzal zabija pierwsza osobe na swojej drodze.\nNie mozesz zabijac normalnie, dopoki nie zuzyjesz calej amunicji.
+SniperInfoLong:(Impostors):\nMozesz strzelac do graczy z daleka.\nMusisz uzyc Shapeshift dwa razy, aby wykonac skuteczne trafienie.\nWyobraz sobie strzalke prowadzaca od pierwszej lokalizacji Shapeshift do miejsca Unshift.\nTo bedzie kierunek, w ktorym zostanie oddany strzal.\nStrzal zabija pierwsza osobe na swojej drodze.\nNie mozesz zabijac normalnie, dopoki nie zuzyjesz calej amunicji.
 UndertakerInfoLong:(Impostors):\nZa kazdym razem gdy uzywasz Shapeshift, oznaczasz lokalizacje.\nTwoje ciala beda nastepnie teleportowane do oznaczonego miejsca.\nPo kazdym zabojstwie i spotkaniu oznaczona lokalizacja zostanie zresetowana.\n\nPo kazdym teleportowanym zabojstwie zostaniesz zamrozony na konfigurowalny czas.
 RiftMakerInfoLong:(Impostors):\nAs Rift Maker, you can Shapeshift to create a rift. You can teleport from one rift to another by touching the area where the rift was created. Trying to vent will kick you out, therefore destroying all the rifts.\n\nNote: Up to two rifts can be placed at a time; if you try to place a third, it removes the first one.
 EvilTrackerInfoLong:(Impostors):\nThe Evil Tracker can track other players, and the Evil Tracker can Shapeshift into someone to switch the tracking target to the Shapeshift target (You will immediately unshift after performing Shapeshift). The arrow below the Evil Tracker's name indicates the direction of the target. When the Evil Tracker's teammate kills, the Evil Tracker will see a kill flash.
@@ -778,7 +778,7 @@ BomberInfoLong:(Impostors):\nBomber moze uzyc przycisku Shapeshift, aby samemu s
 ScavengerInfoLong:(Impostors):\nZabojstwa Scavengera nie zostawiaja cial.\nDodatkowo, jesli ofiara to Bait, nie zrobi selfa.
 TrapsterInfoLong:(Impostors):\nTrapster ma unikalna metode zabijania.\nPoprzez zainicjowanie zgloszenia ciala, Trapster moze wyeliminowac gracza, ktory sprobuje zglosic cialo zabite przez Trapstera.\nUwaga: Jesli Trapster zabije Baita, natychmiast zginie.
 GangsterInfoLong:(Impostors):\nThe Gangster, a powerful character, can try to recruit a player to a Madmate by pressing the Kill button. If the recruitment is successful, both the Gangster and the target will see the Shield Animation on each other as a reminder (only visible to each other). The remaining number of available recruits is displayed next to the Gangster's name (the Host sets the maximum). If the Gangster tries to recruit players who cannot be recruited, such as Neutrals or some special Crewmates, they will kill the target normally instead. When the Gangster has no remaining recruitments, they can only make normal kills from that point on.
-CleanerInfoLong:(Impostors):\nCleaner moze nacisnac przycisk Report, aby posprzatac martwe cialo, na jakie natrafi (w tym te, które zabije). Jeśli czyszczenie zakończy się sukcesem, Cleaner zobaczy animację tarczy na swoim ciele jako przypomnienie (widoczną tylko dla niego). Oczyszczone ciało nie może zostać zgłoszone (w tym Bait).
+CleanerInfoLong:(Impostors):\nCleaner moze nacisnac przycisk Report, aby posprzatac martwe cialo, na jakie natrafi (w tym te, które zabije). Jesli czyszczenie zakonczy sie sukcesem, Cleaner zobaczy animacje tarczy na swoim ciele jako przypomnienie (widoczna tylko dla niego). Oczyszczone cialo nie moze zostac zgloszone (w tym Bait).
 LightningInfoLong:(Impostors):\nAs the Lightning, you cannot kill normally. Instead, your Kill button quantizes targets, which activates after a delay, causing the next person they encounter to kill them. Those who are actively quantized show a「■」next to their name. Additionally, those who have been quantized die if they survive until the end of a meeting. There is a setting to quantize your killer.
 GreedyInfoLong:(Impostors):\nGreedy kills with odd and even kills will have different Kill Cooldowns. Greedy's Kill Cooldown is reset every meeting, and Greedy's first kill is always odd.
 CursedWolfInfoLong:(Impostors):\nGdy Cursed Wolf ma byc zabity, Cursed Wolf przeklina morderce na smierc.\n(Host ustala maksymalna liczbe razy, kiedy mozesz odpowiedziec kontratakiem).
@@ -786,7 +786,7 @@ SoulCatcherInfoLong:(Impostors):\nAs the Soul Catcher, you can use ShapeShift bu
 QuickShooterInfoLong:(Impostors):\nWhen the Kill Cooldown is over, QuickShooter can use the ShapeShift button to store a bullet. \nAfter a successful kill, if QuickShooter still has bullets remaining, he will immediately consume one bullet to reset the kill cooldown to zero. \nDepending on the host's settings, QuickShooter's ability may be restricted by the ShapeShift cooldown.
 CamouflagerInfoLong:(Impostors):\nGdy Camouflager uzywa Shapeshift, wszyscy gracze zaczynaja wygladac tak samo.\nTen stan konczy sie, gdy Camouflager przywraca swoja forme.\nWazne jest, aby zauwazyc, ze umiejetnosci takie jak Communication Sabotage Camouflage oraz umiejetnosci Camouflagera moga byc nakladane na siebie.\nTa umiejetnosc bedzie niewazna, jesli spotkanie zostanie wywolane podczas aktywacji umiejetnosci Camouflagera.
 EraserInfoLong:(Impostors):\nEraser moze glosowac na dowolny cel podczas spotkania, aby wymazac role tego celu, a wymazanie wejdzie w zycie po zakonczeniu spotkania.\nUwaga: Gracze z wymazanymi umiejetnosciami beda zawsze uwazani za role vanilla, w tym na stronie wyniku gry.\nCel moze zostac wymazany tylko raz (w tym OIIAI).
-ButcherInfoLong:(Impostors):\nZabojstwa Butchera, w tym pasywne, zostawiaja na celach kilka cial, co moze byc mylace przy zglaszaniu.\nOto zasada: zabity cel musi wielokrotnie wyswietlac animacje smierci, ktorej nie mozna pominac, i nie moze normalnie uczestniczyc w spotkaniu w tym czasie.\nJesli Butcher zabije Avengera, Avenger zemści sie na wszystkich w gniewie.
+ButcherInfoLong:(Impostors):\nZabojstwa Butchera, w tym pasywne, zostawiaja na celach kilka cial, co moze byc mylace przy zglaszaniu.\nOto zasada: zabity cel musi wielokrotnie wyswietlac animacje smierci, ktorej nie mozna pominac, i nie moze normalnie uczestniczyc w spotkaniu w tym czasie.\nJesli Butcher zabije Avengera, Avenger zemsci sie na wszystkich w gniewie.
 HangmanInfoLong:(Impostors):\nJako Hangman, podczas Shapeshiftingu uzywasz unikalnej metody zabijania – duszenia.\nTa metoda ignoruje wszelkie statusy celu, takie jak tarcza Medyka, ochrona Bodyguarda, umiejetnosci Super Stara itp.\nGracz uduszony nie zostawi po sobie ciala, ani nie uruchomi zadnej ze swoich umiejetnosci. Na przyklad, Veteran nie zareaguje (w tym dodatkowe role), a Seer nie zostanie powiadomiony.
 SwooperInfoLong:(Impostors):\nJako Swooper mozesz uzyc Ventow, aby tymczasowo zniknac. Nadal bedziesz widoczny na swoim ekranie. Uzyj Ventow ponownie, aby stac sie widocznym.
 CrewpostorInfoLong:(Team Impostor):\nYou kill the nearest player whenever you finish a task.
@@ -813,11 +813,11 @@ UnderdogInfoLong:(Impostors):\nAs the Underdog, you cannot kill until there's a 
 ConsigliereInfoLong:(Impostors):\nJako Consigliere mozesz ujawnic role innych graczy uzywajac swojego przycisku Kill.\n\nPojedyncze klikniecie: Ujawnij role\nPodwojne klikniecie: Zabij\n\nJesli wyczerpiesz uzycia ujawniania, twoj przycisk Kill dziala normalnie.
 LudopathInfoLong:(Impostors):\nAs the Ludopath, your Kill Cooldown is randomized.\n\nMinimum it can be is 1 second, while the maximum is your default Kill Cooldown.
 GodfatherInfoLong:(Impostors):\nAs the Godfather, you vote someone to make them your target.\nIn the next round, if someone kills the target, the killer will turn into a Refugee or Madmate.
-ChronomancerInfoLong:(Impostors):\nJako Chronomancer masz pasek energii, który wskazuje, kiedy tryb rzezi jest gotowy.\nGdy osiągnie 100%, przy następnym zabójstwie wchodzisz w tryb rzezi, co oznacza, że możesz zabijać bez końca, dopóki pasek energii się nie wyczerpie.\nW przeciwnym razie masz normalny KCD (Cooldown zabójstwa).
+ChronomancerInfoLong:(Impostors):\nJako Chronomancer masz pasek energii, który wskazuje, kiedy tryb rzezi jest gotowy.\nGdy osiagnie 100%, przy nastepnym zabójstwie wchodzisz w tryb rzezi, co oznacza, ze mozesz zabijac bez konca, dopóki pasek energii sie nie wyczerpie.\nW przeciwnym razie masz normalny KCD (Cooldown zabójstwa).
 PitfallInfoLong:(Impostors):\nAs the Pitfall, you use your Shapeshift to mark the area around the Shapeshift as a trap. Players who enter this area will be immobilized quickly, and their vision will be affected.
 EvilMiniInfoLong:(Impostors):\nAs the Evil Mini, you are unkillable until you grow up and have a very long initial Kill Cooldown, which gets drastically shortened as you grow up.
 BlackmailerInfoLong:(Impostors):\nAs the Blackmailer, when you Shift into a target, you will blackmail that player. This means that during the meetings, they won't be able to speak.\n\nNote: If someone is already blackmailed, blackmailing another person un-blackmails the current person.
-InstigatorInfoLong:(Impostors):\nJako Instigator twoim zadaniem jest obracanie Crewmates przeciwko sobie.\nZa kazdym razem, gdy Crewmate zostanie wyrzucony w glosowaniu, jesli jestes zywy, dodatkowy Crewmate, ktory glosowal na niewinna osobe, zginie po spotkaniu.\nLiczba dodatkowych graczy, którzy umierają, jest ustalana przez Hosta.
+InstigatorInfoLong:(Impostors):\nJako Instigator twoim zadaniem jest obracanie Crewmates przeciwko sobie.\nZa kazdym razem, gdy Crewmate zostanie wyrzucony w glosowaniu, jesli jestes zywy, dodatkowy Crewmate, ktory glosowal na niewinna osobe, zginie po spotkaniu.\nLiczba dodatkowych graczy, którzy umieraja, jest ustalana przez Hosta.
 LazyGuyInfoLong:(Crewmates):\nLazy Guy has only one task. In addition, the Impostor's abilities can't affect the Lazy Guy, such as being a scapegoat for Anonymous, being marked by a Warlock or Puppeteer, and more. Lazy Guy will not have any Add-ons.
 SuperStarInfoLong:(Crewmates):\nThere will be a star logo next to the Super Star's name, so everyone knows who the Super Star is. The Super Star can only die when the murderer is alone with the Super Star (regular kills only). In addition, the Guessers can't guess the Super Star. 
 CelebrityInfoLong:(Crewmates):\nAll Crewmates see the kill-flash when the Celebrity dies (same as the Seer sees the kill-flash) and get a notice at the next meeting. The Impostors don't know anything about this.
@@ -962,7 +962,7 @@ ShockerInfoLong:(Neutrals):\nAs the Shocker, you can mark rooms by doing tasks i
 CovenInfoLong:(Coven):\nCoven members are on a separate team that works together and wins together. If there are multiple Coven roles in the game, they can see each other's roles.\nDepending on the Host's settings, Coven roles can guess or be guessed.\nDo /coveninfo for more info.
 PoisonerInfoLong:(Coven):\nThe Poisoner can use their Kill button on a player to roleblock them. The next time the roleblocked player tries to use their ability, it will do nothing, and their Cooldown will be reset.\n<b>With the Necronomicon, you can double-click to kill. These kills will be delayed.</b>
 HexMasterInfoLong:(Coven):\nHex Master moze uzyc przycisku Kill, aby oznaczyc gracza symbolem 乂.\nJesli gracz ma ten symbol na koncu spotkania i Hex Master nie zginal – gracz umiera.\n<b>Z Necronomiconem (?) klatwa bedzie przekazywana dalej – podobnie jak bomba Agitatora. Mozesz tez kliknac dwukrotnie przycisk Kill, aby zabic normalnie.</b>
-JinxInfoLong:(Coven):\nJinx moze uzyc przycisku Kill, aby rzucic klatwe na gracza.\nKazdy, kto wejdzie w interakcje z przekletym graczem, zginie z przyczyna smierci Jinxed.\n<b>Z Necronomiconem Jinx moze uzyc podwojnego zabojstwa, aby zabic normalnie.\nDodatkowo, zarowno przeklety gracz, jak i ten, kto z nim wejdzie w interakcje, zginą.</b>
+JinxInfoLong:(Coven):\nJinx moze uzyc przycisku Kill, aby rzucic klatwe na gracza.\nKazdy, kto wejdzie w interakcje z przekletym graczem, zginie z przyczyna smierci Jinxed.\n<b>Z Necronomiconem Jinx moze uzyc podwojnego zabojstwa, aby zabic normalnie.\nDodatkowo, zarowno przeklety gracz, jak i ten, kto z nim wejdzie w interakcje, zgina.</b>
 MedusaInfoLong:(Coven):\nMedusa moze uzyc przycisku Kill, aby oznaczyc graczy jako Stoned (Skamieniali).\nGdy Medusa kliknie przycisk Shapeshift, wszyscy oznaczeni gracze nie beda mogli sie ruszac i beda mieli ograniczone pole widzenia przez konfigurowalny czas.\n<b>Z Necronomiconem zabici gracze beda niezglaszalni.</b>
 PotionMasterInfoLong:(Coven):\nPotion Master ma do dyspozycji dwie mikstury.\nMikstura Ujawnienia (Reveal) pokazuje role gracza.\nMikstura Bariery (Barrier) naklada na gracza tarcze na jedna runde – gracz nie zostanie o tym powiadomiony, chyba ze rowniez nalezy do Coven.\nKliknij przycisk Shapeshift, aby zmienic miksture.\n<b>Z Necronomiconem Potion Master moze kliknac dwukrotnie przycisk Kill, aby zabic.</b>
 NecromancerInfoLong:(Coven):\nAs the Necromancer, you can Shapeshift to become the role of a random dead person for a set duration.\nSome roles can not be used.\nOnce a role is used, it can not be used the rest of the game.\n<b>With the Necronomicon, when someone tries to kill you, you will block the kill and be teleported to a random Vent. You have a limited time to kill your killer. If the time runs out or you try to kill someone else, you die.</b>
@@ -1002,7 +1002,7 @@ CharmedInfoLong:(Betrayal Add-ons):\nThe Charmed Add-on is obtained by being cha
 CleansedInfoLong:(Add-ons):\nCleansed Add-on can only be obtained if cleanser erases all your Add-ons. Depending on the cleanser settings, you may not be able to obtain any more Add-ons in the future.
 InfectedInfoLong:(Betrayal Add-ons):\nThe Infected Add-on is obtained by being infected by the Infectious.\nOnce infected, you work for the Infectious and do not win with your original team.
 OnboundInfoLong:(Add-ons):\nZ dodatkiem Onbound nie mozesz zostac odgadnietym podczas meetingow.
-ReboundInfoLong:(Add-ons):\nZ dodatkiem Rebound, jesli Guesser poprawnie cie zgadnie lub Judge poprawnie cie osadzi, to oni zginą zamiast ciebie.\nJesli gracz z Double Shot zgadnie cie poprawnie, zginie natychmiast.
+ReboundInfoLong:(Add-ons):\nZ dodatkiem Rebound, jesli Guesser poprawnie cie zgadnie lub Judge poprawnie cie osadzi, to oni zgina zamiast ciebie.\nJesli gracz z Double Shot zgadnie cie poprawnie, zginie natychmiast.
 MundaneInfoLong:(Add-ons):\nJako Mundane mozesz zgadywac dopiero po ukonczeniu wszystkich zadan.
 KnightedInfoLong:(Add-ons):\nWhen a Monarch knights someone, they get an extra vote.
 UnreportableInfoLong:(Add-ons):\nWith the Disregarded Add-on, your corpse will be unreportable.
@@ -1813,7 +1813,7 @@ Altruist_CovenCanGetsArrow:<color=#ac42f2>Coven</color> dostana strzalki
 AltruistSuffix:<#00ffa5>Mode:</color> <b>{0}</b>
 AltruistReviveMode:Ozyw
 AltruistReportMode:Zglos
-Altruist_YouTriedReportRevivedDeadBody:Próbowales zglosić ozywione martwe cialo.
+Altruist_YouTriedReportRevivedDeadBody:Próbowales zglosic ozywione martwe cialo.
 Altruist_DeadPlayerHasBeenRevived:Martwy gracz zostal ozywiony!
 AltruistAbilityButton:Change Mode
 SnatchesWin:Snatches victory
@@ -2302,7 +2302,7 @@ NemesisKillDisable:Sorry, but according to Host's settings, Nemesis revenge is p
 NemesisKillMax:You've reached the maximum amount of kills, you can't kill anymore!
 CelebrityDead:Shock! Celebrity[{0}]has unfortunately been mercilessly killed in the recent period!
 CyberDead:Oh no! It appears the Cyber, <b>{0}</b>, has died recently.
-DetectiveNoticeVictim:Zgodnie z Twoim sledztwem,\nofiara ([{0}]) miała rolę [{1}].
+DetectiveNoticeVictim:Zgodnie z Twoim sledztwem,\nofiara ([{0}]) miala role [{1}].
 DetectiveNoticeKiller:\nRola zabojcy to [{0}]
 DetectiveNoticeKillerNotFound:Detektyw nie mogl znalezc dowodow wskazujacych na morderce. Ta smierc najprawdopodobniej jest samobojstwem.
 GodNoticeAlive:During the meeting, each player felt a revelation from heaven, and it turned out that God is still alive!
@@ -2334,7 +2334,7 @@ GuessWorkaholic:Sorry, nie mozesz zgadywac ujawnionego Workaholica, poniewaz byl
 GuessDoctor:Sorry, nie mozesz zgadywac ujawnionego Doktora, poniewaz byloby to nieuczciwe.
 GuessMayor:Sorry, nie mozesz zgadywac ujawnionego Mayora, poniewaz byloby to nieuczciwe.
 GuessKnighted:Sorry, Monarchowie nie moga zgadywac Knighted.
-GuessMonarch:Istnieje gracz z tytulem Knighted, wiec Monarch nie może byc zgadniety.
+GuessMonarch:Istnieje gracz z tytulem Knighted, wiec Monarch nie moze byc zgadniety.
 GuessShielded:Sorry, nie mozesz zgadywac gracza, którego Medic chroni.
 MayorRevealWhenDoneTasks:<color=#204d42>Mayor</color> is revealed to everyone on task completion
 MimicDeadMsg:Mimic's hint: 
@@ -2394,7 +2394,7 @@ SnitchDoneTasks:Call a meeting to find the Impostors
 SwooperCanVent:Ventuj aby stac sie niewidzialnym
 SwooperInvisState:Jestes niewidzialny
 SwooperInvisStateOut:Teraz jestes widoczny.
-SwooperInvisInCooldown:Cooldown na Swoop jeszcze nie minął. Swoop nie powiódł się.
+SwooperInvisInCooldown:Cooldown na Swoop jeszcze nie minal. Swoop nie powiódl sie.
 SwooperInvisStateCountdown:Niewidzialnosc zniknie za {0}s
 SwooperInvisCooldownRemain:Swoop Cooldown: {0}s
 WraithCanVent:Vent to turn invisible
@@ -3280,7 +3280,7 @@ RascalAppearAsMadmate:Appear as <color=#ff1919>Madmate</color> on Ejection
 CouncillorDead:Sorry, nie mozesz zabijac jako martwy.
 CouncillorMurderMaxMeeting:Sorry, wykorzystales maksymalna liczbe morderstw na meeting.
 CouncillorMurderMaxGame:Sorry, wykorzystales maksymalna liczbe morderstw na gre.
-Councillor_LaughToWhoMurderSelf:Hahaha, kto by pomyślał, że ktoś będzie na tyle głupi, żeby zabić samego siebie?\n\nChyba zdarzyło się to... TOBIE!
+Councillor_LaughToWhoMurderSelf:Hahaha, kto by pomyslal, ze ktos bedzie na tyle glupi, zeby zabic samego siebie?\n\nChyba zdarzylo sie to... TOBIE!
 Councillor_MurderKill:<b>{0}</b> zostal zabity.
 Councillor_MurderHelp:Command: /tl [ID gracza]\nYou can see the players' ID's before the players' names.\nOr use /id to view the list of all player ID's.
 Councillor_MurderNull:Wybierz zyjacego gracza do zamordowania.
