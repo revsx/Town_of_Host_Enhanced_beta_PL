@@ -414,7 +414,7 @@ Prohibited:Prohibited
 Eavesdropper:Eavesdropper
 Shocker:Shocker
 Revenant:Revenant
-EngineerTOHEInfo:Uzywaj Ventow, aby zlapac <color=#ff1919>Impostorow</color>
+EngineerTOHEInfo:Uzywaj Wentow, aby zlapac <color=#ff1919>Impostorow</color>
 ScientistTOHEInfo: Masz dostep do Vitalsow z dowolnego miejsca
 NoisemakerTOHEInfo:Wyslij powiadomienie, gdy zostaniesz zabity
 TrackerTOHEInfo:Sledz graczy za pomoca swojej mapy
@@ -431,59 +431,59 @@ VampireInfo:Twoje zabojstwa sa opoznione
 WarlockInfo:Przeklnij <color=#8cffff>Crewmate'ow</color>, a nastepnie Shift, aby zmusic ich do zabicia
 NinjaInfo:Oznacz cel, a nastepnie Shift, aby go zabic
 ZombieInfo:Jestes bardzo powolny
-AnonymousInfo:Force a player to report a body
-MinerInfo:Warp to your last used Vent by Shifting
-KillingMachineInfo:You can ONLY kill, but low Cooldown
-EscapistInfo:Shift to mark places and warp back to them
-WitchInfo:Spell Crewmates to kill them in meetings
-NemesisInfo:Kill when you're the last Impostor
-BeforeNemesisInfo:You can't kill yet
-AfterNemesisInfo:Now start killing
+AnonymousInfo:Zmus gracza do zgloszenia ciala
+MinerInfo:Przenies sie do ostatnio uzywanego Wenta poprzez Shift
+KillingMachineInfo:Mozesz TYLKO zabijac, ale masz niski Cooldown
+EscapistInfo:Shift, aby zaznaczyc miejsca i powrocic do niego
+WitchInfo:Zaklnij Crewmate'ow, aby zabic ich na meetingach
+NemesisInfo:Zabij, gdy bedziesz ostatnim Impostorem
+BeforeNemesisInfo:Nie mozesz jeszcze zabijac
+AfterNemesisInfo:Teraz mozesz zaczac zabijac
 BloodmoonInfo:Seek havoc upon the <color=#8cffff>Crewmates</color>
 PossessorInfo:Possess and lead <color=#8cffff>Crewmates</color> away from others
-PuppeteerInfo:Make players kill for you
-MastermindInfo:Make others kill for you
-TimeThiefInfo:Lower meeting time by killing
-SniperInfo:Snipe players from a distance by Shifting
-UndertakerInfo:Teleport dead body to a marked location
+PuppeteerInfo:Spraw, by gracze zabijali dla ciebie
+MastermindInfo:Spraw, by inni zabijali dla ciebie
+TimeThiefInfo:Skroc czas meetingu przez zabijanie
+SniperInfo:Ustrzel graczy z dystansu poprzez Shift
+UndertakerInfo:Teleportuj martwe cialo do oznaczonego miejsca
 RiftMakerInfo:Two rifts I trace, touch 'em to warp space
-EvilTrackerInfo:Track players by Shifting
-EvilHackerInfo:Hack systems
-AntiAdminerInfo:Know when players are near devices
-ArroganceInfo:With each kill you make, your Cooldown decreases
-BomberInfo:Shapeshift to explode
-TrapsterInfo:Trap your kills
-ScavengerInfo:Your kills are unreportable
-EvilGuesserInfo:Guess <color=#8cffff>Crewmate</color> roles in meetings to kill
-GangsterInfo:Convert players to your side
-CleanerInfo:Report bodies to make them unreportable
-LightningInfo:Convert players to Quantum Ghosts
-GreedyInfo:Your Kill Cooldown shifts
-CursedWolfInfo:You survive a few kill attempts
-SoulCatcherInfo:You swap places with your Shift target
-QuickShooterInfo:Store ammo to offset Kill Cooldown
-CamouflagerInfo:Camouflage everyone for easy kills
-EraserInfo:Erase the role of your vote target
-ButcherInfo:Enjoy my beautiful work
-HangmanInfo:I will decide when your life will end
-SwooperInfo:Turn invisible temporarily
-CrewpostorInfo:Kill by completing tasks
+EvilTrackerInfo:Sledz graczy poprzez Shiftowanie
+EvilHackerInfo:Zhakuj systemy
+AntiAdminerInfo:Wiedz, kiedy gracze znajduja sie w poblizu urzadzen
+ArroganceInfo:Z każdym twoim zabojstwem Cooldown zmniejsza sie
+BomberInfo:Shapeshiftoj, aby eksplodowac
+TrapsterInfo:Uwiez swoje ofiary
+ScavengerInfo:Twoje zabojstwa sa nie do zgloszenia
+EvilGuesserInfo:Odgadnij role <color=#8cffff>Crewmate'ow</color> podczas meetingu by ich zabic
+GangsterInfo:Konwertuj graczy na swoja strone
+CleanerInfo:Zglaszaj ciala, aby nie mozna bylo ich zglosic
+LightningInfo:Konwertuj graczy na Quantum Ghosts
+GreedyInfo:Twoj Kill Cooldown zmienia sie
+CursedWolfInfo:Przezyjesz kilka prob zabojstwa
+SoulCatcherInfo:Zamien sie miejscami ze swoim Shift celem
+QuickShooterInfo:Przechowuj amunicje do skompensowania Kill Cooldownu
+CamouflagerInfo:Zamaskuj wszystkich, aby latwiej zabijac
+EraserInfo:Usun role gracza na ktorego zaglosujesz
+ButcherInfo:Ciesz sie moim pieknym dzielem
+HangmanInfo:Zdecyduj, kiedy zakonczyc zywot gracza
+SwooperInfo:Stan sie tymczasowo niewidzialny
+CrewpostorInfo:Zabijaj, wykonując zadania
 WildlingInfo:Kill with strength and disguise
 TricksterInfo:Kill and trick the Crew
-VindicatorInfo:Use your extra votes to kill everyone
+VindicatorInfo:Uzyj dodatkowych glosow, aby wszystkich zabic
 ParasiteInfo:Help the Impostors kill the Crew
-DisperserInfo:Teleport everyone to random vents
-InhibitorInfo:You cannot kill during Sabotages
-SaboteurInfo:You can only kill during Sabotages
-CouncillorInfo:Kill off <color=#8cffff>Crewmates</color> during meetings
-DazzlerInfo:Reduce the vision of the Crew
+DisperserInfo:Teleportuj wszystkich do losowych ventow
+InhibitorInfo:Nie mozesz zabijac podczas Sabotazy
+SaboteurInfo:Mozesz zabijac tylko podczas Sabotazy
+CouncillorInfo:Wykoncz <color=#8cffff>Crewmate'ow</color> podczas meetingow
+DazzlerInfo:Ogranicz wizje Crewmate'ow
 DeathpactInfo:Assign players to a deathpact
-DevourerInfo:Consume the skin of the Crew
-ConsigliereInfo:Discover the roles of other players
-MorphlingInfo:You can only kill while Shapeshifted
-TwisterInfo:Swap all player positions
-LurkerInfo:Reduce your Kill Cooldown by venting
-ConvictInfo:Your target died, now help the Impostors
+DevourerInfo:Skonsumuj skore Crewmate
+ConsigliereInfo:Odkryj role innych graczy
+MorphlingInfo:Mozesz zabijac tylko podczas Shapeshiftowania
+TwisterInfo:Zamien pozycje wszystkich graczy
+LurkerInfo:Zmiejsz swoj Kill Cooldown wentujac
+ConvictInfo:Twoj cel zginal, teraz pomoz Impostorom
 VisionaryInfo:You see the alignments of the living
 RefugeeInfo:Help the Impostors kill off the Crew
 UnderdogInfo:Start killing on a low player count
@@ -492,22 +492,22 @@ GodfatherInfo:Convert players to Refugees by voting
 ChronomancerInfo:Kill in bursts
 PitfallInfo:Setup traps around the map
 EvilMiniInfo:No one can hurt you until you grow up
-BlackmailerInfo:Silence other players
+BlackmailerInfo:Ucisz innych graczy
 InstigatorInfo:Sow discord among the Crewmates
-LazyGuyInfo:You're too lazy
-SuperStarInfo:Everyone knows you
+LazyGuyInfo:Jestes zbyt leniwy
+SuperStarInfo:Wszyscy cie znaja
 CleanserInfo:Erase all Add-ons of your vote target
-KeeperInfo:Reject the eject, Keeper protect!
-MayorInfo:Your vote counts multiple times
-PsychicInfo:One of the red names is <color=#ff1919>evil</color>
-MechanicInfo:Vent around and fix Sabotages
+KeeperInfo:Anuluj wyrzucenie, Keeper ochroni!
+MayorInfo:Twoj glos liczy sie wielokrotnie
+PsychicInfo:Jedno z czerwonych imion jest <color=#ff1919>Zly</color>
+MechanicInfo:Wentuj i naprawiaj sabotaże
 SheriffInfo:Zastrzel <color=#ff1919>Impostorow</color>
-VigilanteInfo:Not the hero we deserved but the hero we needed
-JailerInfo:Jail suspicious players
-CopyCatInfo:Uzyj przycisku kill aby skopiowac role wybranego gracza
+VigilanteInfo:Bohater, na ktorego nie zaslugujemy, ale ktorego potrzebujemy
+JailerInfo:Aresztuj podejrzanych graczy
+CopyCatInfo:Uzyj przycisku Kill aby skopiowac role wybranego gracza
 SnitchInfo:Zakoncz swoje zadania, aby znalezc <color=#ff1919>Impostorow</color>
-MarshallInfo:Finish your tasks to prove your innocence
-DoctorInfo:Znasz przyczyne smierci graczy.
+MarshallInfo:Ukoncz zadania, aby udowodnic swoja niewinnosc
+DoctorInfo:Znasz przyczyne smierci graczy
 DictatorInfo:Osoba, na ktora zaglosujesz od razu zostanie wyrzucona.
 DetectiveInfo:Zglaszaj ciala, aby zdobyc informacje.
 UndercoverInfo:Impostorzy maja Cie za ich wspolnika.
@@ -556,23 +556,23 @@ CaptainInfo:Zegluj z Kapitanem, bo inaczej dodatki zostana porzucone.
 AdmirerInfo:Wybierz gracza, ktory przejdzie na Twoja strone 
 TimeMasterInfo:Czas wstecz!
 CrusaderInfo:Zabij osobe, ktora zaatakuje gracza
-AltruistInfo:Revive a player\nVent to change between Revive and Report
+AltruistInfo:Ozyw gracza\nWentuj aby przelaczac miedzy Ozywianie i Report
 ReverieInfo:Z kazdym zabojstwem, Twoj czas odnowienia zabojstwa sie zmniejsza
-LookoutInfo:See through disguises
-TelecommunicationInfo:Track device usage
+LookoutInfo:Przejrzyj przebrania
+TelecommunicationInfo:Sledz uzycie urzadzenia
 LighterInfo:Widzisz w ciemnosciach!
-TaskManagerInfo:See the total tasks completed in real time
-WitnessInfo:Find out if someone killed recently
-GhastlyInfo:Control somebody!
-SwapperInfo:Swap the votes of two players
+TaskManagerInfo:Zobacz calkowita liczbe ukonczonych zadan w czasie rzeczywistym
+WitnessInfo:Dowiedz sie, czy ktos zabil niedawno
+GhastlyInfo:Kontroluj kogos!
+SwapperInfo:Zamien glosy dwoch graczy
 ChiefOfPoliceInfo:Hire <color=#ffb347>Sheriffs</color> to serve the <color=#8cffff>Crewmates</color>!
 NiceMiniInfo:No one can hurt you until you grow up.
 ArsonistInfo:Polej kazdego benzyna i ich podpal.
-PyromaniacInfo:Douse and kill everyone
+PyromaniacInfo:Oblej i zabij wszystkich
 HuntsmanInfo:Kill your targets for a low cooldown
-SpyInfo:You know who interacts with you
-RandomizerInfo:You're going to be someone's burden when you die?
-EnigmaInfo:Get Clues about Killers
+SpyInfo:Wiesz, kto wchodzi z Toba w interakcje
+RandomizerInfo:Bedziesz czyims ciezarem, kiedy umrzesz?
+EnigmaInfo:Zdobywaj wskazowki na temat zabojcow
 JesterInfo:Daj sie wyglosowac
 OpportunistInfo:Dotrwaj do konca
 TerroristInfo:Ukoncz zadania, a potem daj sie wyeliminowac
@@ -587,8 +587,8 @@ RevolutionistInfo:Zrekrutuj graczy aby z Toba wygrali
 HaterInfo:Zabij <color=#ff9ace>Loversow</color> i <color=#00a4ff>Neptunow</color>
 DemonInfo:Zabieraj HP
 StalkerInfo:Zatop sie w ciemnosciach, zastrasz innych.
-WorkaholicInfo:Zakoncz wszystkie zadania, aby wygrac sam!
-SolsticerInfo:Speed run all your tasks!
+WorkaholicInfo:Ukoncz wszystkie zadania, aby wygrac sam!
+SolsticerInfo:Wykonaj szybko wszystkie swoje zadania!
 CollectorInfo:Kolekcjonuj glosy graczy
 ProvocateurInfo:Zabij, aby zwyciezyc
 BloodKnightInfo:Zabijanie daje Ci chwilowa tarcze
@@ -611,33 +611,33 @@ VirusInfo:Zabij i zainfekuj wszystkich.
 PursuerInfo:Ochron sie i dotrwaj do konca gry!
 PlagueDoctorInfo:Spread the infection!
 SpecterInfo:Daj sie zabic i skoncz taski aby wygrac!
-PirateInfo:Successfully plunder players to win
-AgitaterInfo:Pass a Bomb onto others
+PirateInfo:Pomyslnie spladruj graczy, aby wygrac
+AgitaterInfo:Przekaz Bombę innym
 MaverickInfo:Zabijaj i dotrwaj do konca
 CursedSoulInfo:Snatch souls and steal the win
 PickpocketInfo:Kradnij glosy od swoich ofiar
 TraitorInfo:Wyeliminuj <color=#ff1919>Impostorow</color>, a potem wygraj
 TrollerInfo:Make random event by complete task
 VultureInfo:Zjadaj ciala poprzez klikanie reportu, aby wygrac
-TaskinatorInfo:Silent tasks, deadly blasts
-BenefactorInfo:Task complete, shield elite!
+TaskinatorInfo:Ciche zadania, smiertelne wybuchy
+BenefactorInfo:Zadanie wykonane, tarcza gotowa!
 MedusaInfo:Stop players in their tracks by Stoning them
 SpiritcallerInfo:Turn Players into Evil Spirits
 AmnesiacInfo:Pamietaj role zmarlego gracza
-ImitatorInfo:Imitate a player's role
+ImitatorInfo:Nasladuj role gracza
 BanditInfo:Ukradnij modyfikacje gracza
-DoppelgangerInfo:Steal your target's identity
+DoppelgangerInfo:Ukradnij tozsamosc swojego celu
 PunchingBagInfo:Daj sie zaatakowac pare razy, aby wygrac.
 KamikazeInfo:Kill players with a suicidal mission
 DoomsayerInfo:Odgadnij role graczy aby wygrac
 ShroudInfo:Shroud players to make them kill
-WerewolfInfo:Maul everyone in the darkness
+WerewolfInfo:Zmiazdz wszystkich w ciemnosci
 ShamanInfo:Deflect all the attacks on Voodoo doll
 SeekerInfo:Play Hide and Seek with your target
 PixieInfo:Tag 'em, Bag 'em, and Eject 'em!
 OccultistInfo:Kill and curse your enemies
-SchrodingersCatInfo:The Cat is both alive and dead until observed.
-RomanticInfo:Protect your partner to win together
+SchrodingersCatInfo:Kot jest zarowno zywy, jak i martwy, dopoki nie zostanie zauwazony
+RomanticInfo:Chron swojego partnera, aby wspolnie wygrywac
 VengefulRomanticInfo:Revenge your partner to win together
 RuthlessRomanticInfo:Kill everyone to win with your partner
 WraithInfo:Zwentuj aby chwilowo stac sie niewidzialnym
@@ -654,15 +654,15 @@ IllusionistInfo:Place Illusions on players to spread confusion!
 VoodooMasterInfo:Craft Voodoo Dolls of other players!
 SacrifistInfo:Debuff your enemies at your own cost
 MoonDancerInfo:Use Baton Pass to give out Add-ons!
-WardenInfo:(Ghost) Alert about danger
-MinionInfo:(Ghost) Blind enemies
+WardenInfo:(Ghost) Ostrzegaj o zagrozeniu
+MinionInfo:(Ghost) Oslep wrogow
 LoversInfo:Wytrwajcie do konca i wygrajcie razem.
 MadmateInfo:Pomoz Impostorom
 WatcherInfo:Widzisz kto na kogo glosuje.
 LastImpostorInfo:Niski czas odnowienia zabojstwa.
 OverclockedInfo:Lower cooldown
 FlashInfo:Jestes szybszy.
-TorchInfo:You have enhanced vision!
+TorchInfo:Masz lepszy wzrok!
 SeerInfo:Dostajesz powiadomienie, gdy ktos umiera.
 TiebreakerInfo:Eliminuj remisy
 ObliviousInfo:Nie mozesz zglaszac cial.
@@ -671,7 +671,7 @@ WorkhorseInfo:Skoncz wszystkie taski, aby dodac dodatkowe taski graczom
 FoolInfo:Nie mozesz naprawiac sabotazy.
 AvangerInfo:Gdy umierasz, bierzesz kogos ze soba
 YoutuberInfo:Daj sie zabic jako pierwszy aby wygrac
-CelebrityInfo:Everyone knows when you die
+CelebrityInfo:Wszyscy wiedza, kiedy umierasz
 EgoistInfo:Wygraj solo.
 StealerInfo:Zyskuj glosy wraz z zabojstwami.
 ParanoiaInfo:Jestes zywy i martwy jednoczesnie 
@@ -682,7 +682,7 @@ ReachInfo:Masz wiekszy zasieg killa
 BaitInfo:Ten kto Cie zabije od razu zglasza Twoje cialo.
 TrapperInfo:Zamroz swojego morderce na kilka sekund.
 OnboundInfo:Nie da sie Ciebie odgadnac.
-ReboundInfo:Guess me right, and face your plight!
+ReboundInfo:Prawidlowo mnie odgadnij i staw czola swojej trudnej sytuacji!
 MundaneInfo:Tasks all done, guessing's begun.
 UnreportableInfo:Twoje cialo nie moze zostac zgloszone.
 LuckyInfo:Twoj zabojca moze w Ciebie nie trafic.
@@ -716,11 +716,11 @@ ClumsyInfo:Mozesz nie trafic w przcysik kill
 NimbleInfo:You can vent now!
 CircumventInfo:You can no longer vent
 OiiaiInfo:OIIAIOIIIAI
-CyberInfo:You're popular!
+CyberInfo:Jestes popularny!
 HurriedInfo:God I got too much stuffs!
 InfluencedInfo:You lack decisiveness!
-SilentInfo:Vote like a Ghost!
-SusceptibleInfo:Deathreason lotto!
+SilentInfo:Glosuj jak duch!
+SusceptibleInfo:Loteria przyczyny smierci!
 TrickyInfo:Tricky slays, in mysterious ways.
 TiredInfo:Labor makes you sleepy.. Zzz..
 StatueInfo:You're still as a rock around people
@@ -822,14 +822,13 @@ LazyGuyInfoLong:(Crewmates):\nLazy Guy has only one task. In addition, the Impos
 SuperStarInfoLong:(Crewmates):\nThere will be a star logo next to the Super Star's name, so everyone knows who the Super Star is. The Super Star can only die when the murderer is alone with the Super Star (regular kills only). In addition, the Guessers can't guess the Super Star. 
 CelebrityInfoLong:(Crewmates):\nAll Crewmates see the kill-flash when the Celebrity dies (same as the Seer sees the kill-flash) and get a notice at the next meeting. The Impostors don't know anything about this.
 CleanserInfoLong:(Crewmates):\nAs The Cleanser, you can vote to erase the Add-ons of any target at the meeting. This erasure takes effect after the meeting ends. Depending on the settings, the cleansed player may never receive Add-ons again.
-KeeperInfoLong:(Crewmates):\nAs keeper, you can vote for someone to protect them from being ejected. You can only do this a configurable number of times.
+KeeperInfoLong:(Crewmates):\nJako Keeper mozesz zaglosowac na kogos, aby uchronic go przed wyrzuceniem. Mozna to zrobic tylko okreslona liczbe razy.
 MayorInfoLong:(Crewmates):\nAs the Mayor, you have extra votes. Depending on the settings, players can't see your extra votes, you can Vent to call a meeting at any time, or you can have yourself revealed as Mayor upon task completion.
 PsychicInfoLong:(Crewmates):\nThe Psychic can see the names of several players highlighted in red during the meeting; at least one of them is evil. The Psychic will correctly see all Neutrals and Killing Crewmates displayed as red names when becoming a Madmate.
 MechanicInfoLong:(Crewmates):\nThe Mechanic can use Vents at any time. They can also fix Reactors, O2, and Communications using only one side. You can fix Lights by flicking only one switch. Opening a door will open all doors in the map.
 SheriffInfoLong:(Crewmates):\nSzeryf nie ma taskow. Szeryf moze zabic Impostorow (w zaleznosci od ustawien, moze tez zabijac role neutralne). Jezeli Szeryf sprobuje zabic Crewmate'a, sam zginie. Szeryf moze zabijac kazdego jezeli zostanie Madmate'm (w zaleznosci od ustawien).
 VigilanteInfoLong:(Crewmates):\nAs the Vigilante, you are tasked with eliminating potential threats to the Crewmates, but if they mistakenly kill an innocent Crew member, they become a Madmate driven by guilt and remorse.\n\n Note: Gangster cannot convert Vigilante into Madmate.
-JailerInfoLong:(Crewmates):\nAs the Jailer, use your Kill button to lock a player in jail. During the next meeting, the jailed player cannot vote or get voted (the vote count will be 0). The Jailer may choose to execute the prisoner by voting for them. If the Jailer executes an innocent player, the Jailer loses the ability to execute for the rest of the game.\nIf the Jailer is evil, then they can execute anyone.\nThe Jailer has limited executions.\n\nNote: Jailed players cannot be guessed or judged, and jailed players can only guess Jailer.
-SnitchInfoLong:(Crewmates):\nJezeli Snitch aka Konfitura aka Sprzedawczyk aka Player skonczy wszystkie taski, zobaczy nick Impostora wyswietlony na czerwono podczas spotkania. Kiedy Snitch ma ostatniego taska, Impostorzy zobacza「⚠」przy swoim nicku jak i przy nicku Snitcha. Kiedy Snitch zostanie Madmate'm - znacznik「⚠」 zmienia sie na czerwono.
+JailerInfoLong:(Crewmates):\nJako Jailer uzyj przycisku Kill, aby zamknac gracza w wiezieniu. Podczas nastepnego meetingu uwieziony gracz nie moze glosowac ani zostac wyglosowany (liczba glosow wyniesie 0). Jailer moze dokonac egzekucji wieznia, glosujac na niego. Jesli Jailer dokona egzekucji niewinnego gracza, straci mozliwosc wykonywania egzekucji do konca gry. \nJesli Jailer jest zly, moze wykonac egzekucje na kazdym. \nUwaga: Uwiezieni gracze nie moga zostać odgadnieci ani osadzeni, a uwiezieni gracze moga jedynie probowac odgadnac Jailera.
 MarshallInfoLong:(Crewmates):\nAs the Marshall, complete your tasks to reveal yourself to the rest of the Crewmates.\nOther teams will not be able to see you.\nHowever, Madmates CAN see you.
 DoctorInfoLong:(Crewmates):\nDoktor widzi przyczyne smierci martwych graczy. W dodatku, Doktor ma dostep do Vitalsow gdziekolwiek jest, o ile ma dalej naladowana baterie.
 DictatorInfoLong:(Crewmates):\nWhen the Dictator votes for someone, the meeting will end on the spot, and the player they voted for will be ejected from the meeting. The moment the Dictator votes someone out, the Dictator will also die.\nIf the setting to use the command is on, the Dictator will have to use '/exp id' in order to exile someone. The Dictator will be able to vote normally.
@@ -897,8 +896,8 @@ JesterInfoLong:(Neutrals):\nJesli Jester zostanie wyrzucony w glosowaniu, wygryw
 TerroristInfoLong:(Neutrals):\nJesli Terrorist zginie po ukonczeniu wszystkich zadan, wygrywa gre sam.\n(Moze wygrac zostajac wyrzuconym lub zabitym).
 ExecutionerInfoLong:(Neutrals):\nThe Executioner is a role with an execution target, indicated by a diamond symbol「♦」next to their name. If the execution target is killed, the Executioner's role will change to Crewmate, Jester, or Opportunist, depending on the game settings. However, if the execution target is voted out in the meeting, the Executioner wins. Note: Jester, Executioner, and Innocent can win together.
 LawyerInfoLong:(Neutrals):\nLawyer ma cel do obrony, ktory zostanie oznaczony diamentem 「♦」 przy jego imieniu.\nJesli twoj cel wygra, ty tez wygrywasz.\nJesli przegra, ty tez przegrywasz.
-OpportunistInfoLong:(Neutrals):\nIf the Opportunist survives at the end of the game, the Opportunist will win with the winning player.
-VectorInfoLong:(Neutrals):\nVector will win alone by Venting a certain number of times.
+OpportunistInfoLong:(Neutrals):\nJesli Opportunist przetrwa do konca gry, wygra z wygrywajacym graczem.
+VectorInfoLong:(Neutrals):\nVector wygra sam, wentujac okreslona liczbe razy.
 JackalInfoLong:(Neutrals):\nJako Jackal wygrywasz, jesli zostaniesz ostatnim zyjacym graczem.\nDodatkowo mozesz rekrutowac uzywajac przycisku Kill.\nJesli cel nie moze byc zrekrutowany, wyczerpales uzycia lub nie masz opcji rekrutacji, zabijesz normalnie (nie uzywaj przycisku Kill przy innych myslac, ze to zrekrutuje).\nJesli cel ma przycisk Kill i wlaczona opcje przemiany w Sidekicka, stanie sie Sidekickiem.\nW przeciwnym razie otrzyma dodatek Recruit, jesli opcja jego nadawania jest wlaczona.\nW zaleznosci od ustawien, gdy Jackal zostanie zabity, Sidekick moze zostac losowo wybrany na nowego Jackala.\nRecruit moze zostac wybrany, jesli nie zyje zaden Sidekick.
 GodInfoLong:(Neutrals):\nAs the God, you know everyone's role from the beginning. If you live until the end of the game, you steal the win, i.e., everyone else loses, and you win.
 InnocentInfoLong:(Neutrals):\nThe Innocent can use the Kill button to plant any player, and the planted target will immediately kill the Innocent. If the target gets voted out in the meeting, the Innocent wins. Note: Jester, Executioner, and Innocent can win together.
@@ -943,7 +942,7 @@ TaskinatorInfoLong:(Neutrals):\nJako Taskinator, za kazdym razem gdy ukonczysz z
 BenefactorInfoLong:(Crewmates):\nAs the Benefactor, whenever you finish a task, that task will be marked. When another player completes the marked task, they get a temporary shield.\n\n Note: Shield only protects from direct kill attacks.
 SpiritcallerInfoLong:(Neutrals):\nAs the Spiritcaller, your victims become Evil Spirits after they die. These spirits can help you win by freezing other players briefly or blocking their vision. Alternatively, the spirits can give you a shield that protects you briefly from an attempted kill.
 AmnesiacInfoLong:(Neutrals):\nAs the Amnesiac, use your report button to remember a target and get its role.\nTo balance the game, you will not be able to Vent after remembering your role if you can't Vent as Amnesiac.'
-ImitatorInfoLong:(Neutrals):\nAs the Imitator, use your Kill button to imitate a player.\n\nYou'll either become a Sheriff, a Refugee, or some Neutral.
+ImitatorInfoLong:(Neutrals):\nJako Imitator, uzyj przycisku Kill, aby nasladowac gracza. \n\nStaniesz się albo Sheriffem, albo Refugee, albo kimś neutralnym.
 BanditInfoLong:(Neutrals):\nAs the Bandit, you can click your Kill button one time to steal a player's Add-on and twice to kill. Depending on the settings, you may instantly steal the Add-on or after the meeting starts. After the maximum number of steals is reached, you will kill normally. Additionally, if there are no stealable Add-ons on the target or the target is Stubborn, you will kill the target.\n\nKill everyone to win.\n\nNote: Cleansed, Last Impostor, and Lovers cannot be stolen.\nNote: If Bandit can Vent is on, Nimble will become unstealable.
 DoppelgangerInfoLong:(Neutrals):\nJako Doppelganger uzyj przycisku Kill, aby ukrasc tozsamosc gracza (jego imie i skina), a nastepnie zabij swoj cel.\n\nZabij wszystkich, aby wygrac.\n\nUwaga: Nie mozesz ukrasc tozsamosci celu, gdy aktywny jest Camouflage.
 PunchingBagInfoLong:(Neutrals):\n\nJako Worek Treningowy (Punching Bag) Twoim celem jest zostac zaatakowanym kilka razy, aby wygrac.\n\nNie mozesz byc zgadywany, poniewaz to dodaje do twojego licznika atakow.
@@ -986,7 +985,7 @@ TiebreakerInfoLong:(Add-ons):\nGdy dojdzie do remisu w glosowaniu, wyglosowany z
 ObliviousInfoLong:(Add-ons):\nDetective and Cleaners won't be Oblivious. The Oblivious cannot report dead bodies. Note: Bait killed by Oblivious will still report automatically, and Oblivious can still be used as a scapegoat for Anonymous.
 BewilderInfoLong:(Add-ons):\nBewilder may have a smaller/bigger vision. When the Bewilder has died, the murderer's vision may become the same as the Bewilder's, depending on the settings.
 WorkhorseInfoLong:(Add-ons):\nThe first player to complete all the tasks will become Workhorse, and Workhorse will give the player extra tasks. The Host sets the number of additional tasks.
-FoolInfoLong:(Add-ons):\nSleuth and Mechanic won't be Fool. Fools can't repair any Sabotage.
+FoolInfoLong:(Add-ons):\nSleuth i Mechanic nie beda Fools. Fools nie moga naprawic zadnego Sabotazu.
 AvangerInfoLong:(Add-ons):\nHost can set whether the Impostor can become an Avenger. When the Avenger is killed (voted out, and irregular kills will not count), the Avenger will revenge a random player.
 YoutuberInfoLong:(Add-ons):\nOnly Crewmate will become YouTuber. When the YouTuber is the first player to die in the game, the YouTuber will win alone. If the YouTuber does not meet the win conditions, the YouTuber will follow the Crewmate to win. Note: Indirect killing methods such as being exiled, being guessed by the Guesser, etc., will not trigger the skills of the YouTuber.
 EgoistInfoLong:(Add-ons):\nMadmate and Neutrals won't be Egoist. If the Egoist's team wins, the Egoist wins instead of their team.
@@ -1001,9 +1000,9 @@ TrapperInfoLong:(Add-ons):\nWhen Beartrap dies, Beartrap immobilizes killer for 
 CharmedInfoLong:(Betrayal Add-ons):\nThe Charmed Add-on is obtained by being charmed by the Cultist.\nOnce charmed, you are now on the Cultist's team and no longer on your original team.
 CleansedInfoLong:(Add-ons):\nCleansed Add-on can only be obtained if cleanser erases all your Add-ons. Depending on the cleanser settings, you may not be able to obtain any more Add-ons in the future.
 InfectedInfoLong:(Betrayal Add-ons):\nThe Infected Add-on is obtained by being infected by the Infectious.\nOnce infected, you work for the Infectious and do not win with your original team.
-OnboundInfoLong:(Add-ons):\nWith the Onbound Add-on, you cannot be guessed in meetings.
+OnboundInfoLong:(Add-ons):\nZ dodatkiem Onbound nie mozesz zostac odgadnietym podczas meetingow.
 ReboundInfoLong:(Add-ons):\nZ dodatkiem Rebound, jesli Guesser poprawnie cie zgadnie lub Judge poprawnie cie osadzi, to oni zginą zamiast ciebie.\nJesli gracz z Double Shot zgadnie cie poprawnie, zginie natychmiast.
-MundaneInfoLong:(Add-ons):\nAs Mundane, you can only guess once you complete all of your tasks.
+MundaneInfoLong:(Add-ons):\nJako Mundane mozesz zgadywac dopiero po ukonczeniu wszystkich zadan.
 KnightedInfoLong:(Add-ons):\nWhen a Monarch knights someone, they get an extra vote.
 UnreportableInfoLong:(Add-ons):\nWith the Disregarded Add-on, your corpse will be unreportable.
 ContagiousInfoLong:(Betrayal Add-ons):\nWhen the Virus infects you, you become contagious.\nContagious players are on the Virus team.\n\nWhether or not you die after a meeting depends on the settings for the Virus.
