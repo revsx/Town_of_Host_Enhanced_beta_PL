@@ -187,7 +187,7 @@ Snitch:Snitch
 Marshall:Marshall
 Doctor:Doctor
 Dictator:Dictator
-Detective:Detective
+Detective:Detektyw
 NiceGuesser:Nice Guesser
 GuessMaster:Guess Master
 Transporter:Transporter
@@ -499,7 +499,7 @@ SuperStarInfo:Wszyscy cie znaja
 CleanserInfo:Erase all Add-ons of your vote target
 KeeperInfo:Anuluj wyrzucenie, Keeper ochroni!
 MayorInfo:Twoj glos liczy sie wielokrotnie
-PsychicInfo:Jedno z czerwonych imion jest <color=#ff1919>Zly</color>
+PsychicInfo:Jedno z czerwonych imion jest <color=#ff1919>Zle</color>
 MechanicInfo:Wentuj i naprawiaj sabotaże
 SheriffInfo:Zastrzel <color=#ff1919>Impostorow</color>
 VigilanteInfo:Bohater, na ktorego nie zaslugujemy, ale ktorego potrzebujemy
@@ -824,7 +824,7 @@ CelebrityInfoLong:(Crewmates):\nAll Crewmates see the kill-flash when the Celebr
 CleanserInfoLong:(Crewmates):\nAs The Cleanser, you can vote to erase the Add-ons of any target at the meeting. This erasure takes effect after the meeting ends. Depending on the settings, the cleansed player may never receive Add-ons again.
 KeeperInfoLong:(Crewmates):\nJako Keeper mozesz zaglosowac na kogos, aby uchronic go przed wyrzuceniem. Mozna to zrobic tylko okreslona liczbe razy.
 MayorInfoLong:(Crewmates):\nAs the Mayor, you have extra votes. Depending on the settings, players can't see your extra votes, you can Vent to call a meeting at any time, or you can have yourself revealed as Mayor upon task completion.
-PsychicInfoLong:(Crewmates):\nThe Psychic can see the names of several players highlighted in red during the meeting; at least one of them is evil. The Psychic will correctly see all Neutrals and Killing Crewmates displayed as red names when becoming a Madmate.
+PsychicInfoLong:(Crewmates):\nPsychic moze zobaczyc imiona kilku graczy podswietlonych na czerwono podczas spotkania; przynajmniej jeden z nich jest zly. Psychic poprawnie zobaczy wszystkich Neutralnych i Zabijajacych Crewmates, ktorzy beda wyswietlani jako czerwone imiona, gdy stanie sie Madmate.
 MechanicInfoLong:(Crewmates):\nThe Mechanic can use Vents at any time. They can also fix Reactors, O2, and Communications using only one side. You can fix Lights by flicking only one switch. Opening a door will open all doors in the map.
 SheriffInfoLong:(Crewmates):\nSzeryf nie ma taskow. Szeryf moze zabic Impostorow (w zaleznosci od ustawien, moze tez zabijac role neutralne). Jezeli Szeryf sprobuje zabic Crewmate'a, sam zginie. Szeryf moze zabijac kazdego jezeli zostanie Madmate'm (w zaleznosci od ustawien).
 VigilanteInfoLong:(Crewmates):\nAs the Vigilante, you are tasked with eliminating potential threats to the Crewmates, but if they mistakenly kill an innocent Crew member, they become a Madmate driven by guilt and remorse.\n\n Note: Gangster cannot convert Vigilante into Madmate.
@@ -838,7 +838,7 @@ UndercoverInfoLong:(Crewmates):\nThe Impostors knows who Undercover is and sees 
 NiceGuesserInfoLong:(Crewmates):\nNice Guesser moze zgadnac role pewnych graczy podczas spotkania. Jezeli odgadnie poprawnie, zabije te osobe, jezeli sie pomyli - zrobi samoboja.\nKomenda na odgadywanie to: /bt [id gracza] [rola]\nMozesz zobaczyc id graczy obok nazw graczy albo uzyj komendy /id aby wyswietlic id wszystkich.\nNice Guesser moze zgadywac Crewmate'ow jezeli zostanie Madmate'm.
 GuessMasterInfoLong:(Crewmates):\nAs the Guess Master, you will receive information about every attempted guess made during a meeting. You will be informed about the role the Guesser tried to guess, and you will also be notified in case of a misguess.
 KnightInfoLong:(Crewmates):\nThe Knight has no tasks. They can kill anyone but only do it once the whole game.
-TransporterInfoLong:(Crewmates):\nWhenever the Transporter completes the task, two random players will switch positions, but if there are not enough players left, nothing will happen. Note: Players in a Vent will not be selected.
+TransporterInfoLong:(Crewmates):\nZa kazdym razem, gdy Transporter wykona zadanie, dwoch losowych graczy zamieni sie miejscami, ale jesli nie bedzie wystarczajaco graczy, nic sie nie stanie.\nUwaga: Gracze w Vencie nie beda wybrani.
 TimeManagerInfoLong:(Crewmates):\nThe more tasks the Time Manager does, the longer the meeting time will be. When the Time Manager dies, the meeting time will return to normal. When the Time Manager becomes a Madmate, the skill changes to reducing the meeting time instead of increasing it.
 VeteranInfoLong:(Crewmates):\n\nJako Veteran mozesz wejsc w stan czujnosci przez uzycie Ventu.\nJesli gracz sprobuje zabic Vetarana w stanie czujnosci, Veteran zabije morderce zamiast tego.\nVeteran zobaczy animacje tarczy na swoim ciele oraz tekst nad glowa jako przypomnienie przy wejsciu i wyjsciu ze stanu czujnosci.
 BastionInfoLong:(Crewmates):\nJako Bastion, zaminuj Venty, aby zabic Impostorow i Neutrali.\nUwarzaj jednak; Czlonkowie Zalogi rowniez moga zostac zabici przez bomby.
@@ -856,7 +856,7 @@ MonarchInfoLong:(Crewmates):\nAs the Monarch, you can knight players to give the
 PacifistInfoLong:(Crewmates):\nWhen the Pacifist Vents, they will reset the Kill Cooldown for every player with a Kill button. When they become a Madmate, this ability will only work on Crewmates.
 OverseerInfoLong:(Crewmates):\nAs The Overseer, you have minimal vision, but you can use your Kill button to reveal the role of a nearby player. A 「○」 will be displayed next to the revealed target after you use the Kill button on them, and you will also be scanning them (only you can see this). Stay near the target for a defined time to reveal his role; if you move too far away, the reveal will cancel.
 CoronerInfoLong:(Crewmates):\nJako Coroner, nie mozesz zglaszac cial; zamiast tego, po probie zgloszenia ciala pojawi Ci sie strzalka prowadzaca do zabojcy. Jezeli ktos zwola spotkanie - strzalka zniknie. W zaleznosci od ustawien, gracze nie moga zglaszac cial, ktore Ty znalazles
-PresidentInfoLong:(Crewmates):\nThe President has two abilities: End the meeting and Reveal identity.\n\n+ Ability 1: End the meeting - Type /finish in meetings as President to instantly end the meeting.\n+ Ability 2: Reveal identity - Type /reveal in meetings to reveal yourself. Revealing yourself will make it so every player can see that you are the President, and you will become unguessable after typing the command. However, after the President has revealed themselves, whoever killed the President will have their kill CD greatly reduced on their next kill.
+PresidentInfoLong:(Crewmates):\nPrezydent ma dwie umiejetnosci: Zakoncz spotkanie i Ujawnij tozsamosc.\n\n+ Umiejetnosc 1: Zakoncz spotkanie - Wpisz /finish podczas spotkania jako Prezydent, aby natychmiast zakonczyc spotkanie.\n+ Umiejetnosc 2: Ujawnij tozsamosc - Wpisz /reveal podczas spotkania, aby ujawnic siebie. Ujawnienie siebie sprawi, ze kazdy gracz zobaczy, ze jestes Prezydentem, a po wpisaniu komendy staniesz sie niezgadywalny. Jednak po tym, jak Prezydent ujawni siebie, osoba, ktora zabije Prezydenta, bedzie miec znacznie zmniejszony CD zabojstwa przy nastepnym zabojstwie.
 MerchantInfoLong:(Crewmates):\nJako Merchant, sprzedajesz losowy dodatek (Add-on) losowej osobie za kazdy wykonany task. Kazdy sprzedany dodatek daje Ci pieniadze. Jezeli masz okreslona liczbe pieniedzy, mozesz ochronic sie przed smiercia przekupujac swojego morderce. Przekupiony gracz nie bedzie mogl Cie zabic, ale nie bedziesz wiedziec kim on jest. Uzyte pieniadze sa usuwane i nie mozesz ich uzyc na kolejne przekupstwa.
 RetributionistInfoLong:(Crewmates):\nAs the Retributionist, you can kill a limited amount of players after your death.\n\nUse /ret [playerID] to kill.
 HawkInfoLong:(Crewmates [Ghost]):\nAs the Hawk, you can kill a limited amount of players decided by the Host, though there's a chance you miss, slicing someone multiple times increases the chances.
@@ -883,13 +883,13 @@ TelecommunicationInfoLong:(Crewmates):\nJako Telecommunication jestes powiadamia
 LighterInfoLong:(Crewmate):\nAs the Lighter, you can Vent to increase your vision temporarily.\nYou have increased vision both when lights are not out and when lights are out.\nUse this power to catch sneaky killers!
 TaskManagerInfoLong:(Crewmates):\nYou see the total number of tasks completed (by everyone all together) next to your role name, which updates in real-time.
 WitnessInfoLong:(Crewmates):\nAs the Witness, when you use your Kill button on someone, you will know if they killed in the last X seconds or not. (X depends on the settings).
-SwapperInfoLong:(Crewmates):\nAs the Swapper, you can swap votes in meetings.\n\nTo swap votes, use '/sw [playerID]' twice.\n\nPlayer ID's are displayed next to player names in meetings, but you can also use /id to get a list of all player ID's.\n\nNote: Depending on the Host's settings, you can exchange your own votes.
+SwapperInfoLong:(Crewmates):\nJako Swapper mozesz zamieniac glosy podczas spotkan.\n\nAby zamienic glosy, uzyj '/sw [playerID]' dwa razy.\n\nID graczy sa wyswietlane obok ich imion podczas spotkan, ale mozesz tez uzyc /id, aby uzyskac liste wszystkich ID graczy.\n\nUwaga: W zaleznosci od ustawien Hosta, mozesz wymieniac swoje wlasne glosy.
 ChiefOfPoliceInfoLong:(Crewmates):\nAs the Chief of Police, you can recruit a player to be a Sheriff(only once per game).\nDepending on the settings, you may recruit non-Crewmates or players without a Kill button.\nYou may suicide when you recruit a wrong player.
 NiceMiniInfoLong:(Crewmates):\nAs a Nice Mini, your survival is crucial. You can't be killed until you grow up, and if you die or are evicted from the meeting before you grow up, everyone loses. This unique role adds a new dynamic to the game, where your survival is not just for your benefit but for the entire Crew's success.
-SpyInfoLong:(Crewmates):\nJako Spy, kiedy ktos uzyje na Tobie przycisk Kill (dowolna umiejetnosc uzyta przez przycisk Kill), zobaczysz ich nick na pomaranczowo na kilka sekund.\nNote: Jezeli Crewmate'e uzyje na Tobie mocy, rowniez zobaczysz go na pomaranczowo!\nNote: Jezeli skoncza Ci sie uzycia swojej mocy, nie zobaczysz nazw na pomaranczowo!\nNote: Jesli interakcja z przyciskiem Kill zostanie zablokowana, odliczanie gracza zostanie zresetowane do 10s.'
+SpyInfoLong:(Crewmates):\nJako Spy, kiedy ktos uzyje na Tobie przycisk Kill (dowolna umiejetnosc uzyta przez przycisk Kill), zobaczysz ich nick na pomaranczowo na kilka sekund.\nNote: Jezeli Crewmate'e uzyje na Tobie mocy, rowniez zobaczysz go na pomaranczowo!\nNote: Jezeli skoncza Ci sie uzycia swojej mocy, nie zobaczysz nazw na pomaranczowo!\nNote: Jesli interakcja z przyciskiem Kill zostanie zablokowana, odliczanie gracza zostanie zresetowane do 10s.
 RandomizerInfoLong:(Crewmates):\nAs this Randomizer, when you die, your killer will do one of the following:\n  1. self-report your body\n  2. stand next to your body\n  3. have their Kill Cooldown set to 600s\n  4. Randomly avenge a player.
 ArsonistInfoLong:(Neutrals):\nArsonist moze oblac gracza klikajac przycisk Kill i podazajac za nim przez kilka sekund.\nGdy oblewanie sie rozpocznie i powiedzie, pojawi sie animacja tarczy jako przypomnienie (widoczna tylko dla niego).\nGdy Arsonist obleje wszystkich zyjacych graczy, moze uzyc Ventu, aby ich podpalic i wygrac samemu.\n\nJesli nazwa gracza pokazuje 「△」, oznacza to, ze jest oblewany;\njezeli pokazuje 「▲」, oznacza to, ze zostal calkowicie oblany.\nW zaleznosci od ustawien Arsonist moze podpalic w dowolnym momencie.\nJesli jednak nie uda mu sie zabic wszystkich, przegrywa.
-EnigmaInfoLong:(Crewmates):\nJako Enigma, dostajesz randomowa wskazowke odnosnie zabojcy na kazdym spotkaniu. W zaleznosci od ustawien, musisz zglosic cialo aby uzyskac wskazowke. Im wiecej taskow zrobisz, tym dokladniejsza bedzie wskazowka.
+EnigmaInfoLong:(Crewmates):\nJako Enigma, dostajesz randomowa wskazowke odnosnie zabojcy na kazdym spotkaniu. W zaleznosci od ustawien, musisz zglosic cialo aby uzyskac wskazowke. Im wiecej taskow zrobisz, tym dokladniejsza bedzie wskazowka. \nWskazowki dotycza miedzy innymi skina graczy, np. Kapelusz to wszystkie itemy, ktore mozna wybrac z panelu Hats, cos na twarzy to wszystkie z panelu Visors, ubranie to wszystkie z panelu Skins. Pety wiadomo. Friend Code tyczy sie unikalnych nazw uzytkownikow - to co wysylamy na banliste.
 PyromaniacInfoLong:(Neutrals):\nAs the Pyromaniac, you can douse players (single click) or kill normally (double click). Dousing players do nothing immediately, but killing a doused player will significantly shorten your Kill Cooldown. To win, be the last player alive.
 HuntsmanInfoLong:(Neutrals):\nAs the Huntsman, you are given a certain number of targets that reset every meeting. If you successfully eliminate one of your targets, your Kill Cooldown goes down permanently by the set amount. However, if you kill someone not one of your targets, your Kill Cooldown permanently increases by the set amount. A colored name indicates your targets.
 MiniInfoLong:(Crewmate or Impostor):\nThe Mini has two roles. A Nice or Evil Mini is chosen.\n\nUse'/r nice mini' and '/r evil mini' respectively for more details.
@@ -932,7 +932,7 @@ PursuerInfoLong:(Neutrals):\nAs the Pursuer, you can use your ability on someone
 SpecterInfoLong:(Neutrals):\nAs the Specter, your job is to get killed and finish your tasks.\nYou can do your tasks while alive.\nYou cannot win if you're alive.\nIf you get killed, you win with the winning team if your tasks are completed.
 PirateInfoLong:(Neutrals):\nJako Pirate uzyj przycisku Kill, aby wybrac cel w kazdej rundzie.\nW nastepnym spotkaniu stoczysz pojedynek z tym celem.\nJesli Pirate i cel wybiora ta sama liczbe, Pirate wygrywa.\nDodatkowo, jesli Pirate wygra pojedynek lub cel nie wezmie w nim udzialu, Pirate zabija cel.\n\nKomenda pojedynku: /duel X (gdzie X to 0, 1 lub 2)\n\nWygrywasz po wygraniu okreslonej liczby pojedynkow, ustawionej przez Hosta.\n\nUwaga: Zabojstwo nie liczy sie do zwyciestwa Pirate, jesli cel nie wzial udzialu w pojedynku.
 AgitaterInfoLong:(Neutrals):\nJako Agitator twoja rola to w zasadzie Goracy Ziemniak.\nUzyj przycisku Kill na graczu, aby przekazac bombe.\nMozna to zrobic tylko raz na runde.\nGracz, ktory otrzyma bombe, zostanie o tym powiadomiony i bedzie musial przekazac ja dalej, zblizajac sie do innego gracza.\nGdy zostanie wywolane spotkanie, gracz z bomba umiera.\nJesli sprobuje przekazac bombe Pestilence lub Veteranowi w stanie czujnosci, umiera gracz z bomba.\nOpcjonalnie, Agitator nie moze otrzymac bomby.
-MaverickInfoLong:(Neutrals):\nAs the Maverick, you can kill and, depending on options, Vent and have Impostor vision\nIf you survive until the end of the game, you win with the winning team.\nUse your killing ability to eliminate threats to your life, but don't get voted out.
+MaverickInfoLong:(Neutrals):\nJako Maverick mozesz zabijac. W zaleznosci od ustawien mozesz tez uzywac VENTA oraz miec wizje Impostora.\nJesli przetrwasz do konca gry, wygrywasz ze zwyciezka druzyna.\nUzywaj swojej umiejetnosci zabijania, aby eliminowac zagrozenia, ale nie pozwol, aby cie wyrzucono.
 CursedSoulInfoLong:(Neutrals):\nAs the Cursed Soul, you steal the victory if you survive to the end of the game.\n\nYou can steal the win from a Jester or Executioner.\n\nAdditionally, you can steal the Souls of other players.\nSoulless players win with you and count as dead.
 PickpocketInfoLong:(Neutrals):\nJako Pickpocket, kradniesz glosy zabijajac.\n\nZabij wszystkich aby wygrac.
 TraitorInfoLong:(Neutrals):\nAs the Traitor, you were an Impostor that betrayed the Impostors.\nYou know the Impostors, but they don't know you.\nThe twist? They can kill you, but you can't kill them.\n\nEliminate the Impostors by other means, then kill everyone else to win!
@@ -957,7 +957,7 @@ SchrodingersCatInfoLong:(Neutrals):\nJako Schrodingers Cat, jesli ktos sprobuje 
 RomanticInfoLong:(Neutrals):\nThe Romantic can pick their lover partner using their Kill button (this can be done at any point of the game). Once they've picked their partner, they can use their Kill button to give their partner a temporary shield that protects them from attacks. If their lover partner dies, the Romantic's role will change according to the following conditions:\n1. If their partner was an Impostor, the Romantic becomes the Refugee\n2. If their partner was a Neutral Killer, then they become Ruthless Romantic.\n3. If their partner was a Crewmate or a non-killing Neutral, the Romantic becomes the Vengeful Romantic. \n\nThe Romantic wins with the winning team if their partner wins.\nNote: If your role changes, your win condition will be changed accordingly
 RuthlessRomanticInfoLong:(Neutrals):\nYou change your roles from Romantic if your partner (a Neutral Killer) is killed. As a Ruthless Romantic, you win if you kill everyone and are the last one standing. If you win, your dead partner will also win with you.
 VengefulRomanticInfoLong:(Neutrals):\nYou change your roles from Romantic if your partner (a Crewmate or non-Neutral Killer) is killed. As a Vengeful Romantic, your goal is to avenge your partner, which means you must kill the killer of your partner. If you succeed, then you and your partner win with the winning team at the end. If you try to kill someone other than your partner's killer, then you will die by misfire.
-WraithInfoLong:(Neutrals):\nAs the Wraith, you can Vent to Vanish temporarily. You will still appear visible on your screen. Vent again to become visible. You win if you are the last player remaining.
+WraithInfoLong:(Neutrals):\nJako Wraith mozesz uzyc VENTA, aby tymczasowo zniknac. Nadal bedziesz widoczny na swoim ekranie. Uzyj VENTA ponownie, aby stac sie widocznym. Wygrywasz, jesli jestes ostatnim pozostalym graczem.
 ShockerInfoLong:(Neutrals):\nAs the Shocker, you can mark rooms by doing tasks in them, and then Vent to electrocute anyone in those rooms for a set period of time. When you finish all of your tasks, you get new ones. Note: Doing tasks during that period will mark them for the next ability use.
 CovenInfoLong:(Coven):\nCoven members are on a separate team that works together and wins together. If there are multiple Coven roles in the game, they can see each other's roles.\nDepending on the Host's settings, Coven roles can guess or be guessed.\nDo /coveninfo for more info.
 PoisonerInfoLong:(Coven):\nThe Poisoner can use their Kill button on a player to roleblock them. The next time the roleblocked player tries to use their ability, it will do nothing, and their Cooldown will be reset.\n<b>With the Necronomicon, you can double-click to kill. These kills will be delayed.</b>
@@ -984,7 +984,7 @@ TorchInfoLong:(Add-ons):\nTorch has maximum vision and is not affected by Lights
 SeerInfoLong:(Add-ons):\nZa kazdym razem, gdy gracz zginie, Seer zobaczy alert, blysk smierci (czerwony blysk, mozliwie z dzwiekiem alarmu jak przy Sabotazu).
 TiebreakerInfoLong:(Add-ons):\nGdy dojdzie do remisu w glosowaniu, wyglosowany zostanie ten gracz (badz skip), na ktorego zaglosowal Tiebreaker.\nUwaga: Jesli wielu Tiebreakerow wybierze rozne cele remisu jednoczesnie, ich umiejetnosci nie zadzialaja.
 ObliviousInfoLong:(Add-ons):\nDetective and Cleaners won't be Oblivious. The Oblivious cannot report dead bodies. Note: Bait killed by Oblivious will still report automatically, and Oblivious can still be used as a scapegoat for Anonymous.
-BewilderInfoLong:(Add-ons):\nBewilder may have a smaller/bigger vision. When the Bewilder has died, the murderer's vision may become the same as the Bewilder's, depending on the settings.
+BewilderInfoLong:(Add-ons):\nBewilder moze miec mniejszy/wiekszy zasieg widzenia. Gdy Bewilder zginie, zasieg widzenia mordercy moze stac sie taki sam jak Bewildera, w zaleznosci od ustawien.
 WorkhorseInfoLong:(Add-ons):\nThe first player to complete all the tasks will become Workhorse, and Workhorse will give the player extra tasks. The Host sets the number of additional tasks.
 FoolInfoLong:(Add-ons):\nSleuth i Mechanic nie beda Fools. Fools nie moga naprawic zadnego Sabotazu.
 AvangerInfoLong:(Add-ons):\nHost can set whether the Impostor can become an Avenger. When the Avenger is killed (voted out, and irregular kills will not count), the Avenger will revenge a random player.
@@ -1428,7 +1428,7 @@ DoubleAgentClearBombOnMeetingCall:Diffuse active bomb on meeting call
 DoubleAgentCanUseAbilityInCalledMeeting:If diffused can use ability in called meeting
 DoubleAgentBombExplosionTimer:Explosion time
 DoubleAgentExplosionRadius:Explosion radius
-DoubleAgent_DiffusedAgitaterBomb:Agitator bomb successfully diffused
+DoubleAgent_DiffusedAgitaterBomb:Bomba Agitatora zostala pomyslnie rozbrojona.
 DoubleAgent_DiffusedBastionBomb:Bastion bomb successfully diffused
 DoubleAgent_BombExplodesIn:Bomb Explodes In: {0}s
 DoubleAgent_BombExploded:Bomb has exploded!
@@ -1831,7 +1831,7 @@ GreedyEvenKillCooldown:Even-Numbered Kill Cooldown
 WorkaholicCannotWinAtDeath:Can't win after they died
 WorkaholicVisibleToEveryone:Everyone knows who the <color=#008b8b>Workaholic</color> is
 WorkaholicGiveAdviceAlive:Advice at the first meeting if alive, can win after death, ghost tasks ON
-DoctorVisibleToEveryone:Everyone knows who the <color=#80ffdd>Doctor</color> is
+DoctorVisibleToEveryone:Kazdy wie kto jest <color=#80ffdd>Doktorem</color>
 CursedWolfGuardSpellTimes:Amount of Cursed Shields
 KillAttackerWhenAbilityRemaining:Kill attacker when ability is remaining
 CollectorCollectAmount:Required number of votes
@@ -1947,9 +1947,9 @@ Jackal_BossIsDead:Opps, the Jackal boss is dead!
 JackalCanRecruitNeutral:Jackal can recruit/sidekick Neutrals
 JackalCanRecruitCoven:Jackal can recruit/sidekick Coven
 JackalCanRecruitImpostor:Jackal can recruit/sidekick Impostors
-CoronerArrowsPointingToDeadBody:Arrows pointing to dead bodies
-CoronerLeaveDeadBodyUnreportable:Bodies the <color=#8B0000>Coroner</color> uses can't be reported
-CoronerInformKillerBeingTracked:Inform the Killer that he gets tracked
+CoronerArrowsPointingToDeadBody:Strzalki wskazujace martwe ciala
+CoronerLeaveDeadBodyUnreportable:Ciala z ktorych korzysta <color=#8B0000>Coroner</color> nie moga zostac zgloszone
+CoronerInformKillerBeingTracked:Powiadom zabojce, ze jest sledzony
 PresidentCanBeGuessedAfterRevealing:<color=#00ffac>President</color> can be guessed after revealing
 HidePresidentEndCommand:Hide <color=#00ffac>President</color>'s commands
 NeutralsSeePresident:<color=#7f8c8d>Neutrals</color> can see revealed <color=#00ffac>President</color>
@@ -2222,14 +2222,14 @@ Infected-:Infected
 Contagious-:Contagious 
 Admired-:Admired 
 Enchanted-:Enchanted 
-DeputyHandcuffCooldown:Handcuff Cooldown
-DeputyHandcuffMax:Maximum Handcuffs
+DeputyHandcuffCooldown:Cooldown kajdanek
+DeputyHandcuffMax:Maksymalna liczba kajdanek
 DeputyHandcuffedPlayer:Zakules w kajdanki gracza
 HandcuffedByDeputy:Zostales skuty!\nTeraz rozerwales kajdanki i mozesz znow zabijac.
 DeputyInvalidTarget:Gracz juz ma kajdanki!
-HandcuffBrokenAfterMeeting:Remove all handcuffs after meeting
-DeputyHandcuffText:Handcuff
-DeputyHandcuffCDForTarget:Next Kill Cooldown for handcuffed player
+HandcuffBrokenAfterMeeting:Usun wszystkie kajdanki po spotkaniu 
+DeputyHandcuffText:Skuj
+DeputyHandcuffCDForTarget:Nastepny Kill Cooldwon dla skutego gracza
 RejectShapeshift.AbilityWasUsed:Ability was used
 EscapisMtarkedPosition:You marked self-position
 InvestigateCooldown:Investigate Cooldown
@@ -2238,11 +2238,11 @@ InvestigateRoundMax:Maximum Investigations in one round
 Color.Red:<color=#ff1919>Red</color>
 Color.Green:<color=#00ff00>Green</color>
 Color.Gray:<color=#696969>Gray</color>
-InvestigatorInvestigatedPlayer:Player Investigated
-InvestigatorInvalidTarget:Can not investigate
-InvestigatorButtonText:Check
-Investigator.Suspicion:Suspicion
-Investigator.Role:Role
+InvestigatorInvestigatedPlayer:Gracz sprawdzony
+InvestigatorInvalidTarget:Nie mozesz sprawdzic
+InvestigatorButtonText:Sprawdz
+Investigator.Suspicion:Podejrzenie
+Investigator.Role:Rola
 SabotageCooldownControl:Sabotage Cooldown Control
 SabotageCooldown:Sabotage Cooldown
 SabotageTimeControl:Sabotage Duration Control
@@ -2302,9 +2302,9 @@ NemesisKillDisable:Sorry, but according to Host's settings, Nemesis revenge is p
 NemesisKillMax:You've reached the maximum amount of kills, you can't kill anymore!
 CelebrityDead:Shock! Celebrity[{0}]has unfortunately been mercilessly killed in the recent period!
 CyberDead:Oh no! It appears the Cyber, <b>{0}</b>, has died recently.
-DetectiveNoticeVictim:According to your investigation,\nthe victim ([{0}]) had the role [{1}]
-DetectiveNoticeKiller:\nThe killer's role is [{0}]
-DetectiveNoticeKillerNotFound:The Detective couldn't find evidence leading to a murderer. This death is most likely suicide.
+DetectiveNoticeVictim:Zgodnie z Twoim sledztwem,\nofiara ([{0}]) miała rolę [{1}].
+DetectiveNoticeKiller:\nRola zabojcy to [{0}]
+DetectiveNoticeKillerNotFound:Detektyw nie mogl znalezc dowodow wskazujacych na morderce. Ta smierc najprawdopodobniej jest samobojstwem.
 GodNoticeAlive:During the meeting, each player felt a revelation from heaven, and it turned out that God is still alive!
 WorkaholicAdviceAlive:It's not recommended to kill or vote [{0}] out. Doing so will help them finish their tasks quicker.
 GuessDead:Sorry, but it's impossible to guess roles after your death
@@ -2329,13 +2329,13 @@ EGGuessMax:You've reached the maximum guess limit. You can't guess anymore!
 EGGuessSnitchTaskDone:You thought you could guess the Snitch when all their tasks are done? Nice try. You're not getting out of this that easily.
 GuessDoubleShot:You guessed a role incorrectly, but you have Double Shot, so you get another chance!
 LaughToWhoGuessSelf:Tried to guess, who tried to self-guess! It's you! Ahah!
-GuessDisabled:Sorry, the host restricted guessing for your role.
-GuessWorkaholic:Sorry, you can't guess a revealed Workaholic as that would be unfair.
-GuessDoctor:Sorry, you can't guess a revealed Doctor as that would be unfair.
-GuessMayor:Sorry, you can't guess a revealed Mayor as that would be unfair.
-GuessKnighted:Sorry, Monarchs cannot guess Knighted.
-GuessMonarch:There's a knighted player alive, so the Monarch cannot be guessed.
-GuessShielded:Sorry, you can't guess the player who the Medic shields
+GuessDisabled:Sorry, host ograniczyl zgadywanie dla twojej roli.
+GuessWorkaholic:Sorry, nie mozesz zgadywac ujawnionego Workaholica, poniewaz byloby to nieuczciwe.
+GuessDoctor:Sorry, nie mozesz zgadywac ujawnionego Doktora, poniewaz byloby to nieuczciwe.
+GuessMayor:Sorry, nie mozesz zgadywac ujawnionego Mayora, poniewaz byloby to nieuczciwe.
+GuessKnighted:Sorry, Monarchowie nie moga zgadywac Knighted.
+GuessMonarch:Istnieje gracz z tytulem Knighted, wiec Monarch nie może byc zgadniety.
+GuessShielded:Sorry, nie mozesz zgadywac gracza, którego Medic chroni.
 MayorRevealWhenDoneTasks:<color=#204d42>Mayor</color> is revealed to everyone on task completion
 MimicDeadMsg:Mimic's hint: 
 FortuneTellerCheck:According to your fortune...
@@ -2343,9 +2343,9 @@ FortuneTellerCheckLimit:Reminder: You have <b>{0}</b> fortunes left
 FortuneTellerCheckSelfMsg:Wow, you found yourself... All you see is a reflection.
 FortuneTellerCheckReachLimit:You've run out of fortunes.
 FortuneTellerAlreadyCheckedMsg:You've already checked the player
-MorticianGetNoInfo:According to your inspection, <b>{0}</b> did not seem to have contact with anyone during their lifetime.
-MorticianGetInfo:According to your inspection, the last person <b>{0}</b> came into contact with during their lifetime was <b>{1}</b>.
-MediumOnlyReceiveMsgFromCrew:Receive messages only from <color=#8cffff>Crewmates</color> (including <color=#ff1919>Madmates</color> and <color=#cf6acd>Charmed</color> Players)
+MorticianGetNoInfo:Zgodnie z twoim sledztwem,, <b>{0}</b> nie mialo kontaktu z nikim podczas swojego zycia.
+MorticianGetInfo:Zgodnie z twoim sledztwem,, ostatnia osoba, z która <b>{0}</b> mialo kontakt podczas swojego zycia, to <b>{1}</b>.
+MediumOnlyReceiveMsgFromCrew:Otrzymuj wiadomosci tylko od <color=#8cffff>Crewmateow</color> (wlacznie z <color=#ff1919>Madmateami</color> i <color=#cf6acd>Zaczarowanymi</color> Graczami)
 MediumTitle:MEDIUM
 MediumHelp:<b>/ms yes</b> aby potwierdzic\n<b>/ms no</b> aby zaprzeczyc
 MediumYes:Uslyszales cichutki glosik zza swiatow potwierdzajacy odpowiedz na Twoje pytanie.
@@ -2353,7 +2353,7 @@ MediumNo:Uslyszales cichutki glosik zza swiatow zaprzeczajacy odpowiedzi na Twoj
 MediumDone:Poprawnie odpowiedziales Medium.
 MediumNotifyTarget:<b>{0}</b>, Medium nawiazalo z Toba w kontakt! Przed koncem spotkania, masz mozliwosc odpowiedzi na ich pytanie. Wpisz jedna z ponizszych komend aby odpowiedziec:\nPotwierdz: /ms yes\nZaprzecz: /ms no
 MediumNotifySelf:Nawiazales kontakt z <b>{0}</b>. Zadaj im pytanie i czekaj na odpowiedz.\n\nPozostale uzycia umiejetnosci: {1}
-MediumKnowPlayerDead:Someone died somewhere
+MediumKnowPlayerDead:Ktos gdzies umarl
 SpurtMinSpeed:Minimum Speed
 SpurtMaxSpeed:Maximum Speed
 SpurtModule:Speed Modulator
@@ -2428,15 +2428,15 @@ PacifistSkillNotify:Pacifist reset your Kill Cooldown
 BeRecruitedByJackal:The Jackal has recruited you
 YinYangerAlreadyMarked:{0} is already in a state of calm, endowed by a fellow YinYanger
 CoronerTrackRecorded:Track recorded
-CoronerNoTrack:Nothing to track
-CoronerIsTrackingYou:The Coroner is tracking you!
-CoronerReportButtonText:Track
-MerchantAddonDelivered:Add-on sold
-MerchantAddonSell:The Merchant sold you a new Add-on
-MerchantAddonSellFail:Could not sell an Add-on
-BribedByMerchant:The Merchant bribed you. You can't kill him
-BribedByMerchant2:You cannot guess the Merchant after he bribed you.
-MerchantKillAttemptBribed:An attempted killing was averted by bribery
+CoronerNoTrack:Nie ma czego sledzic
+CoronerIsTrackingYou:Coroner Cie szuka!
+CoronerReportButtonText:Sledz
+MerchantAddonDelivered:Add-on sprzedany
+MerchantAddonSell:Merchant sprzedal Ci nowego Add-ona
+MerchantAddonSellFail:Nie da sie sprzedac Add-ona
+BribedByMerchant:Merchant Cie przekupil. Nie mozesz go zabic
+BribedByMerchant2:Nie mozesz odgadnac Merchanta po tym jak Cie przekupil.
+MerchantKillAttemptBribed:Próba zabójstwa zostala powstrzymana przez lapówke
 TrapTrapsterBody:Trap Trapster's body
 TrapConsecutiveBodies:Trap consecutive bodies
 HauntedByEvilSpirit:Haunted by an Evil Spirit
@@ -2587,7 +2587,7 @@ DefaultSystemMessageTitle:SYSTEM MESSAGE
 MessageFromTheHost:HOST MESSAGE
 MessageFromEAC:EAC
 NotifyGameEnding:This game is ending.\nIf you find yourself stuck in game,\npls just quit and rejoin the room.
-DetectiveNoticeTitle:INVESTIGATION
+DetectiveNoticeTitle:SLEDZTWO
 SleuthNoticeTitle:SLEUTH
 GuessKillTitle:GUESSING INFO
 CelebrityNewsTitle:CELEBRITY
@@ -2600,7 +2600,7 @@ MessageFromSponsor:SPONSOR MESSAGE
 MessageFromDev:DEVELOPER MESSAGE 
 FortuneTellerCheckMsgTitle:FORTUNE TELLER
 MimicMsgTitle:MIMIC
-MorticianCheckTitle:CORPSE EXAMINATION
+MorticianCheckTitle:BADANIE CIALA
 NemesisRevengeTitle:NEMESIS
 RetributionistRevengeTitle:RETRIBUTIONIST
 TabVanilla.GameSettings:Game Settings
@@ -3076,21 +3076,21 @@ WitnessButtonText:Examine
 WitnessFoundInnocent:<color=#00ff00>✓</color>
 WitnessFoundKiller:<color=#ffff00>⚠</color>
 SwapperMax:Maximum swaps
-CanSwapSelfVotes:Can exchange your own votes.
-SwapperTrialMax:You've reached the maximum amount of swaps!\nYou can't swap votes anymore.
-CantSwapSelf:Can't exchange of one's own vote
-SwapVote:The votes of <b>{0}</b> and <b>{1}</b> were swapped!
-SwapDead:Sorry, you can't swap votes after death.
-SwapNull:Please choose the ID of a living player to swap votes with. Use 253 to clear swaps
-SwapHelp:Command Format: /sw [player ID] to select the target\nYou can see the player ID's next to the player names or use /id to see the player ID list.\nUse /swap 253 to clear your previous swap
-Swap1:Swap target 1 selected
-Swap2:Swap target 2 selected
-CancelSwap:Cleared your previous swap!
-CancelSwapDueToTarget:Cleared your previous swap because one or more of your targets is dead.
-Swap1=Swap2:The target you input is the same as Swap target 1.\nPls input a different one
+CanSwapSelfVotes:Nie mozesz zamieniac swoich wlasnych glosow.
+SwapperTrialMax:Zuzyles wszystkie zamiany!\nJuz nie mozesz zamieniac glosow.
+CantSwapSelf:Nie mozna wymieniac wlasnych glosow
+SwapVote:Glosy <b>{0}</b> i <b>{1}</b> zostaly zamienione!
+SwapDead:Przepraszam, nie mozesz zamieniac glosow po smierci.
+SwapNull:Wybierz ID zywego gracza, z którym chcesz zamienic glosy. Uzyj 253, aby wyczyscic zamiany.
+SwapHelp:Format komendy: /sw [player ID], aby wybrac cel\nMozesz zobaczyc ID graczy obok ich imion lub uzyc /id, aby zobaczyc liste ID graczy.\nUzyj /swap 253, aby wyczyscic poprzednia zamiane.
+Swap1:Cel zamiany 1 wybrany
+Swap2:Cel zamiany 2 wybrany
+CancelSwap:Wyczyszczono poprzednia zamiane!
+CancelSwapDueToTarget:Wyczyszczono poprzednia zamiane, poniewaz jeden lub wiecej twoich celow nie zyje.
+Swap1=Swap2:Wpisany cel jest taki sam jak cel zamiany 1.\nProsze wprowadz inny cel.
 SwapTitle:SWAPPER
-SwapperTryHideMsg:Try to hide Swapper's command
-SwapperPreResult:Currently, you selected to swap votes between <b>{0}</b> and <b>{1}</b>.\nIf you feel unsure, use /swap 253 to clear your selection.
+SwapperTryHideMsg:Próba ukrycia komend Swappera
+SwapperPreResult:Obecnie wybrales, aby zamienic glosy miedzy <b>{0}</b> i <b>{1}</b>.\nJesli nie jestes pewny, uzyj /swap 253, aby wyczyscic swoj wybor.
 ImpCanKillFragile:<color=#ff1919>Impostors</color> can force kill <color=#D3D3D3>Fragile</color>
 NeutralCanKillFragile:<color=#7f8c8d>Neutrals</color> can force kill <color=#D3D3D3>Fragile</color>
 CrewCanKillFragile:<color=#8cffff>Crewmates</color> can force kill <color=#D3D3D3>Fragile</color>
@@ -3186,25 +3186,25 @@ CaptainCanTargetCoven:Captain can target Coven
 CaptainSpeedReduced:Captain reduced your speed
 CaptainRevealTaskRequired:Number of tasks completed after which Captain is revealed
 CaptainSlowTaskRequired:Number of tasks completed after which target speed is reduced
-InspectorTryHideMsg:Hide <color=#0D57AF>Inspector</color>'s commands
+InspectorTryHideMsg:Ukryj komendy <color=#0D57AF>Inspektora</color>
 MaxInspectCheckLimit:Maximum inspections per game
 InspectCheckLimitPerMeeting:Maximum inspections per meeting
-InspectCheckTargetKnow:Targets know they were checked by <color=#0D57AF>Inspector</color>
-InspectCheckOtherTargetKnow:Targets know who they were checked with
-InspectorDead:You can not use your power after death
-InspectCheckMax:Maximum inspections per game reached!\nYou can not use your power anymore.
-InspectCheckRound:Maximum inspections per round reached!\nYou can check again in the next round.
-InspectCheckSelf:HA!! You thought it would be this easy. You can not check yourself
-InspectCheckReveal:HA! You thought it would be this easy. You can not check a role that is revealed
+InspectCheckTargetKnow:Cel wie ze byl sprawdzony przez <color=#0D57AF>Inspektora</color>
+InspectCheckOtherTargetKnow:Cel wie z kim zostali sprawdzeni
+InspectorDead:Nie mozesz uzywac swojej mocy po smierci
+InspectCheckMax:Maksymalna ilosc sprawdzen zuzyta!\nNie mozesz juz uzywac swojej mocy.
+InspectCheckRound:Maksymalna ilosc sprawdzen na runde zuzyta!\nMozesz sprawdzic ponownie w nastepnej rundzie.
+InspectCheckSelf:HA!! Myslales ze bedzie tak prosto? Nie mozesz sprawdzac samego siebie lamusku.
+InspectCheckReveal:HA! Myslales ze bedzie tak prosto? Nie mozesz sprawdzac znanej wszystkim roli
 InspectCheckTitle:INSPECTOR 
 InspectCheckTrue:<b>{0}</b> and <b>{1}</b> are in the same team!
 InspectCheckFalse:<b>{0}</b> and <b>{1}</b> are <color=#ff1919>NOT</color> in the same team!
-InspectCheckTargetMsg: were checked by Inspector.
-InspectCheckHelp:Instructions: /cmp [Player ID 1] [Player ID 2] \nExample: /cmp 1 5 \nYou can see the player ID's before everyone's names \n or use the /id command to list the player ID's
-InspectCheckNull:Please select an ID of a living player to check their team
-InspectCheckBaitCountMode:<color=#00f7ff>Bait</color> counts as revealing role if <color=#00f7ff>Bait</color> reveal on first meeting is on
-InspectCheckRevealTarget:When tasks are done, the target knows the team of the other target
-InspectorTargetReveal: Looks like <b>{0}</b> is aligned with team <b>{1}</b>
+InspectCheckTargetMsg: zostal sprawdzony przez Inspectora.
+InspectCheckHelp:Instructions: /cmp [ID gracza 1] [ID gracza 2] \nPrzyklad: /cmp 1 5 \nID graczy zobaczysz przed ich nazwami \n albo skorzystaj z komendy /id aby wyswietlic liste z wszystkimi ID graczy.
+InspectCheckNull:Wybierz ID zyjacego gracza aby sprawdzic jego druzyne.
+InspectCheckBaitCountMode:<color=#00f7ff>Bait</color> jest liczony jako odkryta rola jezeli wysylane jest powiadomienie o <color=#00f7ff>Baicie</color> podczas pierwszej rundy.
+InspectCheckRevealTarget:Kiedy taski sa skonczone, cel wie jaka jest druzyna drugiego celu
+InspectorTargetReveal: Wyglada na to ze <b>{0}</b> jest polaczony z druzyna <b>{1}</b>
 EgoistCountMode.Original:Original
 EgoistCountMode.Neutral:Neutral
 JailerJailCooldown:Jail Cooldown
@@ -3238,8 +3238,8 @@ CleanserCantRemove:Oops! the player can not be Cleansed.
 CleanserRemovedRole:<b>{0}</b> has been cleansed. All their Add-ons will be removed after the meeting.\n\nYour vote has been returned and you can vote for someone.
 LostAddonByCleanser:The Cleanser removed all your Add-ons
 MaxProtections:Maximum Protections
-KeeperHideVote:Hide Keeper's vote
-KeeperProtect:You chose to protect <b>{0}</b>, your vote has been returned
+KeeperHideVote:Ukruj glosy Keepera
+KeeperProtect:Wybrales aby chronic <b>{0}</b>, Twoj glos zostal zwrocony
 KeeperTitle:KEEPER
 MaulRadius:Maul Radius
 ImpKnowCyberDead:<color=#ff1919>Impostors</color> know if Cyber died
@@ -3446,50 +3446,50 @@ ActivatingShields:
 ShootingAtAsteroids:
 MedbayScan:
 SpiritualistNoticeTitle:SPIRITUALIST 
-SpiritualistNoticeMessage:The Spiritualist has an arrow pointing to you!\nYou can use them to a killer or frame a Crewmate
+SpiritualistNoticeMessage:Spiritualist ma strzalke wskazujaca na ciebie!\nMozesz jej uzyc, aby wskazac zabojce lub obarczyc niewinnego Crewmate.
 SpiritualistShowGhostArrowForSeconds:Ghost arrow duration
 SpiritualistShowGhostArrowEverySeconds:Ghost arrow interval
-EnigmaClueStage1Tasks:Number of Tasks to complete to see Stage 1 <color=#676798>Clues</color>
-EnigmaClueStage2Tasks:Number of Tasks to complete to see Stage 2 <color=#676798>Clues</color>
-EnigmaClueStage3Tasks:Number of Tasks to complete to see Stage 3 <color=#676798>Clues</color>
-EnigmaClueStage2Probability:Probability to see Stage 2 <color=#676798>Clues</color>
-EnigmaClueStage3Probability:Probability to see Stage 3 <color=#676798>Clues</color>
-EnigmaClueGetCluesWithoutReporting:<color=#676798>Enigma</color> can get <color=#676798>Clues</color> without reporting a dead body
-EnigmaClueHat1:The Killer wears a Hat!
-EnigmaClueHat2:The Killer does not wear a Hat!
-EnigmaClueHat3:The Killer wears {0} as a Hat!
-EnigmaClueSkin1:The Killer wears a Skin!
-EnigmaClueSkin2:The Killer does not wear a Skin!
-EnigmaClueSkin3:The Killer wears {0} as a Skin!
-EnigmaClueVisor1:The Killer wears a Visor!
-EnigmaClueVisor2:The Killer does not wear a Visor!
-EnigmaClueVisor3:The Killer wears {0} as a Visor!
-EnigmaCluePet1:The Killer does have a Pet!
-EnigmaCluePet2:The Killer does not have a Pet!
-EnigmaCluePet3:The Killer has {0} as a Pet!
-EnigmaClueName1:The Name of the Killer contains the letter {0} or the letter {1}!
-EnigmaClueName2:The Name of the Killer contains the letter {0}!
-EnigmaClueName3:The Name of the Killer contains the letter {0} and the letter {1}!
-EnigmaClueNameLength1:The Name of the Killer has a Length between {0} and {1} letters!
-EnigmaClueNameLength2:The Name of the Killer has a Length of {0} letters!
-EnigmaClueColor1:The Killer has a light color!
-EnigmaClueColor2:The Killer has a dark color!
-EnigmaClueColor3:The Killer's color is {0}!
-EnigmaClueLocation:The Last Room the Killer was in is {0}!
-EnigmaClueStatus1:The Killer is currently inside a Vent!
-EnigmaClueStatus2:The Killer is currently on a Ladder!
-EnigmaClueStatus3:The Killer is already Dead!
-EnigmaClueStatus4:The Killer is still Alive!
-EnigmaClueRole1:The Killer is an Impostor!
-EnigmaClueRole2:The Killer is a Neutral!
-EnigmaClueRole3:The Killer is a Crewmate!
-EnigmaClueRole4:The Killer's Role is {0}!
-EnigmaClueRole5:The Killer is a Coven member!
-EnigmaClueLevel1:The Killer's Level is above 50!
-EnigmaClueLevel2:The Killer's Level is below 50!
-EnigmaClueLevel3:The Killer's Level is between {0} and {1}!
-EnigmaClueLevel4:The Killer's Level is {0}!
-EnigmaClueFriendCode:The Killer's Friend Code is {0}!
+EnigmaClueStage1Tasks:Liczba zadan do ukonczenia, aby zobaczyc Etap 1 <color=#676798>Wskazowek</color>
+EnigmaClueStage2Tasks:Liczba zadan do ukonczenia, aby zobaczyc Etap 2 <color=#676798>Wskazowek</color>
+EnigmaClueStage3Tasks:Liczba zadan do ukonczenia, aby zobaczyc Etap 3 <color=#676798>Wskazowek</color>
+EnigmaClueStage2Probability:Prawdopodobienstwo zobaczenia <color=#676798>Wskazowek</color> Etapu 2
+EnigmaClueStage3Probability:Prawdopodobienstwo zobaczenia <color=#676798>Wskazowek</color> Etapu 3
+EnigmaClueGetCluesWithoutReporting:<color=#676798>Enigma</color> moze dostac <color=#676798>Wskazowki</color> bez zglaszania ciala
+EnigmaClueHat1:Zabojca nosi kapelusz (cos na glowie)!
+EnigmaClueHat2:Zabojca nie nosi kapelusza (czegos na glowie)!
+EnigmaClueHat3:Zabojca nosi {0} jako Kapelusz!
+EnigmaClueSkin1:Zabojca ma na sobie ubranie!
+EnigmaClueSkin2:Zabojca nie ma na sobie ubrania!
+EnigmaClueSkin3:Zabojca nosi {0} jako ubranie!
+EnigmaClueVisor1:Zabojca nosi cos na twarzy!
+EnigmaClueVisor2:Zabojca nie ma nic na twarzy!
+EnigmaClueVisor3:Zabojca nosi {0} na twarzy!
+EnigmaCluePet1:Zabojca ma peta!
+EnigmaCluePet2:Zabojca nie ma peta!
+EnigmaCluePet3:Zabojca ma {0} jako Peta!
+EnigmaClueName1:Nick zabójcy zawiera litere {0} albo {1}!
+EnigmaClueName2:Nick zabójcy zawiera litere {0}!
+EnigmaClueName3:Nick zabójcy zawiera litere {0} i {1}!
+EnigmaClueNameLength1:Nick zabojcy ma dlugosc od {0} do {1} liter!
+EnigmaClueNameLength2:Nick zabojcy ma dlugosc {0} liter/y!
+EnigmaClueColor1:Zabojca ma jasny kolor!
+EnigmaClueColor2:Zabojca ma ciemny kolor!
+EnigmaClueColor3:Kolor zabojcy to {0}!
+EnigmaClueLocation:Ostatni pokoj w jakim byl morderca to {0}!
+EnigmaClueStatus1:Zabojca jest wlasnie w Ventach!
+EnigmaClueStatus2:Zabojca jest wlasnie na Drabinie!
+EnigmaClueStatus3:Zabojca juz nie zyje!
+EnigmaClueStatus4:Zabojca wciaz zyje!
+EnigmaClueRole1:Zabojca jest Impostorem!
+EnigmaClueRole2:Zabojca jest Neutralem!
+EnigmaClueRole3:Zabojca jest Crewmatem!
+EnigmaClueRole4:Rola zabojcy to {0}!
+EnigmaClueRole5:Zabojca jest z Covenu!
+EnigmaClueLevel1:Level zabójcy jest powyzej 50!
+EnigmaClueLevel2:Level zabójcy jest ponizej 50!
+EnigmaClueLevel3:Level zabójcy jest pomiedzy {0} a {1} levelem!
+EnigmaClueLevel4:Level zabójcy to{0}!
+EnigmaClueFriendCode:Friend Code zabojcy to {0}!
 EnigmaClueHatTitle:Enigma Hat Clue!
 EnigmaClueVisorTitle:Enigma Visor Clue!
 EnigmaClueSkinTitle:Enigma Skin Clue!
@@ -3555,8 +3555,8 @@ SpyInteractionBlocked:Block Kill button interaction
 AgitaterBombCooldown:<color=#F4A460>Agitator</color> Bomb Cooldown
 AgitaterPassCooldown:Bomb Pass Cooldown
 BombExplodeCooldown:Bomb Explode Cooldown
-AgitaterPassNotify:Bomb successfully passed
-AgitaterTargetNotify:YOU HAVE THE BOMB!! Pass it to someone else
+AgitaterPassNotify:Bomba pomyslnie przekazana
+AgitaterTargetNotify:MASZ BOMBE!! PRZEKAZ JA KOMUS!
 AgitaterCanGetBombed:<color=#F4A460>Agitator</color> can get bomb
 AgitaterAutoReportBait:<color=#F4A460>Agitator</color> can Auto Report Bait
 SeekerPointsToWin:Number of points required to win
@@ -3969,8 +3969,8 @@ PlagueDoctorCanInfectVent:Can Infect While In Vent
 WinnerRoleText.PlagueDoctor:Plague Scientist Wins!
 StatueSlow:Statue Slowness
 StatuePeopleToSlow:People Needed To Slow
-WardenIncreaseSpeed:Increase Speed By
-WardenWarn:DANGER! RUN!
+WardenIncreaseSpeed:Zwieksz predkosc o
+WardenWarn:ZAGROZENIE! SPIERDALAJ!
 Minion_Blind:blinded
 Evader_ChanceNotExiled:Chance not be exiled
 ShockerAbilityPerRound:Abilities Per Round
