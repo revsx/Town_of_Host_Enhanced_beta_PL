@@ -1,5 +1,5 @@
 # Town of Host:Enhanced
-Polish Translation of TOH:E by: [revs](https://github.com/revsx), [Filipianosol](https://github.com/Filipianosol), [PanRafal](https://github.com/PanRafaI)
+Polish Translation of TOH:E by: [revs](https://github.com/revsx), [Filipianosol](https://github.com/Filipianosol), [PanRafal](https://github.com/PanRafaI), [Lotzer](https://github.com/Lotzer)
 
 To use the translation, follow these steps: 
 1. Download the '**Polish.dat**' file.
