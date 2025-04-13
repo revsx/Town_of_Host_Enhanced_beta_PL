@@ -1698,7 +1698,7 @@ EvilHackerLastAdminInfoTitle:Last-minute admin information
 EvilHackerDeadbody:DEAD
 Ventguard:Ventguard
 VentguardInfo:Zablokuj Venty wchodzac do nich
-VentguardInfoLong:(Crewmates):\nJako Ventguard mozesz wchodzic do Ventów, aby je zablokowac. Nikt nie moze wejsci do zablokowanych Ventów, z wyjatkiem Crewmates, jesli ta opcja jest wlaczona. Zablokowane Venty moga byc resetowane po kazdym spotkaniu.
+VentguardInfoLong:(Crewmates):\nJako Ventguard mozesz wchodzic do Ventów, aby je zablokowac. Nikt nie moze wejsc do zablokowanych Ventów, z wyjatkiem Crewmates, jesli ta opcja jest wlaczona. Zablokowane Venty moga byc resetowane po kazdym spotkaniu.
 VentguardVentButtonText:Block
 Ventguard_MaxGuards:Maximum number of Vent Blocks
 Ventguard_BlockVentCooldown:Block Vent Cooldown
