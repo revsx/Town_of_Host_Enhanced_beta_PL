@@ -983,7 +983,7 @@ FlashInfoLong:(Add-ons):\nDomyslna predkosc ruchu Flasha jest wieksza niz innych
 TorchInfoLong:(Add-ons):\nTorch ma maksymalna widocznosc i nie ma na niego wplywu Sabotaz Swiatla.
 SeerInfoLong:(Add-ons):\nZa kazdym razem, gdy gracz zginie, Seer zobaczy alert, blysk smierci (czerwony blysk, mozliwie z dzwiekiem alarmu jak przy Sabotazu).
 TiebreakerInfoLong:(Add-ons):\nGdy dojdzie do remisu w glosowaniu, wyglosowany zostanie ten gracz (badz skip), na ktorego zaglosowal Tiebreaker.\nUwaga: Jesli wielu Tiebreakerow wybierze rozne cele remisu jednoczesnie, ich umiejetnosci nie zadzialaja.
-ObliviousInfoLong:(Add-ons):\nDetective oraz Cleaner nie moga byc Oblivious. Oblivious nie moze zglaszac cial. Uwaga: Jesli Bait zostanie zabity przez Oblivious nadal zreportuje cialo automatycznie. Oblivious moze zostac uzyty jako koziol ofiarny dla Anonymous.
+ObliviousInfoLong:(Add-ons):\nDetective oraz Cleaner nie moga byc Oblivious. Oblivious nie moze zglaszac cial. Uwaga: W zaleznosci od ustawien, jesli Bait zostanie zabity przez Oblivious to nadal zreportuje cialo automatycznie. Oblivious moze zostac uzyty jako koziol ofiarny dla Anonymous.
 BewilderInfoLong:(Add-ons):\nBewilder moze miec mniejszy/wiekszy zasieg widzenia. Gdy Bewilder zginie, zasieg widzenia mordercy moze stac sie taki sam jak Bewildera, w zaleznosci od ustawien.
 WorkhorseInfoLong:(Add-ons):\nPierwszy gracz, ktory wykona wszystkie zadania, zostanie Workhorse, a Workhorse da graczowi dodatkowe zadania. Host ustala liczbe dodatkowych zadan.
 FoolInfoLong:(Add-ons):\nSleuth i Mechanic nie beda Fools. Fools nie moga naprawic zadnego Sabotazu.
@@ -2624,7 +2624,7 @@ CovenCanBeGuesser:<color=#ac42f2>Coven</color> can become <color=#ffb347>Guesser
 CrewCanBeMundane:<color=#8cffff>Crewmates</color> can become Mundane
 NeutralCanBeMundane:<color=#7f8c8d>Neutrals</color> can become Mundane
 GuessedAsMundane:Jestes Mundane.\nNie mozesz zgadywac, dopoki nie ukonczysz wszystkich zadan.
-ObliviousBaitImmune:Immune to <color=#00f7ff>Bait</color>
+ObliviousBaitImmune:Nie reportuje <color=#00f7ff>Baita</color>
 ImpCanBeInLove:<color=#ff1919>Impostors</color> can be <color=#ff9ace>in love</color>
 CrewCanBeInLove:<color=#8cffff>Crewmates</color> can be <color=#ff9ace>in love</color>
 NeutralCanBeInLove:<color=#7f8c8d>Neutrals</color> can be <color=#ff9ace>in love</color>
