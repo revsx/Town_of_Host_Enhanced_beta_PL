@@ -617,11 +617,11 @@ MaverickInfo:Zabijaj i dotrwaj do konca
 CursedSoulInfo:Snatch souls and steal the win
 PickpocketInfo:Kradnij glosy od swoich ofiar
 TraitorInfo:Wyeliminuj <color=#ff1919>Impostorow</color>, a potem wygraj
-TrollerInfo:Zrób losowe zdarzenie po ukończeniu zadania.
+TrollerInfo:Zrób losowe zdarzenie po ukonczeniu zadania.
 VultureInfo:Zjadaj ciala poprzez klikanie reportu, aby wygrac
 TaskinatorInfo:Ciche zadania, smiertelne wybuchy
 BenefactorInfo:Zadanie wykonane, tarcza gotowa!
-MedusaInfo:Zatrzymaj graczy w ich ruchu, zamieniając ich w kamień.
+MedusaInfo:Zatrzymaj graczy w ich ruchu, zamieniajac ich w kamien.
 SpiritcallerInfo:Zamieniaj graczy w Evil Spirits
 AmnesiacInfo:Pamietaj role zmarlego gracza
 ImitatorInfo:Nasladuj role gracza
@@ -630,7 +630,7 @@ DoppelgangerInfo:Ukradnij tozsamosc swojego celu
 PunchingBagInfo:Daj sie zaatakowac pare razy, aby wygrac.
 KamikazeInfo:Zabijaj graczy swoja misja samobójcza
 DoomsayerInfo:Odgadnij role graczy aby wygrac
-ShroudInfo:Shrouduj graczy, aby zmusić ich do zabijania.
+ShroudInfo:Shrouduj graczy, aby zmusic ich do zabijania.
 WerewolfInfo:Zmiazdz wszystkich w ciemnosci
 ShamanInfo:Odbij wszystkie ataki na lalce voodoo
 SeekerInfo:Graj w chowanego z Twoim celem
@@ -645,14 +645,14 @@ PoisonerInfo:Zabierz graczom mozliwosc korzystania z ich umiejetnosci
 HexMasterInfo:Hexuj(oznacz) graczy aby zabic ich na spotkaniu
 JinxInfo:Gracze "przypadkowo" umieraja, probujac zabic twoj cel
 PotionMasterInfo:Uzywaj swoich mikstur dla swoich korzysci
-NecromancerInfo:Wykorzystaj martwych dla swoich korzyści, nekrofilu
+NecromancerInfo:Wykorzystaj martwych dla swoich korzysci, nekrofilu
 CovenLeaderInfo:Pomoz swojej druzynie, zmieniajac ich role
-RitualistInfo:Wykonuj rytuały krwi, aby zaczarować innych graczy!
+RitualistInfo:Wykonuj rytualy krwi, aby zaczarowac innych graczy!
 ConjurerInfo:Wystrzel swoich wrogów!
-DreamweaverInfo:Doprowadź innych graczy do bezsenności!
-IllusionistInfo:Twórz iluzje u graczy, aby szerzyć zamieszanie!
+DreamweaverInfo:Doprowadz innych graczy do bezsennosci!
+IllusionistInfo:Twórz iluzje u graczy, aby szerzyc zamieszanie!
 VoodooMasterInfo:Twórz lalki voodoo innych graczy!
-SacrifistInfo:Osłabiaj swoich wrogów własnym kosztem
+SacrifistInfo:Oslabiaj swoich wrogów wlasnym kosztem
 MoonDancerInfo:Uzywaj Baton Pass (kill?) aby dawac Add-ony!
 WardenInfo:(Ghost) Ostrzegaj o zagrozeniu
 MinionInfo:(Ghost) Oslep wrogow
@@ -704,14 +704,14 @@ AntidoteInfo:Zmniejsz czas odnowienia gracza, ktory wejdzie z toba w interakcje
 StubbornInfo:Chron swoja role i dodatki/add-ony
 SwiftInfo:Zabijajac nie widac tego ruchu zabijania
 UnluckyInfo:Wykonywanie czynnosci moze spowodowac Twoja smierc.
-VoidBallotInfo:Twoja liczba głosów to 0.
+VoidBallotInfo:Twoja liczba glosów to 0.
 AwareInfo:Wiesz, ze ktos odkryl twoja role
 FragileInfo:Umrzyj natychmiast jezeli ktos uzyje na Tobie przycisku kill.
 GhoulInfo:Zabij swojego morderce z zaswiatow.
-BloodthirstInfo:Uwolnij swoją żądzę krwi i zabij.
+BloodthirstInfo:Uwolnij swoja zadze krwi i zabij.
 MareInfo:Zabijaj w ciemnosci
-BurstInfo:Spraw, aby twój morderca wybuchł!
-SleuthInfo:Zdobądź informacje z martwych ciał.
+BurstInfo:Spraw, aby twój morderca wybuchl!
+SleuthInfo:Zdobadz informacje z martwych cial.
 ClumsyInfo:Mozesz nie trafic w przcysik kill
 NimbleInfo:Teraz mozesz wentowac!
 CircumventInfo:Juz nie mozesz wentowac
@@ -722,7 +722,7 @@ InfluencedInfo:Brakuje ci zdecydowania!
 SilentInfo:Glosuj jak duch!
 SusceptibleInfo:Loteria przyczyny smierci!
 TrickyInfo:Twoje zabojstwa maja losowa przyczyne smierci
-TiredInfo:Praca sprawia, że jesteś senny... Zzz..
+TiredInfo:Praca sprawia, ze jestes senny... Zzz..
 StatueInfo:Jestes nieruchomy jak kamien wsrod ludzi
 EvaderInfo:Masz szanse, aby nie zostac wyrzuconym!
 GMInfo:Obserwuj Chaos!
@@ -731,10 +731,10 @@ SunnyboyInfo:Swiec, swiec moje sloneczko!
 BardInfo:Poematu czar, morderczy szal, szalenczy taniec i smiertelny dar
 RainbowInfo:Kolorowe melodie! Nawet nie wiesz, jaki masz kolor.
 DollMasterInfo:Przejmij kontrole nad dzialaniami graczy!
-DoubleAgentInfo:Podkladaj bomby graczom podczas spotkań.
+DoubleAgentInfo:Podkladaj bomby graczom podczas spotkan.
 SlothInfo:Jestes wolniejszy
 ProhibitedInfo:Niektóre wenty sa zablokowane
-EavesdropperInfo:Podsłuchuj inne role
+EavesdropperInfo:Podsluchuj inne role
 ShockerInfo:Porazaj pradem graczy w oznaczonych pokojach.
 RevenantInfo:Ukradnij role swojemu zabojcy
 EngineerTOHEInfoLong:(Crewmates):\nJako Inzynier, mozesz korzystac z wentow.\nWenty sa wylaczone podczas sabotazu comsow.
@@ -746,77 +746,77 @@ PhantomTOHEInfoLong:(Impostors):\nAs the Phantom, you can press your Vanish butt
 GuardianAngelTOHEInfoLong:(Crewmates):\nJako Guardian Angel, posmiertnie, Twoim zadaniem jest chronienie graczy przez Impostorami.
 ImpostorTOHEInfoLong:(Impostors):\nAs the Impostor, your goal is to simply kill off the Crewmates.\nYou can Sabotage and Vent.
 CrewmateTOHEInfoLong:(Crewmates):\nAs the Crewmate, your goal is to find and exile the Impostors.\nCrewmates win by getting rid of all killers or by finishing all their tasks.
-BountyHunterInfoLong:(Impostors):\nJako Bounty Hunter, jesli zabijesz swoj przypisany cel (wskazany strzałką, jeśli masz jeden), Twój następny Kill Cooldown zostanie skrócony.\nJeśli zabijesz kogoś innego niż swój cel, twój następny Kill Cooldown zostanie wydłużony. Cel zmienia się po określonym czasie.
-FireworkerInfoLong:(Impostors):\nJako Fireworker, mozesz uzyc Shapeshift, aby umiescic fajerwerki do maksymalnej liczby, którą ustawi Host.\nGdy będziesz ostatnim Impostorem i wszystkie fajerwerki będą umieszczone, uzyj Shapeshift ponownie, aby je wysadzić i zabić wszystkich w ich zasięgu, w tym siebie.\nJeśli zabijesz wszystkich graczy swoimi fajerwerkami, jest to uznawane za zwycięstwo Impostora.
+BountyHunterInfoLong:(Impostors):\nJako Bounty Hunter, jesli zabijesz swoj przypisany cel (wskazany strzalka, jesli masz jeden), Twój nastepny Kill Cooldown zostanie skrócony.\nJesli zabijesz kogos innego niz swój cel, twój nastepny Kill Cooldown zostanie wydluzony. Cel zmienia sie po okreslonym czasie.
+FireworkerInfoLong:(Impostors):\nJako Fireworker, mozesz uzyc Shapeshift, aby umiescic fajerwerki do maksymalnej liczby, która ustawi Host.\nGdy bedziesz ostatnim Impostorem i wszystkie fajerwerki beda umieszczone, uzyj Shapeshift ponownie, aby je wysadzic i zabic wszystkich w ich zasiegu, w tym siebie.\nJesli zabijesz wszystkich graczy swoimi fajerwerkami, jest to uznawane za zwyciestwo Impostora.
 MercenaryInfoLong:(Impostors):\nJako Mercenary musisz zabic w wyznaczonym czasie, jak pokazuje twoj Cooldown Shapeshift (ktorego nie mozesz uzywac). Jesli nie uda ci sie zabic, umierasz.
 ShapeMasterInfoLong:(Impostors):\nJako Shapemaster, nie masz Cooldownu na Shapeshifta.
 VampireInfoLong:(Impostors):\nJako Wampir twoje zabojstwa sa opoznione.\nOznacza to, ze cel i tak umrze, nawet jesli najpierw zostanie wywolane spotkanie.\nJednak jesli ugryziesz Baita, zabijasz normalnie i zglaszasz cialo.\nW zaleznosci od ustawien mozesz uzyc podwojnego trybu (gryzienie – pojedyncze klikniecie, normalne zabojstwo – podwojne klikniecie).
 WarlockInfoLong:(Impostors):\nJako Czarnoksieznik (Warlock) mozesz rzucic Klatwe na maksymalnie jednego gracza naraz.\nGdy uzyjesz Shapeshift, jezeli masz przekletego gracza, zabije on najblizsza osobe – w zaleznosci od ustawien moze to byc takze ty lub inni Impostorzy.\nMozesz zabijac normalnie bedac w formie Shapeshift.
-ZombieInfoLong:(Impostors):\nJako Zombie masz maly kill cooldown, ale wolno sie poruszasz i masz mala wizje. Zombie nie moze byc wyglosowany przez nikogo innego niz Dyktatora, a predkosc ruchu Zombie bedzie stopniowo zwalniac w miarę dokonywania zabojstw lub uplywu czasu.
+ZombieInfoLong:(Impostors):\nJako Zombie masz maly kill cooldown, ale wolno sie poruszasz i masz mala wizje. Zombie nie moze byc wyglosowany przez nikogo innego niz Dyktatora, a predkosc ruchu Zombie bedzie stopniowo zwalniac w miare dokonywania zabojstw lub uplywu czasu.
 NinjaInfoLong:(Impostors):\nJako Ninja mozesz uzyc przycisku Kill, aby oznaczyc cel (pojedyncze klikniecie) lub zabic normalnie (podwojne klikniecie). Mozesz nastepnie uzyc Shapeshift, aby teleportowac sie do oznaczonego celu i go zabic.
-AnonymousInfoLong:(Impostors):\nJako Anonymous, mozesz uzyc Shapeshift, aby zmusic gracza do zgloszenia kogos, kogo zabiles w tej rundzie.\nJesli nikogo nie zabiles w tej rundzie, gracz zglosi swoje wlasne martwe ciało, jakby to on umarl.\nUwaga: Ta umiejetnosc nie dziala na Lazy ani Lazy Guy, i bedzie dzialac niezaleznie od tego, czy ciało normalnie moze byc zgloszone.
+AnonymousInfoLong:(Impostors):\nJako Anonymous, mozesz uzyc Shapeshift, aby zmusic gracza do zgloszenia kogos, kogo zabiles w tej rundzie.\nJesli nikogo nie zabiles w tej rundzie, gracz zglosi swoje wlasne martwe cialo, jakby to on umarl.\nUwaga: Ta umiejetnosc nie dziala na Lazy ani Lazy Guy, i bedzie dzialac niezaleznie od tego, czy cialo normalnie moze byc zgloszone.
 MinerInfoLong:(Impostors):\nJako Miner mozesz uzyc przycisku ShapeShift, aby teleportowac sie z powrotem do ostatniego Venta, w którym byles.
-KillingMachineInfoLong:(Impostors):\nJako Killing Machine masz bardzo krótki Kill Cooldown, ale ograniczoną wizję. Nie możesz używać Ventow, Sabotowac, Zgłaszać ani wywoływać Spotkań.\n\nUwaga: Omijasz wszelkie tarcze jak i zglaszanie ciala zabitego Baita, a Beartrap nie będzie miała żadnego efektu.
+KillingMachineInfoLong:(Impostors):\nJako Killing Machine masz bardzo krótki Kill Cooldown, ale ograniczona wizje. Nie mozesz uzywac Ventow, Sabotowac, Zglaszac ani wywolywac Spotkan.\n\nUwaga: Omijasz wszelkie tarcze jak i zglaszanie ciala zabitego Baita, a Beartrap nie bedzie miala zadnego efektu.
 EscapistInfoLong:(Impostors):\nJako Escapist mozesz oznaczyc lokalizacje przyciskiem ShapeShift. Uzyj ShapeShift ponownie, aby teleportowac sie z powrotem do oznaczonego miejsca.\nOznaczona lokalizacja resetuje sie po kazdym teleportowaniu.
 WitchInfoLong:(Impostors):\nJako Witch mozesz uzyc przycisku Kill, aby rzucic czar (pojedyncze klikniecie) lub zabic normalnie (podwojne klikniecie).\nPodczas nastepnego spotkania, cel rzuconego czaru bedzie mial「†」 obok swojego imienia, widoczne dla wszystkich.\nJesli nie zginiesz do konca tego spotkania, wszystkie oznaczone cele czaru zgina.
-NemesisInfoLong:(Impostors):\nJako Nemesis, możesz zabijać tylko, jeśli jesteś ostatnim Impostorem.\nJeśli jesteś martwy, możesz użyć komendy /rv [ID], aby zabić gracza, którego ID wpiszesz. Użyj /id, aby wyświetlić ID wszystkich graczy, lub spójrz obok ich imion.
-BloodmoonInfoLong:(Impostors [Ghost]):\nJako Bloodmoon, atakuj wrogów, aby sprawić, że będą sie wykrwawiac, co oznacza, że umrą w czasie ustalonym przez Hosta i będą tego świadomi.
+NemesisInfoLong:(Impostors):\nJako Nemesis, mozesz zabijac tylko, jesli jestes ostatnim Impostorem.\nJesli jestes martwy, mozesz uzyc komendy /rv [ID], aby zabic gracza, którego ID wpiszesz. Uzyj /id, aby wyswietlic ID wszystkich graczy, lub spójrz obok ich imion.
+BloodmoonInfoLong:(Impostors [Ghost]):\nJako Bloodmoon, atakuj wrogów, aby sprawic, ze beda sie wykrwawiac, co oznacza, ze umra w czasie ustalonym przez Hosta i beda tego swiadomi.
 PossessorInfoLong:(Impostors [Ghost]):\nJako Possessor, mozesz posiasc graczy, gdy inni nie znajduja sie w Zasiegu. Prowadz gracza jak najdalej od innych graczy w Zasiegu Skupienia. Po uplywie okreslonego czasu posiadania gracza, posiadany gracz zostanie zabity, o ile inni nie znajduja sie w Zasiegu Skupienia. Jesli napotkasz innego gracza w Zasiegu podczas prowadzenia gracza, gracz zostanie natychmiast uwolniony z Twoich rak.
 PuppeteerInfoLong:(Impostors):\nJako Puppeteer mozesz uzyc przycisku Kill, aby sterowac (pojedyncze klikniecie) lub zabic normalnie (podwojne klikniecie) gracza.\nCi, którymi sterujesz, zabija nastepnego nie-Impostora, którego dotkna. W zaleznosci od ustawien, cele sterowania rowniez zgina, gdy zabija.
-MastermindInfoLong:(Impostors):\nJako Mastermind, mozesz uzyc swojego przycisku Kill na graczu raz, aby go manipulować. Manipulacja nie ma żadnego efektu, jeśli cel nie ma przycisku Kill. Ale jeśli cel ma przycisk Kill, osoba, którą manipulujesz, zostanie powiadomiona po pewnym opóźnieniu, że została zmanipulowana i musi zabić kogoś w ograniczonym czasie, aby przeżyć. Jeśli czas upłynie lub spotkanie zostanie wywołane przed zabiciem kogoś, ta osoba umrze.\nKliknij dwukrotnie na kogoś, aby zabić go normalnie.
+MastermindInfoLong:(Impostors):\nJako Mastermind, mozesz uzyc swojego przycisku Kill na graczu raz, aby go manipulowac. Manipulacja nie ma zadnego efektu, jesli cel nie ma przycisku Kill. Ale jesli cel ma przycisk Kill, osoba, która manipulujesz, zostanie powiadomiona po pewnym opóznieniu, ze zostala zmanipulowana i musi zabic kogos w ograniczonym czasie, aby przezyc. Jesli czas uplynie lub spotkanie zostanie wywolane przed zabiciem kogos, ta osoba umrze.\nKliknij dwukrotnie na kogos, aby zabic go normalnie.
 YinYangerInfoLong:(Impostors):\nJako YinYanger, mozesz uzyc swojego przycisku Kill raz, aby wybrac swojego Yin, a nastepnie drugi raz, aby wybrac swojego Yang. Gdy te dwie osoby sie spotkaja, zabija sie nawzajem. Gdy Yin i Yang zostana wybrani, mozesz zabijac normalnie.
 TimeThiefInfoLong:(Impostors):\nZa kazdym razem, gdy Time Thief zabija gracza, czas spotkania zostanie zmniejszony o okreslony czas. Jesli Time Thief zginie, czas spotkania wroci do normy.
 SniperInfoLong:(Impostors):\nMozesz strzelac do graczy z daleka.\nMusisz uzyc Shapeshift dwa razy, aby wykonac skuteczne trafienie.\nWyobraz sobie strzalke prowadzaca od pierwszej lokalizacji Shapeshift do miejsca Unshift.\nTo bedzie kierunek, w ktorym zostanie oddany strzal.\nStrzal zabija pierwsza osobe na swojej drodze.\nNie mozesz zabijac normalnie, dopoki nie zuzyjesz calej amunicji.
 UndertakerInfoLong:(Impostors):\nZa kazdym razem gdy uzywasz Shapeshift, oznaczasz lokalizacje.\nTwoje ciala beda nastepnie teleportowane do oznaczonego miejsca.\nPo kazdym zabojstwie i spotkaniu oznaczona lokalizacja zostanie zresetowana.\n\nPo kazdym teleportowanym zabojstwie zostaniesz zamrozony na konfigurowalny czas.
-RiftMakerInfoLong:(Impostors):\nJako Rift Maker, mozesz uzyc Shapeshift, aby stworzyc rysę. Mozesz teleportować się z jednej rysy do drugiej, dotykając miejsca, w którym rysa została stworzona. Próba użycia Venta wyrzuci cię, niszcząc wszystkie rysy.\n\nUwaga: Maksymalnie dwie rysy mogą być umieszczone w tym samym czasie; jeśli spróbujesz umieścić trzecią, usunie ona pierwszą. Tworzysz sobie takie wlasne wenty.
-EvilTrackerInfoLong:(Impostors):\nEvil Tracker moze sledzic innych graczy. Uzywajac Shapeshift, aby przemienic sie w kogoś i zmienić cel śledzenia na cel wybrany Shapeshiftem (natychmiast wrócisz do swojej pierwotnej formy po wykonaniu Shapeshift). Strzałka poniżej imienia Evil Trackera wskazuje kierunek celu. Gdy sojusznik Evil Trackera zabije, Evil Tracker zobaczy błysk smierci, alert, jak przy Noise.
+RiftMakerInfoLong:(Impostors):\nJako Rift Maker, mozesz uzyc Shapeshift, aby stworzyc ryse. Mozesz teleportowac sie z jednej rysy do drugiej, dotykajac miejsca, w którym rysa zostala stworzona. Próba uzycia Venta wyrzuci cie, niszczac wszystkie rysy.\n\nUwaga: Maksymalnie dwie rysy moga byc umieszczone w tym samym czasie; jesli spróbujesz umiescic trzecia, usunie ona pierwsza. Tworzysz sobie takie wlasne wenty.
+EvilTrackerInfoLong:(Impostors):\nEvil Tracker moze sledzic innych graczy. Uzywajac Shapeshift, aby przemienic sie w kogos i zmienic cel sledzenia na cel wybrany Shapeshiftem (natychmiast wrócisz do swojej pierwotnej formy po wykonaniu Shapeshift). Strzalka ponizej imienia Evil Trackera wskazuje kierunek celu. Gdy sojusznik Evil Trackera zabije, Evil Tracker zobaczy blysk smierci, alert, jak przy Noise.
 EvilHackerInfoLong:(Impostors):\nEvil Hacker moze uzyskac informacje typu panel adminowski na ostatnia chwile na poczatku spotkania.\nPokoje, w których nikt nie przebywa, nie sa wyswietlane.\nSymbol '★' oznacza pokoje z Impostorami.\nPokoje z martwymi cialami sa oznaczone liczba cial.\nPrzyklad: ★Cafeteria: 3 (DEAD×1).
 EvilGuesserInfoLong:(Impostors):\nEvil Guesser moze zgadnac role wybranego gracza podczas spotkania.\nJesli zgadnie poprawnie, cel umiera.\nJesli sie pomyli, umiera Evil Guesser.\nKomenda zgadywania: /bt [id gracza] [rola]\nMozesz zobaczyc id gracza przed jego imieniem albo uzyc komendy /id, aby zobaczyc id wszystkich graczy.
-AntiAdminerInfoLong:(Impostors):\nAnti Adminer moze w kazdym momencie dowiedziec sie, czy w pobliżu Kamer, Panelu Sylwusia, Vitalsow, DoorLogu melonowo-junowego lub innych urządzeń znajdują się Crewmates lub Neutrals. Uwaga: Anti Adminer nie wie, czy gracz korzysta z urządzenia, gdy jest w jego pobliżu. Wie tylko, że ktoś znajduje się w pobliżu urządzenia.
+AntiAdminerInfoLong:(Impostors):\nAnti Adminer moze w kazdym momencie dowiedziec sie, czy w poblizu Kamer, Panelu Sylwusia, Vitalsow, DoorLogu melonowo-junowego lub innych urzadzen znajduja sie Crewmates lub Neutrals. Uwaga: Anti Adminer nie wie, czy gracz korzysta z urzadzenia, gdy jest w jego poblizu. Wie tylko, ze ktos znajduje sie w poblizu urzadzenia.
 ArroganceInfoLong:(Impostors):\nArrogance zmniejsza swoj Kill Cooldown przy kazdym udanym zabójstwie.
 BomberInfoLong:(Impostors):\nBomber moze uzyc przycisku Shapeshift, aby samemu sie wysadzic, zabijajac graczy w okreslonym zasiegu.\nJednak jako cene Bomber rowniez zginie.\nUwaga: Wszyscy gracze zobacza alert, blysk smierci, gdy Bomber wybuchnie.
 ScavengerInfoLong:(Impostors):\nZabojstwa Scavengera nie zostawiaja cial.\nDodatkowo, jesli ofiara to Bait, nie zrobi selfa.
 TrapsterInfoLong:(Impostors):\nTrapster ma unikalna metode zabijania.\nPoprzez zainicjowanie zgloszenia ciala, Trapster moze wyeliminowac gracza, ktory sprobuje zglosic cialo zabite przez Trapstera.\nUwaga: Jesli Trapster zabije Baita, natychmiast zginie.
-GangsterInfoLong:(Impostors):\nGangster, potężna postać, może spróbować zrekrutować gracza do Madmate'a, naciskając przycisk Kill. Jeśli rekrutacja się powiedzie, zarówno Gangster, jak i cel zobaczą animację tarczy na sobie nawzajem jako przypomnienie (widoczne tylko dla siebie). Pozostała liczba dostępnych rekrutów jest wyświetlana obok imienia Gangstera (maksymalną liczbę ustawia Host). Jeśli Gangster spróbuje zrekrutować graczy, którzy nie mogą być zrekrutowani, takich jak Neutrals lub niektóre specjalne Crewmates, zabije cel normalnie. Gdy Gangster nie ma już dostępnych rekrutów, od tego momentu może dokonywać tylko normalnych zabójstw.
+GangsterInfoLong:(Impostors):\nGangster, potezna postac, moze spróbowac zrekrutowac gracza do Madmate'a, naciskajac przycisk Kill. Jesli rekrutacja sie powiedzie, zarówno Gangster, jak i cel zobacza animacje tarczy na sobie nawzajem jako przypomnienie (widoczne tylko dla siebie). Pozostala liczba dostepnych rekrutów jest wyswietlana obok imienia Gangstera (maksymalna liczbe ustawia Host). Jesli Gangster spróbuje zrekrutowac graczy, którzy nie moga byc zrekrutowani, takich jak Neutrals lub niektóre specjalne Crewmates, zabije cel normalnie. Gdy Gangster nie ma juz dostepnych rekrutów, od tego momentu moze dokonywac tylko normalnych zabójstw.
 CleanerInfoLong:(Impostors):\nCleaner moze nacisnac przycisk Report, aby posprzatac martwe cialo, na jakie natrafi (w tym te, które zabije). Jesli czyszczenie zakonczy sie sukcesem, Cleaner zobaczy animacje tarczy na swoim ciele jako przypomnienie (widoczna tylko dla niego). Oczyszczone cialo nie moze zostac zgloszone (w tym Bait).
-LightningInfoLong:(Impostors):\nJako Lightning, nie mozesz zabijac normalnie. Zamiast tego, przycisk Kill kwantuje cele, co aktywuje się po opóźnieniu, powodując, że nastepna osoba, którą napotkają, zabije ich. Osoby aktywnie kwantowane mają「■」obok swojego imienia. Dodatkowo, osoby, które zostały skwantowane, umierają, jeśli przeżyją do końca spotkania. Istnieje ustawienie, które pozwala kwantować twojego mordercę.
-GreedyInfoLong:(Impostors):\\nGreedy zabija z różnymi Kill Cooldown dla zabójstw parzystych i nieparzystych. Kill Cooldown Greedy jest resetowany po każdym spotkaniu, a pierwsze zabójstwo Greedy jest zawsze nieparzyste.
+LightningInfoLong:(Impostors):\nJako Lightning, nie mozesz zabijac normalnie. Zamiast tego, przycisk Kill kwantuje cele, co aktywuje sie po opóznieniu, powodujac, ze nastepna osoba, która napotkaja, zabije ich. Osoby aktywnie kwantowane maja「■」obok swojego imienia. Dodatkowo, osoby, które zostaly skwantowane, umieraja, jesli przezyja do konca spotkania. Istnieje ustawienie, które pozwala kwantowac twojego morderce.
+GreedyInfoLong:(Impostors):\\nGreedy zabija z róznymi Kill Cooldown dla zabójstw parzystych i nieparzystych. Kill Cooldown Greedy jest resetowany po kazdym spotkaniu, a pierwsze zabójstwo Greedy jest zawsze nieparzyste.
 CursedWolfInfoLong:(Impostors):\nGdy Cursed Wolf ma byc zabity, Cursed Wolf przeklina morderce na smierc.\n(Host ustala maksymalna liczbe razy, kiedy mozesz odpowiedziec kontratakiem).
-SoulCatcherInfoLong:(Impostors):\nJako Soul Catcher, mozesz uzyc przycisku ShapeShift, aby zamienic sie miejscami z osoba, w ktora shiftujesz, o ile nie jest ona martwa, w Vencie, połknięta przez Pelicana lub w podobnym dziwnym stanie.
-QuickShooterInfoLong:(Impostors):\nGdy Kill Cooldown minie, QuickShooter moze uzyc przycisku ShapeShift, aby przechować kulkę.\nPo udanym zabójstwie, jeśli QuickShooter ma jeszcze kulki, natychmiast zużyje jedną kulkę, aby zresetować Kill Cooldown do zera.\nW zależności od ustawień Hosta, umiejętność QuickShootera może być ograniczona przez cooldown ShapeShift.
+SoulCatcherInfoLong:(Impostors):\nJako Soul Catcher, mozesz uzyc przycisku ShapeShift, aby zamienic sie miejscami z osoba, w ktora shiftujesz, o ile nie jest ona martwa, w Vencie, polknieta przez Pelicana lub w podobnym dziwnym stanie.
+QuickShooterInfoLong:(Impostors):\nGdy Kill Cooldown minie, QuickShooter moze uzyc przycisku ShapeShift, aby przechowac kulke.\nPo udanym zabójstwie, jesli QuickShooter ma jeszcze kulki, natychmiast zuzyje jedna kulke, aby zresetowac Kill Cooldown do zera.\nW zaleznosci od ustawien Hosta, umiejetnosc QuickShootera moze byc ograniczona przez cooldown ShapeShift.
 CamouflagerInfoLong:(Impostors):\nGdy Camouflager uzywa Shapeshift, wszyscy gracze zaczynaja wygladac tak samo.\nTen stan konczy sie, gdy Camouflager przywraca swoja forme.\nWazne jest, aby zauwazyc, ze umiejetnosci takie jak Communication Sabotage Camouflage oraz umiejetnosci Camouflagera moga byc nakladane na siebie.\nTa umiejetnosc bedzie niewazna, jesli spotkanie zostanie wywolane podczas aktywacji umiejetnosci Camouflagera.
 EraserInfoLong:(Impostors):\nEraser moze glosowac na dowolny cel podczas spotkania, aby wymazac role tego celu, a wymazanie wejdzie w zycie po zakonczeniu spotkania.\nUwaga: Gracze z wymazanymi umiejetnosciami beda zawsze uwazani za role vanilla, w tym na stronie wyniku gry.\nCel moze zostac wymazany tylko raz (w tym OIIAI).
 ButcherInfoLong:(Impostors):\nZabojstwa Butchera, w tym pasywne, zostawiaja na celach kilka cial, co moze byc mylace przy zglaszaniu.\nOto zasada: zabity cel musi wielokrotnie wyswietlac animacje smierci, ktorej nie mozna pominac, i nie moze normalnie uczestniczyc w spotkaniu w tym czasie.\nJesli Butcher zabije Avengera, Avenger zemsci sie na wszystkich w gniewie.
 HangmanInfoLong:(Impostors):\nJako Hangman, podczas Shapeshiftingu uzywasz unikalnej metody zabijania – duszenia.\nTa metoda ignoruje wszelkie statusy celu, takie jak tarcza Medyka, ochrona Bodyguarda, umiejetnosci Super Stara itp.\nGracz uduszony nie zostawi po sobie ciala, ani nie uruchomi zadnej ze swoich umiejetnosci. Na przyklad, Veteran nie zareaguje (w tym dodatkowe role), a Seer nie zostanie powiadomiony.
 SwooperInfoLong:(Impostors):\nJako Swooper mozesz uzyc Ventow, aby tymczasowo zniknac. Nadal bedziesz widoczny na swoim ekranie. Uzyj Ventow ponownie, aby stac sie widocznym.
-CrewpostorInfoLong:(Team Impostor):\nZabijasz najbliższego gracza za każdym razem, gdy ukończysz zadanie.
-WildlingInfoLong:(Impostors):\nJako Wildling, mozesz uzyc Shapeshift, ale nie mozesz uzywac Ventow.\nGdy zabijasz, na chwilę stajesz się odporny na ataki.
-TricksterInfoLong:(Impostors):\nJako Trickster, działasz jak zwykły Impostor, ale z jedną kluczową różnicą.\nWydajesz się być Crewmate'em dla ról Crewmate.\n\nSheriff nie może cię zabić.\nPsychic nie widzi cię jako zło.\nSnitch nie może cię znaleźć.
-VindicatorInfoLong:(Impostors):\nJako Vindicator, masz dodatkowe głosy, podobnie jak <color=#204d42>Mayor</color>.
-StealthInfoLong:(Impostors):\nGdy Stealth zabija, gracze w tym samym pokoju zostają oślepieni na krótki czas.
-PenguinInfoLong:(Impostors):\nJako Penguin, mozesz unieruchomic cel naciskajac przycisk Kill i ciagnac go za soba.\nPodczas ciagniecia, cel umiera po ponownym naciśnięciu przycisku Kill lub po określonym czasie.\nNaciśnij przycisk Kill dwa razy, aby dokonać bezpośredniego zabójstwa.
-ParasiteInfoLong:(Madmates):\nJako Parasite, jestes Impostorem, który nie zna innych Impostorów.\n\nMozesz zabijac, uzywac Wentow, sabotowac, cokolwiek.\nPo prostu wiedz, że jestes Impostorem.
+CrewpostorInfoLong:(Team Impostor):\nZabijasz najblizszego gracza za kazdym razem, gdy ukonczysz zadanie.
+WildlingInfoLong:(Impostors):\nJako Wildling, mozesz uzyc Shapeshift, ale nie mozesz uzywac Ventow.\nGdy zabijasz, na chwile stajesz sie odporny na ataki.
+TricksterInfoLong:(Impostors):\nJako Trickster, dzialasz jak zwykly Impostor, ale z jedna kluczowa róznica.\nWydajesz sie byc Crewmate'em dla ról Crewmate.\n\nSheriff nie moze cie zabic.\nPsychic nie widzi cie jako zlo.\nSnitch nie moze cie znalezc.
+VindicatorInfoLong:(Impostors):\nJako Vindicator, masz dodatkowe glosy, podobnie jak <color=#204d42>Mayor</color>.
+StealthInfoLong:(Impostors):\nGdy Stealth zabija, gracze w tym samym pokoju zostaja oslepieni na krótki czas.
+PenguinInfoLong:(Impostors):\nJako Penguin, mozesz unieruchomic cel naciskajac przycisk Kill i ciagnac go za soba.\nPodczas ciagniecia, cel umiera po ponownym nacisnieciu przycisku Kill lub po okreslonym czasie.\nNacisnij przycisk Kill dwa razy, aby dokonac bezposredniego zabójstwa.
+ParasiteInfoLong:(Madmates):\nJako Parasite, jestes Impostorem, który nie zna innych Impostorów.\n\nMozesz zabijac, uzywac Wentow, sabotowac, cokolwiek.\nPo prostu wiedz, ze jestes Impostorem.
 DisperserInfoLong:(Impostors):\nDisperser moze uzyc przycisku Shapeshift, aby teleportowac wszystkich graczy do losowych Ventow.
 InhibitorInfoLong:(Impostors):\nJako Inhibitor, mozesz zabijac tylko, gdy nie ma aktywnego Sabotazu Krytycznego(chyba o reaktor i o2 chodzi).\n\nJesli Sabotaz Swiatla lub Commsow jest aktywny, wtedy mozesz zabijac.
 SaboteurInfoLong:(Impostors):\nJako Saboteur, mozesz zabijac tylko, gdy jest aktywny Sabotaz Krytyczny(o2 i reaktor).\n\nJesli Sabotaz Reaktora lub O2 jest aktywny, wtedy mozesz zabijac. Swiatel i commsow to nie dotyczy.
 CouncillorInfoLong:(Impostors):\nJako Councillor mozesz zabijac graczy podczas spotkania, jak Judge.\nGdy zabijasz podczas spotkania, te zabojstwa beda wygladac jak proces sadowy od Judge.\n\nKomenda zabojstwa: /tl [id gracza]\nMozesz zobaczyc id gracza przed jego imieniem, albo uzyc komendy /id, aby zobaczyc id wszystkich graczy.\nW zaleznosci od ustawien, Councillor popelni samobojstwo, gdy osadzi swoich sojusznikow.\nPrzeksztalcony Councillor moze bez przeszkod osadzac.
-DazzlerInfoLong:(Impostors):\nJako Dazzler, mozesz na zawsze zmniejszyc pole widzenia celu, w ktorego Zshiftujesz.\nGdy zginiesz, ich pole widzenia wróci do normalności.
-DeathpactInfoLong:(Impostors):\nJako Deathpact, uzywasz Shapeshift, aby oznaczyc graczy do paktu smierci.\nJesli masz wystarczajaca liczbe graczy oznaczonych do paktu smierci, musza spotkac się w okreslonym czasie; jesli tego nie zrobia, umieraja.\nJesli oznaczony gracz zginie przed tym, jak pakt smierci zostanie zakonczony, pakt zostaje uniewazniony.
+DazzlerInfoLong:(Impostors):\nJako Dazzler, mozesz na zawsze zmniejszyc pole widzenia celu, w ktorego Zshiftujesz.\nGdy zginiesz, ich pole widzenia wróci do normalnosci.
+DeathpactInfoLong:(Impostors):\nJako Deathpact, uzywasz Shapeshift, aby oznaczyc graczy do paktu smierci.\nJesli masz wystarczajaca liczbe graczy oznaczonych do paktu smierci, musza spotkac sie w okreslonym czasie; jesli tego nie zrobia, umieraja.\nJesli oznaczony gracz zginie przed tym, jak pakt smierci zostanie zakonczony, pakt zostaje uniewazniony.
 DevourerInfoLong:(Impostors):\nJako Devourer uzywasz Shapeshift, aby trwale zmienic wyglad osoby, w ktora sie przebierzesz.\nDodatkowo, gdy wyglad kazdego gracza sie zmienia, twoj Kill Cooldown zostanie zmniejszony o okreslona liczbe sekund.\nJesli Devourer zginie lub zostanie wyrzucony podczas spotkania, wyglad gracza wroci do normalnego wygladu.
 MorphlingInfoLong:(Impostors):\nJako Morphling jestes Shapeshifterem, ale nie mozesz zabijac, gdy nie jestes w formie Shapeshift.
-TwisterInfoLong:(Impostors):\nJako Twister, mozesz uzyc Shapeshifting, aby losowo zamienic miejsca wszystkich graczy. Zamiana odbywa się dwa razy, raz, gdy rozpoczniesz Shapeshift, i raz, gdy wrócisz do swojej pierwotnej formy.\nTwister sam nie zamieni miejsc z nikim, a gracze w ventach nie zostaną teleportowani.
+TwisterInfoLong:(Impostors):\nJako Twister, mozesz uzyc Shapeshifting, aby losowo zamienic miejsca wszystkich graczy. Zamiana odbywa sie dwa razy, raz, gdy rozpoczniesz Shapeshift, i raz, gdy wrócisz do swojej pierwotnej formy.\nTwister sam nie zamieni miejsc z nikim, a gracze w ventach nie zostana teleportowani.
 LurkerInfoLong:(Impostors):\nJako Lurker mozesz wskoczyc do Venta, aby zmniejszyc swoj Cooldown o okreslona liczbe sekund.\nPo zabojstwie twój Cooldown zostaje zresetowany do swojej poczatkowej wartosci.
 VisionaryInfoLong:(Impostors):\nJako Visionary widzisz przynaleznosci zywych graczy podczas spotkania.\nNastepujace informacje beda wyswietlane przy imionach graczy:\n- Czerwone imie oznacza Impostorow.\n- Niebieskie imie oznacza Crewmates.\n- Szare imie oznacza Neutralnych.
 PlagueDoctorInfoLong:(Neutrals):\n(Plague Doctor z TOH)\nCelem Plague Scientist jest zainfekowanie kazdego zywego gracza.\nZaczynaja od wybrania jednego gracza do zainfekowania, po czym kazdy, kto spedza okreslony czas w zasiegu zainfekowanego gracza, sam staje sie zainfekowany.\nPostep infekcji jest kumulatywny i nie resetuje sie z odlegloscia ani po spotkaniach.
-RefugeeInfoLong:(Madmates):\nJako Refugee, bylales jednym z nastepujacych:\n - Amnesiac, który zapamiętał Impostora\n - Zabójcą, który zabił cel Godfather'a\n - Romantykiem, którego partnerem był Impostor\n - Lub Imitatorem, który naśladował Impostora\n\nTeraz twoje zadanie to pomóc Impostorom zabić Crewmates.
+RefugeeInfoLong:(Madmates):\nJako Refugee, bylales jednym z nastepujacych:\n - Amnesiac, który zapamietal Impostora\n - Zabójca, który zabil cel Godfather'a\n - Romantykiem, którego partnerem byl Impostor\n - Lub Imitatorem, który nasladowal Impostora\n\nTeraz twoje zadanie to pomóc Impostorom zabic Crewmates.
 UnderdogInfoLong:(Impostors):\nJako Underdog, nie mozesz zabijac, dopoki nie bedzie wystarczajacej liczby graczy zywych.
 ConsigliereInfoLong:(Impostors):\nJako Consigliere mozesz ujawnic role innych graczy uzywajac swojego przycisku Kill.\n\nPojedyncze klikniecie: Ujawnij role\nPodwojne klikniecie: Zabij\n\nJesli wyczerpiesz uzycia ujawniania, twoj przycisk Kill dziala normalnie.
-LudopathInfoLong:(Impostors):\nJako Ludopath, twój Kill Cooldown jest losowy.\n\nMinimalny czas to 1 sekunda, a maksymalny to twój domyślny Kill Cooldown.
+LudopathInfoLong:(Impostors):\nJako Ludopath, twój Kill Cooldown jest losowy.\n\nMinimalny czas to 1 sekunda, a maksymalny to twój domyslny Kill Cooldown.
 GodfatherInfoLong:(Impostors):\nJako Godfather, glosujesz na kogos, aby uczynic go swoim celem.\nW nastepnej rundzie, jesli ktos zabije cel, jego morderca zamieni sie w Refugee lub Madmate.
 ChronomancerInfoLong:(Impostors):\nJako Chronomancer masz pasek energii, który wskazuje, kiedy tryb rzezi jest gotowy.\nGdy osiagnie 100%, przy nastepnym zabójstwie wchodzisz w tryb rzezi, co oznacza, ze mozesz zabijac bez konca, dopóki pasek energii sie nie wyczerpie.\nW przeciwnym razie masz normalny KCD (Cooldown zabójstwa).
-PitfallInfoLong:(Impostors):\nJako Pitfall, uzywasz Shapeshift, aby oznaczyc obszar wokół Shapeshift jako pułapkę. Gracze, którzy wejdą w ten obszar, zostaną szybko unieruchomieni, a ich wizja zostanie zaburzona.
-EvilMiniInfoLong:(Impostors):\nJako Evil Mini, jesteś niezabijalny, dopóki nie dorosniesz, i masz bardzo długi początkowy Kill Cooldown, który znacząco skraca się, gdy dorastasz.
-BlackmailerInfoLong:(Impostors):\nJako Blackmailer, kiedy Zshiftujesz w gracza, zaszantazujesz go. Oznacza to, że podczas spotkań nie będą mogli się wypowiadać.\n\nUwaga: Jeśli ktoś już jest szantażowany, szantażowanie innej osoby sprawi, że obecna osoba przestanie być szantażowana.
+PitfallInfoLong:(Impostors):\nJako Pitfall, uzywasz Shapeshift, aby oznaczyc obszar wokól Shapeshift jako pulapke. Gracze, którzy wejda w ten obszar, zostana szybko unieruchomieni, a ich wizja zostanie zaburzona.
+EvilMiniInfoLong:(Impostors):\nJako Evil Mini, jestes niezabijalny, dopóki nie dorosniesz, i masz bardzo dlugi poczatkowy Kill Cooldown, który znaczaco skraca sie, gdy dorastasz.
+BlackmailerInfoLong:(Impostors):\nJako Blackmailer, kiedy Zshiftujesz w gracza, zaszantazujesz go. Oznacza to, ze podczas spotkan nie beda mogli sie wypowiadac.\n\nUwaga: Jesli ktos juz jest szantazowany, szantazowanie innej osoby sprawi, ze obecna osoba przestanie byc szantazowana.
 InstigatorInfoLong:(Impostors):\nJako Instigator twoim zadaniem jest obracanie Crewmates przeciwko sobie.\nZa kazdym razem, gdy Crewmate zostanie wyrzucony w glosowaniu, jesli jestes zywy, dodatkowy Crewmate, ktory glosowal na niewinna osobe, zginie po spotkaniu.\nLiczba dodatkowych graczy, którzy umieraja, jest ustalana przez Hosta.
 LazyGuyInfoLong:(Crewmates):\nLazy Guy has only one task. In addition, the Impostor's abilities can't affect the Lazy Guy, such as being a scapegoat for Anonymous, being marked by a Warlock or Puppeteer, and more. Lazy Guy will not have any Add-ons.
 SuperStarInfoLong:(Crewmates):\nThere will be a star logo next to the Super Star's name, so everyone knows who the Super Star is. The Super Star can only die when the murderer is alone with the Super Star (regular kills only). In addition, the Guessers can't guess the Super Star. 
@@ -841,7 +841,7 @@ KnightInfoLong:(Crewmates):\nKnight nie ma zadan. Moze zabic kogos, ale tylko ra
 TransporterInfoLong:(Crewmates):\nZa kazdym razem, gdy Transporter wykona zadanie, dwoch losowych graczy zamieni sie miejscami, ale jesli nie bedzie wystarczajaco graczy, nic sie nie stanie.\nUwaga: Gracze w Vencie nie beda wybrani.
 TimeManagerInfoLong:(Crewmates):\nThe more tasks the Time Manager does, the longer the meeting time will be. When the Time Manager dies, the meeting time will return to normal. When the Time Manager becomes a Madmate, the skill changes to reducing the meeting time instead of increasing it.
 VeteranInfoLong:(Crewmates):\n\nJako Veteran mozesz wejsc w stan czujnosci przez uzycie Ventu.\nJesli gracz sprobuje zabic Vetarana w stanie czujnosci, Veteran zabije morderce zamiast tego.\nVeteran zobaczy animacje tarczy na swoim ciele oraz tekst nad glowa jako przypomnienie przy wejsciu i wyjsciu ze stanu czujnosci.
-BastionInfoLong:(Crewmates):\nJako Bastion, zaminuj Venty, aby zabic Impostorow i Neutrali.\nUwarzaj jednak; Czlonkowie Zalogi rowniez moga zostac zabici przez bomby.
+BastionInfoLong:(Crewmates):\nJako Bastion, zaminuj Venty, aby zabic Impostorow i Neutrali.\nUwazaj jednak, Czlonkowie Zalogi rowniez moga zostac zabici przez bomby.
 CopyCatInfoLong:(Crewmate):\nJako Copycat, uzywaj przycisku Kill aby skopiowac role wybranego gracza.\n\nMozesz skopiowac tylko niektore role Crewmate'ow\nJesli sprobujesz skopiowac role Madmate'a albo Rascala, zostaniesz Madmate'owa (Zla) wersja roli tego gracza.\nJesli wybierzesz zlego gracza, ale z Crewmate'owym wariantem roli, otrzymasz Crewmate'owa wersje roli.\n\nDodatkowo, po kazdym meetingu Twoja rola wroci do Copycata.\nNote Nie mozesz odgadywac ludzi na spotkaniu.
 BodyguardInfoLong:(Crewmates):\nJesli gracz ma byc zabity w poblizu Bodyguarda, Bodyguard zapobiegnie zabojstwu i zginie razem z morderca.\nUmiejetnosci Bodyguarda beda wplywac na graczy kazdej druzyny.\nGdy Bodyguard stanie sie Madmate'em, a morderca bedzie Impostorem, Bodyguard nie aktywuje umiejetnosci.
 DeceiverInfoLong:(Crewmates):\nDeceiver moze sprzedac falsyfikat innym graczom przez przycisk Kill.\nJesli falsyfikat zostanie sprzedany pomyslnie, Deceiver zobaczy animacje tarczy na swoim ciele jako przypomnienie.\nFalsyfikat wejdzie w zycie po zakonczeniu nastepnego spotkania.\nJesli gracz bez umiejetnosci zabijania posiada falsyfikat, natychmiast popelni samobojstwo.\nJesli gracz z umiejetnoscia zabijania posiada falsyfikat, popelni samobojstwo, gdy sprobuje kogos zabic nastepnym razem.
